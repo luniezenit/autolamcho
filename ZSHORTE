@@ -1,0 +1,265 @@
+var stop1 = false;
+var stop2 = false;
+var stop3 = false;
+var stop4 = false;
+var stop5 = false;
+var stop6 = false;
+var stop7 = false;
+var stop8 = false;
+(function() {
+    setInterval(function(){
+        try{if(window.location.href == "https://movieshd4.xyz/books-of-blood/" && stop1 == false){
+            var bienso = Math.floor(Math.random() * 30);
+            console.log(bienso)
+            stop1 = true;
+        }}catch(e){}
+        try{if(bienso == 0 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/tyler-perrys-a-madea-homecoming/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 1 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/restless/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 2 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/family-squares/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 3 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/the-desperate-riders/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 4 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/big-gold-brick/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 5 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/no-exit/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 6 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/mind-talker/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 7 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/collection/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 8 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/naked-singularity/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 9 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/dating-new-york/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 10 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/catch-the-bullet/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 11 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/the-voyeurs/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 12 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/martyrs-lane/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 13 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/licorice-pizza/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 14 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/a-fairy-tale-after-all/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 15 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/they-live-in-the-grey/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 16 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/seize-the-night/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 17 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/those-who-walk-away/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 18 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/the-in-between/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 19 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/texas-chainsaw-massacre/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 20 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/doctor-strange-in-the-multiverse-of-madness/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 21 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/crawlspace/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 22 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/the-wrath-of-god/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 23 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/heart-parade/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 24 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/centaur/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 25 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/special-delivery/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 26 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/1up/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 27 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/dangerous-liaisons/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 28 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/nude-tuesday/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 29 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/this-much-i-know-to-be-true/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/tyler-perrys-a-madea-homecoming/" && stop4 == false){
+            window.location.href = "https://m.imagenesderopaparaperros.com/gs90zuy"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/restless/" && stop4 == false){
+            window.location.href = "https://m.imagenesderopaparaperros.com/pxQ"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/family-squares/" && stop4 == false){
+            window.location.href = "https://m.imagenesderopaparaperros.com/sT9eJikM"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/the-desperate-riders/" && stop4 == false){
+            window.location.href = "https://m.imagenesderopaparaperros.com/PB9J"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/big-gold-brick/" && stop4 == false){
+            window.location.href = "https://m.imagenesderopaparaperros.com/QeXpfgNl"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/no-exit/" && stop4 == false){
+            window.location.href = "https://m.imagenesderopaparaperros.com/yirInMr"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/mind-talker/" && stop4 == false){
+            window.location.href = "https://m.imagenesderopaparaperros.com/wHJ44e"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/collection/" && stop4 == false){
+            window.location.href = "https://m.imagenesderopaparaperros.com/yRhhb"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/naked-singularity/" && stop4 == false){
+            window.location.href = "https://m.imagenesderopaparaperros.com/1Tvyc"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/dating-new-york/" && stop4 == false){
+            window.location.href = "https://m.imagenesderopaparaperros.com/MBHeD74S"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/catch-the-bullet/" && stop4 == false){
+            window.location.href = "https://m.imagenesderopaparaperros.com/p3yTu2p"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/the-voyeurs/" && stop4 == false){
+            window.location.href = "https://m.imagenesderopaparaperros.com/d8H74L"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/martyrs-lane/" && stop4 == false){
+            window.location.href = "https://m.imagenesderopaparaperros.com/XNX9PL"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/licorice-pizza/" && stop4 == false){
+            window.location.href = "https://m.imagenesderopaparaperros.com/nnGOM"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/a-fairy-tale-after-all/" && stop4 == false){
+            window.location.href = "https://m.imagenesderopaparaperros.com/AoMUF"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/they-live-in-the-grey/" && stop4 == false){
+            window.location.href = "https://m.imagenesderopaparaperros.com/OJyZ"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/seize-the-night/" && stop4 == false){
+            window.location.href = "https://m.imagenesderopaparaperros.com/Hb21"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/those-who-walk-away/" && stop4 == false){
+            window.location.href = "https://m.imagenesderopaparaperros.com/zGJBvqlx"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/the-in-between/" && stop4 == false){
+            window.location.href = "https://m.imagenesderopaparaperros.com/Gu9h"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/texas-chainsaw-massacre/" && stop4 == false){
+            window.location.href = "https://m.imagenesderopaparaperros.com/wRFS6"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/doctor-strange-in-the-multiverse-of-madness/" && stop4 == false){
+            window.location.href = "https://m.imagenesderopaparaperros.com/0JbgB"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/crawlspace/" && stop4 == false){
+            window.location.href = "https://m.imagenesderopaparaperros.com/qPv"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/the-wrath-of-god/" && stop4 == false){
+            window.location.href = "https://m.imagenesderopaparaperros.com/UDbL7"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/heart-parade/" && stop4 == false){
+            window.location.href = "https://m.imagenesderopaparaperros.com/G4jXvx"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/centaur/" && stop4 == false){
+            window.location.href = "https://m.imagenesderopaparaperros.com/GjnZcMb7"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/special-delivery/" && stop4 == false){
+            window.location.href = "https://m.imagenesderopaparaperros.com/2RlGrh0l"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/1up/" && stop4 == false){
+            window.location.href = "https://m.imagenesderopaparaperros.com/OmhO9KB"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/dangerous-liaisons/" && stop4 == false){
+            window.location.href = "https://m.imagenesderopaparaperros.com/hoTufBO3"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/nude-tuesday/" && stop4 == false){
+            window.location.href = "https://m.imagenesderopaparaperros.com/f2KYBV"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/this-much-i-know-to-be-true/" && stop4 == false){
+            window.location.href = "https://m.imagenesderopaparaperros.com/U72kLhfj"
+            stop4 = true;
+        }}catch(e){}
+        try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop2 == false){
+            setTimeout(function(){document.getElementsByClassName("btn btn-primary btn-captcha")[0].click();},3000)
+            stop2 = true;
+        }}catch(e){}
+        try{if(document.getElementsByClassName("btn btn-primary btn-block get-link")[0].innerText == "Get Link" && stop3 == false){
+            setTimeout(function(){document.getElementsByClassName("btn btn-primary btn-block get-link")[0].click();},3000)
+            stop3 = true;
+        }}catch(e){}
+    },6000)
+})();
