@@ -1,0 +1,185 @@
+var stop1 = false;
+var stop2 = false;
+var stop3 = false;
+var stop4 = false;
+var stop5 = false;
+var stop6 = false;
+var stop7 = false;
+var stop8 = false;
+(function() {
+    setInterval(function(){
+        try{if(window.location.href == "https://movieshd4.xyz/malwarebytes/" && stop1 == false){
+            var bienso = Math.floor(Math.random() * 20);
+            console.log(bienso)
+            stop1 = true;
+        }}catch(e){}
+        try{if(bienso == 0 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/1D8T41pHc5USHXdb8vqIFa0zUGnsD8ktP465u8OXXOgA"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 1 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/1lHZrmu6ORB3-PQzXL-mDVGFcqHU9VHOiiQ5Uf2ZBj_c"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 2 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/1y_qdJM0VpbZ2nZ0H6r879sIwiz3szrPxIDeP7pFB8yo"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 3 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/1HsrBmwbJDwZYrTdvXOGMuQfAH5RAKqwMMtP_OHDnRzo"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 4 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/1JYKZ5B_3cJJliB08hwI2rc6hvdCI024AMiaNiuEWdFQ"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 5 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/1srkG_Coc1PrSbcJ5hptPDu9uHLs33dasF0N4EXFcIfc"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 6 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/1biQmI1UtZPPDZxd3YbX4afdg8F7V9tcUZLWGRiW7ccs"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 7 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/16KQTHPOBDQTDhSW_YkhTyFXFSWNMJ0tU1yMrlXUNvKs"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 8 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/11insk2w6kiF0859d7dM_USzoO8zR_bcnqagwUE6QWCY"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 9 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/16FRnbLEdaGWp4URBYSMrWif0_A9FWDRG4vbKx3rRVEg"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 10 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/1_B7Dmw82rJ_Ef4O9B1g-BZRhVaMBIjm3najPJa3U1nY"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 11 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/11vAhNkfcxjtFaPEiNzJSquXfsNLvxbY5bsojv1gJzpY"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 12 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/1WWqCHDo_2g2DZbMveaSeoHR6suRYLkonSZpLJNNcVPc"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 13 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/1EDPPdjvnUTY3nvAk_1Ixg7FViFzkKzQG5g34c7i0v08"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 14 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/15T0T_Lhm16Xkn62y7IxDOT8dHzsIkwPrDviZ0iajYTE"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 15 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/1Hf-ddTjAViY67mBYQrM66PsMID718Hsq5MErmx1IZ_s"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 16 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/1b9mu55GhK7-DpbpKod2jyBDE_pSe5RVFCJtBLGp5ReM"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 17 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/1Y9RsEtIGp66A8iYcn7KcEFkiS5ZMqvPmnjJLS86HFkQ"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 18 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/1QSkzAzSorgaCc1mmFipASWE8oiSS7CFLX7vFiJvJ8Lk"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 19 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/1cC9cKDyAXcHMtJsPL5vPfKhRuwrO-rndXbaNIcYXA18"
+            stop2 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1D8T41pHc5USHXdb8vqIFa0zUGnsD8ktP465u8OXXOgA") && stop4 == false){
+            window.location.href = "https://usersdrive.com/mghk9flfx4fw.html"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1lHZrmu6ORB3-PQzXL-mDVGFcqHU9VHOiiQ5Uf2ZBj_c") && stop4 == false){
+            window.location.href = "https://usersdrive.com/xs2nyiw5x5g3.html"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1y_qdJM0VpbZ2nZ0H6r879sIwiz3szrPxIDeP7pFB8yo") && stop4 == false){
+            window.location.href = "https://usersdrive.com/9y9n7e6u8bcw.html"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1HsrBmwbJDwZYrTdvXOGMuQfAH5RAKqwMMtP_OHDnRzo") && stop4 == false){
+            window.location.href = "https://usersdrive.com/z1sm9i60dpnm.html"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1JYKZ5B_3cJJliB08hwI2rc6hvdCI024AMiaNiuEWdFQ") && stop4 == false){
+            window.location.href = "https://usersdrive.com/4kt64fmg11bf.html"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1srkG_Coc1PrSbcJ5hptPDu9uHLs33dasF0N4EXFcIfc") && stop4 == false){
+            window.location.href = "https://usersdrive.com/14kcmma8baa5.html"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1biQmI1UtZPPDZxd3YbX4afdg8F7V9tcUZLWGRiW7ccs") && stop4 == false){
+            window.location.href = "https://usersdrive.com/pwnfa6qlpwnq.html"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("16KQTHPOBDQTDhSW_YkhTyFXFSWNMJ0tU1yMrlXUNvKs") && stop4 == false){
+            window.location.href = "https://usersdrive.com/rlto79vdgzkb.html"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("11insk2w6kiF0859d7dM_USzoO8zR_bcnqagwUE6QWCY") && stop4 == false){
+            window.location.href = "https://usersdrive.com/qq2ejlp53y2g.html"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("16FRnbLEdaGWp4URBYSMrWif0_A9FWDRG4vbKx3rRVEg") && stop4 == false){
+            window.location.href = "https://usersdrive.com/gf81yv2tw7jc.html"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1_B7Dmw82rJ_Ef4O9B1g-BZRhVaMBIjm3najPJa3U1nY") && stop4 == false){
+            window.location.href = "https://usersdrive.com/vzuebk4c9wwm.html"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("11vAhNkfcxjtFaPEiNzJSquXfsNLvxbY5bsojv1gJzpY") && stop4 == false){
+            window.location.href = "https://usersdrive.com/8fga4ipyziff.html"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1WWqCHDo_2g2DZbMveaSeoHR6suRYLkonSZpLJNNcVPc") && stop4 == false){
+            window.location.href = "https://usersdrive.com/rlliuviff200.html"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1EDPPdjvnUTY3nvAk_1Ixg7FViFzkKzQG5g34c7i0v08") && stop4 == false){
+            window.location.href = "https://usersdrive.com/ugbci4ntr649.html"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("15T0T_Lhm16Xkn62y7IxDOT8dHzsIkwPrDviZ0iajYTE") && stop4 == false){
+            window.location.href = "https://usersdrive.com/90bxmnjs560o.html"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1Hf-ddTjAViY67mBYQrM66PsMID718Hsq5MErmx1IZ_s") && stop4 == false){
+            window.location.href = "https://usersdrive.com/g6orszrvadfd.html"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1b9mu55GhK7-DpbpKod2jyBDE_pSe5RVFCJtBLGp5ReM") && stop4 == false){
+            window.location.href = "https://usersdrive.com/3ws8z036vx4u.html"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1Y9RsEtIGp66A8iYcn7KcEFkiS5ZMqvPmnjJLS86HFkQ") && stop4 == false){
+            window.location.href = "https://usersdrive.com/l101xbra6d48.html"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1QSkzAzSorgaCc1mmFipASWE8oiSS7CFLX7vFiJvJ8Lk") && stop4 == false){
+            window.location.href = "https://usersdrive.com/yrmbjzqhh1oo.html"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1cC9cKDyAXcHMtJsPL5vPfKhRuwrO-rndXbaNIcYXA18") && stop4 == false){
+            window.location.href = "https://usersdrive.com/uou89g6vg6il.html"
+            stop4 = true;
+        }}catch(e){}
+        try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop1 == false && window.location.href.includes("usersdrive.com") && document.getElementsByClassName("seconds")[0].innerText == ""){
+            setTimeout(function(){document.getElementsByClassName("btn btn-download downloadbtn")[0].click();},3000);
+            stop1 = true;
+        }}catch(e){}
+        try{if(document.getElementsByClassName("btn btn-download")[0].innerText == "Click To Download " && stop2 == false && window.location.href.includes("usersdrive.com")){
+            setTimeout(function(){document.getElementsByClassName("btn btn-download")[0].click();},3000);
+            stop2 = true;
+        }}catch(e){}
+    },6000)
+})();
