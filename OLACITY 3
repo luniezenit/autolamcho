@@ -1,0 +1,245 @@
+var stop1 = false;
+var stop2 = false;
+var stop3 = false;
+var stop4 = false;
+var stop5 = false;
+var stop6 = false;
+var stop7 = false;
+var stop8 = false;
+(function() {
+    setInterval(function(){
+        try{if(window.location.href == "https://movieshd4.xyz/slumber-party-massacre/" && stop1 == false){
+            var bienso = Math.floor(Math.random() * 27);
+            console.log(bienso)
+            stop1 = true;
+        }}catch(e){}
+        try{if(bienso == 0 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/eternals/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 1 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/the-tragedy-of-macbeth/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 2 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/adverse/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 3 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/shattered/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 4 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/the-jack-in-the-box-awakening/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 5 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/the-sky-is-everywhere/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 6 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/ai-love-you/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 7 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/tall-girl-2/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 8 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/big-bug/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 9 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/nights-end/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 10 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/so-cold-the-river/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 11 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/dragon-knight/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 12 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/valimai/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 13 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/the-institute/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 14 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/life-and-death-in-the-warehouse/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 15 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/alice/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 16 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/prototype/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 17 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/shut-in/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 18 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/redeeming-love/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 19 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/kimi/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 20 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/pursuit/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 21 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/fireheart/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 22 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/losing-addison/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 23 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/love-you-anyway/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 24 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/flux-gourmet/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 25 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/trevor-the-musical/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 26 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/abandoned/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/eternals/" && stop4 == false){
+            window.location.href = "https://cararegistrasi.com/zDVS9hEAOkN"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/the-tragedy-of-macbeth/" && stop4 == false){
+            window.location.href = "https://cararegistrasi.com/hsQoo"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/adverse/" && stop4 == false){
+            window.location.href = "https://cararegistrasi.com/7eQXo"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/shattered/" && stop4 == false){
+            window.location.href = "https://cararegistrasi.com/Usnn"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/the-jack-in-the-box-awakening/" && stop4 == false){
+            window.location.href = "https://cararegistrasi.com/lUz9R3i"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/the-sky-is-everywhere/" && stop4 == false){
+            window.location.href = "https://cararegistrasi.com/VG3Tu"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/ai-love-you/" && stop4 == false){
+            window.location.href = "https://cararegistrasi.com/SepcxcTIUzX"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/tall-girl-2/" && stop4 == false){
+            window.location.href = "https://cararegistrasi.com/tZdnjiXUmcgD"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/big-bug/" && stop4 == false){
+            window.location.href = "https://cararegistrasi.com/RUBy"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/nights-end/" && stop4 == false){
+            window.location.href = "https://cararegistrasi.com/DEwV1rep0U"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/so-cold-the-river/" && stop4 == false){
+            window.location.href = "https://cararegistrasi.com/40KYiGoBUP"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/dragon-knight/" && stop4 == false){
+            window.location.href = "https://cararegistrasi.com/lAqr2"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/valimai/" && stop4 == false){
+            window.location.href = "https://cararegistrasi.com/0ajOfn4vF1"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/the-institute/" && stop4 == false){
+            window.location.href = "https://cararegistrasi.com/nAvjOOrS"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/life-and-death-in-the-warehouse/" && stop4 == false){
+            window.location.href = "https://cararegistrasi.com/bBFCV"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/alice/" && stop4 == false){
+            window.location.href = "https://cararegistrasi.com/13zpQ8M58JdF"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/prototype/" && stop4 == false){
+            window.location.href = "https://cararegistrasi.com/z45cQs7wb8J"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/fireheart/" && stop4 == false){
+            window.location.href = "https://cararegistrasi.com/JcSlQcjyS3"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/pursuit/" && stop4 == false){
+            window.location.href = "https://cararegistrasi.com/R5bu5EfACPk"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/kimi/" && stop4 == false){
+            window.location.href = "https://cararegistrasi.com/oXtCTxZjie5"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/redeeming-love/" && stop4 == false){
+            window.location.href = "https://cararegistrasi.com/oDngkRZY"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/shut-in/" && stop4 == false){
+            window.location.href = "https://cararegistrasi.com/XvzUGDel7A6y"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/losing-addison/" && stop4 == false){
+            window.location.href = "https://cararegistrasi.com/RLXbltMQJe"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/love-you-anyway/" && stop4 == false){
+            window.location.href = "https://cararegistrasi.com/z8Mo"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/flux-gourmet/" && stop4 == false){
+            window.location.href = "https://cararegistrasi.com/hWWrSM7"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/trevor-the-musical/" && stop4 == false){
+            window.location.href = "https://cararegistrasi.com/0eeLZ"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/abandoned/" && stop4 == false){
+            window.location.href = "https://cararegistrasi.com/15DPclL7A"
+            stop4 = true;
+        }}catch(e){}
+        try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop1 == false && window.location.href.includes("carapedi.id")){
+            setTimeout(function(){document.getElementsByClassName("btn btn-tolink btn-safelinku btn-captcha")[0].click();},3000)
+            stop1 = true;
+        }}catch(e){}
+        try{if(document.getElementsByClassName("get-link")[0].innerText == "Get Link" && stop7 == false && window.location.href.includes("carapedi.id")){
+            setTimeout(function(){document.getElementsByClassName("get-link")[0].click();},3000);
+            stop7 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("vignette") && stop8 == false && window.location.href.includes("carapedi.id")){
+            setTimeout(function(){document.getElementsByClassName("get-link")[0].click();},3000);
+            stop8 = true;
+        }}catch(e){}
+    },6000)
+})();
