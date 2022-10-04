@@ -1,0 +1,330 @@
+var stop1 = false;
+var stop2 = false;
+var stop3 = false;
+var stop4 = false;
+var stop5 = false;
+var stop6 = false;
+var stop7 = false;
+var stop8 = false;
+(function() {
+    setInterval(function(){
+        try{if(window.location.href == "https://movieshd4.xyz/come-away/" && stop1 == false){
+            var bienso = Math.floor(Math.random() * 37);
+            console.log(bienso)
+            stop1 = true;
+        }}catch(e){}
+        try{if(bienso == 0 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/7-prisoners/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 1 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/passing/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 2 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/stowaway/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 3 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/double-patty/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 4 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/outlier/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 5 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/borrego/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 6 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/ray-donovan-the-movie/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 7 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/the-curse-of-la-patasola/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 8 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/sex-appeal/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 9 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/the-surprise-visit/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 10 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/city-of-vultures-2/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 11 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/the-policemans-lineage/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 12 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/butlers-in-love/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 13 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/glasshouse/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 14 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/linvitation/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 15 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/jackass-forever/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 16 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/a-tale-of-two-guns/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 17 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/the-bunker-game/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 18 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/lete-prochain/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 19 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/corrective-measures/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 20 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/zero-contact/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 21 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/norm-macdonald-nothing-special/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 22 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/elizabeth-a-portrait-in-parts/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 23 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/the-commando/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 24 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/broker/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 25 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/fast-feel-love/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 26 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/incantation/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 27 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/butchers/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 28 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/battle-freestyle/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 29 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/the-bubble/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 30 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/the-nameless-days/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 31 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/boon/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 32 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/thor-love-and-thunder/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 33 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/where-the-crawdads-sing-2/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 34 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/hansan-rising-dragon/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 35 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/tiny-cinema/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 36 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/the-harbinger/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/7-prisoners/" && stop4 == false){
+            window.location.href = "https://linkszia.co/9Qjva"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/passing/" && stop4 == false){
+            window.location.href = "https://linkszia.co/wDDzM"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/stowaway/" && stop4 == false){
+            window.location.href = "https://linkszia.co/PAI1hC"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/double-patty/" && stop4 == false){
+            window.location.href = "https://linkszia.co/jzq74"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/outlier/" && stop4 == false){
+            window.location.href = "https://linkszia.co/mb0Zc"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/borrego/" && stop4 == false){
+            window.location.href = "https://linkszia.co/iq0Q"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/ray-donovan-the-movie/" && stop4 == false){
+            window.location.href = "https://linkszia.co/gBY2"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/the-curse-of-la-patasola/" && stop4 == false){
+            window.location.href = "https://linkszia.co/RFaCnv"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/sex-appeal/" && stop4 == false){
+            window.location.href = "https://linkszia.co/fbuzC"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/city-of-vultures-2/" && stop4 == false){
+            window.location.href = "https://linkszia.co/7BMrNisA"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/the-policemans-lineage/" && stop4 == false){
+            window.location.href = "https://linkszia.co/tZGq"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/butlers-in-love/" && stop4 == false){
+            window.location.href = "https://linkszia.co/WX8PhO4X"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/glasshouse/" && stop4 == false){
+            window.location.href = "https://linkszia.co/eYCMhUlZ"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/linvitation/" && stop4 == false){
+            window.location.href = "https://linkszia.co/61QO7e"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/the-surprise-visit/" && stop4 == false){
+            window.location.href = "https://linkszia.co/wEE2W8"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/jackass-forever/" && stop4 == false){
+            window.location.href = "https://linkszia.co/gN1e4Aq"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/a-tale-of-two-guns/" && stop4 == false){
+            window.location.href = "https://linkszia.co/CM6Vu9w"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/the-bunker-game/" && stop4 == false){
+            window.location.href = "https://linkszia.co/RXRHE"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/lete-prochain/" && stop4 == false){
+            window.location.href = "https://linkszia.co/EZmP"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/corrective-measures/" && stop4 == false){
+            window.location.href = "https://linkszia.co/TB6Jo"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/zero-contact/" && stop4 == false){
+            window.location.href = "https://linkszia.co/eSQ0"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/norm-macdonald-nothing-special/" && stop4 == false){
+            window.location.href = "https://linkszia.co/USwKj1ua"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/elizabeth-a-portrait-in-parts/" && stop4 == false){
+            window.location.href = "https://linkszia.co/7zCjw"
+            stop4 = true;
+        }}catch(e){}
+         try{if(window.location.href == "https://movieshd4.xyz/the-commando/" && stop4 == false){
+            window.location.href = "https://linkszia.co/fozCU"
+            stop4 = true;
+        }}catch(e){}
+         try{if(window.location.href == "https://movieshd4.xyz/broker/" && stop4 == false){
+            window.location.href = "https://linkszia.co/FiIyBx"
+            stop4 = true;
+        }}catch(e){}
+         try{if(window.location.href == "https://movieshd4.xyz/fast-feel-love/" && stop4 == false){
+            window.location.href = "https://linkszia.co/fpj3y7j"
+            stop4 = true;
+        }}catch(e){}
+         try{if(window.location.href == "https://movieshd4.xyz/incantation/" && stop4 == false){
+            window.location.href = "https://linkszia.co/watiUn"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/butchers/" && stop4 == false){
+            window.location.href = "https://linkszia.co/2sn2"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/battle-freestyle/" && stop4 == false){
+            window.location.href = "https://linkszia.co/FjhSB8"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/the-bubble/" && stop4 == false){
+            window.location.href = "https://linkszia.co/t82H"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/the-nameless-days/" && stop4 == false){
+            window.location.href = "https://linkszia.co/RajZ"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/boon/" && stop4 == false){
+            window.location.href = "https://linkszia.co/hHjy"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/thor-love-and-thunder/" && stop4 == false){
+            window.location.href = "https://linkszia.co/2HCz"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/where-the-crawdads-sing-2/" && stop4 == false){
+            window.location.href = "https://linkszia.co/4iwQ6"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/hansan-rising-dragon/" && stop4 == false){
+            window.location.href = "https://linkszia.co/3ocVHTx"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/tiny-cinema/" && stop4 == false){
+            window.location.href = "https://linkszia.co/ribOv"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/the-harbinger/" && stop4 == false){
+            window.location.href = "https://linkszia.co/916t5"
+            stop4 = true;
+        }}catch(e){}
+        try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop1 == false){
+            setTimeout(function(){document.getElementsByClassName("btn ybtn ybtn-accent-color get-link")[0].click();},5000)
+            console.log("1")
+            stop1 = true;
+        }}catch(e){}
+        try{if(document.getElementsByClassName("btn ybtn ybtn-accent-color get-link")[0].innerText == "CONTINUE TO GET LINK" && stop2 == false){
+             setTimeout(function(){document.getElementsByClassName("btn ybtn ybtn-accent-color get-link")[0].click();},3000);
+             stop2 = true;
+         }}catch(e){}
+        try{if(document.getElementsByClassName("btn ybtn ybtn-accent-color get-link")[0].innerText == 'MELANJUTKAN' && stop2 == false && window.location.href.includes("djxmaza.in")){
+             setTimeout(function(){document.getElementsByClassName("btn ybtn ybtn-accent-color get-link")[0].click();},3000);
+             stop2 = true;
+         }}catch(e){}
+        try{if(document.getElementsByClassName("btn ybtn ybtn-accent-color get-link")[0].innerText == "GET LINK" && stop3 == false){
+             setTimeout(function(){document.getElementsByClassName("btn ybtn ybtn-accent-color get-link")[0].click();},3000);
+             stop3 = true;
+         }}catch(e){}
+    },6000)
+})();
