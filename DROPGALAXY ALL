@@ -1,0 +1,129 @@
+var stop1 = false;
+var stop2 = false;
+var stop3 = false;
+var stop4 = false;
+var stop5 = false;
+var stop6 = false;
+var stop7 = false;
+var stop8 = false;
+(function() {
+    setInterval(function(){
+        try{if(window.location.href == "https://movieshd4.xyz/meeting/" && stop1 == false){
+            var bienso = Math.floor(Math.random() * 10);
+            console.log(bienso)
+            stop1 = true;
+        }}catch(e){}
+        try{if(bienso == 0 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/observation-full-crack/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 1 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/hades/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 2 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/field-of-glory-empires-full-crack/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 3 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/old-gods-rising-full-crack/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 4 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/karma-knight-full-crack/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 5 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/horizon-zero-dawn-complete-edition/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 6 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/warhammer-chaosbane/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 7 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/samurai-jack-battle-through-time/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 8 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/iron-harvest/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 9 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/no-mans-sky/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/observation-full-crack/" && stop4 == false){
+            window.location.href = "https://dgdrive.xyz/a83od7zrk4ym"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/hades/" && stop4 == false){
+            window.location.href = "https://dgdrive.xyz/5ah4fz58x91t"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/field-of-glory-empires-full-crack/" && stop4 == false){
+            window.location.href = "https://dgdrive.xyz/bkv0qv14wz8a"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/old-gods-rising-full-crack/" && stop4 == false){
+            window.location.href = "https://dgdrive.xyz/hp6hsokpj44u"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/karma-knight-full-crack/" && stop4 == false){
+            window.location.href = "https://dgdrive.xyz/zla1sebm4zl3"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/horizon-zero-dawn-complete-edition/" && stop4 == false){
+            window.location.href = "https://dgdrive.xyz/4cdk7n6yptcc"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/warhammer-chaosbane/" && stop4 == false){
+            window.location.href = "https://dgdrive.xyz/hphdcdl9papz"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/samurai-jack-battle-through-time/" && stop4 == false){
+            window.location.href = "https://dgdrive.xyz/r3tws8xrvdpa"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/iron-harvest/" && stop4 == false){
+            window.location.href = "https://dgdrive.xyz/f1fhe4eg63t9"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/no-mans-sky/" && stop4 == false){
+            window.location.href = "https://dgdrive.xyz/5vsh25pws5aq"
+            stop4 = true;
+        }}catch(e){}
+        try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop2 == false){
+            setTimeout(function(){document.getElementsByClassName("downloadbtn btn btn-block btn-primary btn-lg mt-3")[1].click();},3000)
+            stop2 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("google") && stop7 == false){
+            setTimeout(function(){document.getElementsByClassName("LC20lb DKV0Md")[0].click();},3000)
+            stop7 = true;
+        }}catch(e){}
+        try{if(document.getElementsByClassName("btn btn-block btn-lg btn-primary")[1].innerText == "Click here to download" && stop3 == false){
+            setTimeout(function(){window.location.href = document.getElementsByClassName("btn btn-block btn-lg btn-primary")[1].href;},3000)
+            stop3 = true;
+        }}catch(e){}
+        try{if(document.getElementsByClassName("btn btn-block btn-lg btn-primary")[0].innerText == "Click here to download" && stop3 == false){
+            setTimeout(function(){document.getElementsByClassName("btn btn-block btn-lg btn-primary")[0].click();},3000)
+            stop3 = true;
+        }}catch(e){}
+        try{if(document.getElementById("dismiss-button") != null && stop4 == false){
+            setTimeout(function(){document.getElementById("dismiss-button").click();},3000)
+            stop4 = true;
+        }}catch(e){}
+        try{if(document.getElementsByClassName("btn btn-primary btn-block pr-5")[0].innerText.includes("Free Download") && stop3 == false){
+            setTimeout(function(){document.getElementsByClassName("btn btn-primary btn-block pr-5")[0].click();},5000)
+            stop3 = true;
+        }}catch(e){}
+        try{if(document.getElementsByClassName("downloadbtn btn btn-block btn-primary btn-lg mt-3")[0].innerText == "Disable AdBlocker" && stop5 == false){
+            setTimeout(function(){window.location.reload();},3000)
+            stop5 = true;
+        }}catch(e){}
+        try{if(document.getElementsByClassName("seconds")[0].innerText == "1" && stop6 == false && document.getElementsByClassName("downloadbtn btn btn-block btn-primary btn-lg mt-3")[1].innerText == "Create download link"){
+            setTimeout(function(){document.getElementsByClassName("downloadbtn btn btn-block btn-primary btn-lg mt-3")[1].click();},3000)
+            stop6 = true;
+        }}catch(e){}
+    },6000)
+})();
