@@ -1,0 +1,274 @@
+var stop1 = false;
+var stop2 = false;
+var stop3 = false;
+var stop4 = false;
+var stop5 = false;
+var stop6 = false;
+var stop7 = false;
+var stop8 = false;
+(function() {
+    setInterval(function(){
+        try{if(window.location.href == "https://movieshd4.xyz/asylum-twisted-horror-and-fantasy-tales/" && stop1 == false){
+            var bienso = Math.floor(Math.random() * 29);
+            console.log(bienso)
+            stop1 = true;
+        }}catch(e){}
+        try{if(bienso == 0 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/love-hard/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 1 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/no-one-gets-out-alive/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 2 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/yara/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 3 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/the-justice-of-bunny-king/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 4 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/libertad/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 5 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/mothering-sunday/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 6 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/the-falls/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 7 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/small-world/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 8 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/last-of-the-wolves/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 9 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/panama/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 10 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/measure-of-revenge/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 11 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/expired/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 12 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/antlers/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 13 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/the-hand-of-god/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 14 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/collision/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 15 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/the-lost-girls/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 16 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/king/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 17 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/wrestlemania-38/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 18 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/father-of-the-bride/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 19 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/mr-malcolms-list/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 20 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/moloch/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 21 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/le-temps-des-secrets/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 22 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/death-count/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 23 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/attack/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 24 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/goodnight-mommy/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 25 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/wedding-of-a-lifetime/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 26 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/inside/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 27 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/free-ride/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 28 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/recoil/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/love-hard/" && stop4 == false){
+            window.location.href = "http://kimo.ma/r/#http://cryptobu.xyz/kngYN"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/no-one-gets-out-alive/" && stop4 == false){
+            window.location.href = "http://kimo.ma/r/#http://cryptobu.xyz/1mSWS1"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/yara/" && stop4 == false){
+            window.location.href = "http://kimo.ma/r/#http://cryptobu.xyz/C5ib"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/the-justice-of-bunny-king/" && stop4 == false){
+            window.location.href = "http://kimo.ma/r/#http://cryptobu.xyz/r2qa4"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/libertad/" && stop4 == false){
+            window.location.href = "http://kimo.ma/r/#http://cryptobu.xyz/5L5Ui5b"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/mothering-sunday/" && stop4 == false){
+            window.location.href = "http://kimo.ma/r/#http://cryptobu.xyz/UHjY0xN"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/the-falls/" && stop4 == false){
+            window.location.href = "http://kimo.ma/r/#http://cryptobu.xyz/UpFegy4R"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/small-world/" && stop4 == false){
+            window.location.href = "http://kimo.ma/r/#http://cryptobu.xyz/KZeX8"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/last-of-the-wolves/" && stop4 == false){
+            window.location.href = "http://kimo.ma/r/#http://cryptobu.xyz/RMKKEa4A"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/the-hand-of-god/" && stop4 == false){
+            window.location.href = "http://kimo.ma/r/#http://cryptobu.xyz/RiM5NKk"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/antlers/" && stop4 == false){
+            window.location.href = "http://kimo.ma/r/#http://cryptobu.xyz/czRd"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/expired/" && stop4 == false){
+            window.location.href = "http://kimo.ma/r/#http://cryptobu.xyz/0rhGM0tI"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/measure-of-revenge/" && stop4 == false){
+            window.location.href = "http://kimo.ma/r/#http://cryptobu.xyz/YSjsRtj0"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/panama/" && stop4 == false){
+            window.location.href = "http://kimo.ma/r/#http://cryptobu.xyz/WS5H7pS"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/collision/" && stop4 == false){
+            window.location.href = "http://kimo.ma/r/#http://cryptobu.xyz/BCvJx"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/the-lost-girls/" && stop4 == false){
+            window.location.href = "http://kimo.ma/r/#http://cryptobu.xyz/8mWZ"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/king/" && stop4 == false){
+            window.location.href = "http://kimo.ma/r/#http://cryptobu.xyz/yTQ1lA"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/wrestlemania-38/" && stop4 == false){
+            window.location.href = "http://kimo.ma/r/#http://cryptobu.xyz/nu6PHIBx"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/father-of-the-bride/" && stop4 == false){
+            window.location.href = "http://kimo.ma/r/#http://cryptobu.xyz/96pYc3"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/mr-malcolms-list/" && stop4 == false){
+            window.location.href = "http://kimo.ma/r/#http://cryptobu.xyz/Fg3KEpX"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/moloch/" && stop4 == false){
+            window.location.href = "http://kimo.ma/r/#http://cryptobu.xyz/hlhta"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/le-temps-des-secrets/" && stop4 == false){
+            window.location.href = "http://kimo.ma/r/#http://cryptobu.xyz/Cj0Ig"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/death-count/" && stop4 == false){
+            window.location.href = "http://kimo.ma/r/#http://cryptobu.xyz/5vSxm"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/attack/" && stop4 == false){
+            window.location.href = "http://kimo.ma/r/#http://cryptobu.xyz/7Za2"
+            stop4 = true;
+        }}catch(e){}
+         try{if(window.location.href == "https://movieshd4.xyz/goodnight-mommy/" && stop4 == false){
+            window.location.href = "http://kimo.ma/r/#http://cryptobu.xyz/23wyCZ"
+            stop4 = true;
+        }}catch(e){}
+         try{if(window.location.href == "https://movieshd4.xyz/wedding-of-a-lifetime/" && stop4 == false){
+            window.location.href = "http://kimo.ma/r/#http://cryptobu.xyz/wGggNhHB"
+            stop4 = true;
+        }}catch(e){}
+         try{if(window.location.href == "https://movieshd4.xyz/inside/" && stop4 == false){
+            window.location.href = "http://kimo.ma/r/#http://cryptobu.xyz/C1UUg"
+            stop4 = true;
+        }}catch(e){}
+         try{if(window.location.href == "https://movieshd4.xyz/free-ride/" && stop4 == false){
+            window.location.href = "http://kimo.ma/r/#http://cryptobu.xyz/3SnH8"
+            stop4 = true;
+        }}catch(e){}
+         try{if(window.location.href == "https://movieshd4.xyz/recoil/" && stop4 == false){
+            window.location.href = "http://kimo.ma/r/#http://cryptobu.xyz/AqSbtK"
+            stop4 = true;
+        }}catch(e){}
+        try{if(document.getElementById("url_qu").innerText == " الرابط جاهز" && stop3 == false && document.getElementById("mdtimer").style.display == "none"){
+            setTimeout(function(){document.getElementById("url_qu").getElementsByTagName("a")[0].click();},3000)
+            stop3 = true;
+        }}catch(e){}
+        try{if(document.getElementById("wpsafe-generate").getElementsByTagName("img")[0].src == "http://kimo.ma/wp-content/plugins/wp-safelink/assets/generate4.png" && stop4 == false){
+            setTimeout(function(){document.getElementById("wpsafe-generate").getElementsByTagName("img")[0].click();},3000)
+            setTimeout(function(){window.location.href = document.getElementById("wpsafe-link").getElementsByTagName("a")[0].getAttribute("onclick").slice(13,document.getElementById("wpsafe-link").getElementsByTagName("a")[0].getAttribute("onclick").lastIndexOf(",")-1);},6000)
+            stop4 = true;
+        }}catch(e){}
+        try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop1 == false){
+            setTimeout(function(){document.getElementById("wpsafelinkhuman").getElementsByTagName("img")[0].click();},3000)
+            stop1 = true;
+        }}catch(e){}
+        try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop2 == false && window.location.href.includes("adfloz")){
+            setTimeout(function(){document.getElementsByClassName("btn btn--bg-primary btn-3d-hover btn-splash-hover btn-captcha")[0].click();},3000)
+            stop2 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("vignette") && stop5 == false){
+            setTimeout(function(){document.getElementById("url_qu").getElementsByTagName("a")[0].click();},3000)
+            stop5 = true;
+        }}catch(e){}
+        try{if(document.getElementsByClassName("btn--bg-primary btn btn--outline btn-3d-hover btn-splash-hover btn-lg get-link")[0].innerText == "GET LINK" && stop2 == false){
+            setTimeout(function(){document.getElementsByClassName("btn--bg-primary btn btn--outline btn-3d-hover btn-splash-hover btn-lg get-link")[0].click();},3000)
+            stop2 = true;
+        }}catch(e){}
+    },6000)
+})();
