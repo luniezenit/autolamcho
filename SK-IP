@@ -1,0 +1,216 @@
+var stop1 = false;
+var stop2 = false;
+var stop3 = false;
+var stop4 = false;
+var stop5 = false;
+var stop6 = false;
+var stop7 = false;
+var stop8 = false;
+(function() {
+    setInterval(function(){
+        try{if(window.location.href == "///https://movieshd4.xyz/the-hunt/" && stop1 == false){
+            var bienso = Math.floor(Math.random() * 20);
+            console.log(bienso)
+            stop1 = true;
+        }}catch(e){}
+        try{if(bienso == 0 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/deep-water/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 1 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/master/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 2 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/black-crab/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 3 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/cheaper-by-the-dozen/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 4 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/windfall/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 5 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/13-minutes/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 6 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/red-snow/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 7 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/the-last-duel/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 8 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/the-guilty/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 9 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/broadcast-signal-intrusion/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 10 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/suicide-for-beginners/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 11 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/the-adventures-of-maid-marian/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 12 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/pride-jewel/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 13 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/spring-awakening-those-youve-known/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 14 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/breath/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 15 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/the-good-neighbor/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 16 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/crimes-of-the-future/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 17 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/watcher/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 18 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/civil-ben-crump/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 19 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/doom-of-love/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/deep-water/" && stop4 == false){
+            window.location.href = "https://link.short2url.in/xNBRBCgn"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/master/" && stop4 == false){
+            window.location.href = "https://link.short2url.in/Vgmlh"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/black-crab/" && stop4 == false){
+            window.location.href = "https://link.short2url.in/zZjK0GF"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/cheaper-by-the-dozen/" && stop4 == false){
+            window.location.href = "https://link.short2url.in/bghdt"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/windfall/" && stop4 == false){
+            window.location.href = "https://link.short2url.in/tyGFQyON"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/13-minutes/" && stop4 == false){
+            window.location.href = "https://link.short2url.in/4f3iml8d"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/red-snow/" && stop4 == false){
+            window.location.href = "https://link.short2url.in/r2jhXQtJ"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/the-last-duel/" && stop4 == false){
+            window.location.href = "https://link.short2url.in/pAj0wZp"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/the-guilty/" && stop4 == false){
+            window.location.href = "https://link.short2url.in/Q7A2R"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/broadcast-signal-intrusion/" && stop4 == false){
+            window.location.href = "https://link.short2url.in/6vequYI"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/suicide-for-beginners/" && stop4 == false){
+            window.location.href = "https://link.short2url.in/odixVau"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/the-adventures-of-maid-marian/" && stop4 == false){
+            window.location.href = "https://link.short2url.in/bdic"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/pride-jewel/" && stop4 == false){
+            window.location.href = "https://link.short2url.in/G92sibja"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/spring-awakening-those-youve-known/" && stop4 == false){
+            window.location.href = "https://link.short2url.in/hDefm"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/breath/" && stop4 == false){
+            window.location.href = "https://link.short2url.in/tR8UlY6"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/the-good-neighbor/" && stop4 == false){
+            window.location.href = "https://link.short2url.in/jXM8"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/crimes-of-the-future/" && stop4 == false){
+            window.location.href = "https://link.short2url.in/Sb7k5rsH"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/watcher/" && stop4 == false){
+            window.location.href = "https://link.short2url.in/zVJIda"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/civil-ben-crump/" && stop4 == false){
+            window.location.href = "https://link.short2url.in/uwTBjHg"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/doom-of-love/" && stop4 == false){
+            window.location.href = "https://link.short2url.in/XzE5O2"
+            stop4 = true;
+        }}catch(e){}
+         try{for(var j=null,u=0;u<100;u++){
+            if(document.getElementsByTagName("script")[u].innerText.includes("speedynews")){
+                j = document.getElementsByTagName("script")[u].innerText.slice(56,document.getElementsByTagName("script")[u].innerText.lastIndexOf("referr")-15);
+                console.log(j);
+                break;
+            }
+        }}catch(e){}
+        try{if(document.getElementsByClassName("filler")[0].innerText.includes("Wait 0 s") && stop1 == false && window.location.href.includes("xmod.in") && window.location.href.length <= 25){
+            setTimeout(function(){document.getElementsByClassName("btn btn-outline-primary btn-captcha m-2 ")[0].click();},3000);
+            setTimeout(function(){document.getElementsByClassName("btn btn-outline-primary btn-captcha m-2 ")[2].click();},6000);
+            stop1 = true;
+        }}catch(e){}
+        try{if(document.getElementsByClassName("filler")[0].innerText.includes("Wait 0 s") && stop1 == false && window.location.href.includes("speedynews.xyz") && window.location.href.length <= 29){
+            setTimeout(function(){document.getElementsByClassName("btn btn-outline-primary btn-captcha m-2 ")[0].click();},3000);
+            setTimeout(function(){document.getElementsByClassName("btn btn-outline-primary btn-captcha m-2 ")[2].click();},6000);
+            stop1 = true;
+        }}catch(e){}
+        try{if(document.getElementsByClassName("filler")[0].innerText.includes("Wait 0 s") && stop1 == false && window.location.href.includes("speedynews.xyz") && window.location.href.length > 29){
+            setTimeout(function(){document.getElementsByClassName("btn btn-outline-primary btn-captcha m-2 ")[0].click();},3000);
+            setTimeout(function(){document.getElementsByClassName("btn btn-outline-primary btn-captcha m-2 ")[2].click();},6000);
+            stop1 = true;
+        }}catch(e){}
+        try{if(document.getElementsByClassName("filler")[0].innerText.includes("Wait 0 s") && stop1 == false && window.location.href.includes("xmod.in") && window.location.href.length > 25){
+            setTimeout(function(){document.getElementsByClassName("btn btn-outline-primary btn-captcha m-2 ")[0].click();},3000);
+            setTimeout(function(){window.location.href = j;},6000);
+            stop1 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("google_vignette") && stop2 == false && window.location.href.includes("xmod.in") && window.location.href.length <= 39){
+            setTimeout(function(){document.getElementsByClassName("btn btn-outline-primary btn-captcha m-2 ")[2].click();},3000);
+            stop2 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("google_vignette") && stop2 == false && window.location.href.includes("speedynews.xyz") && window.location.href.length <= 47){
+            setTimeout(function(){document.getElementsByClassName("btn btn-outline-primary btn-captcha m-2 ")[2].click();},3000);
+            stop2 = true;
+        }}catch(e){}
+        try{if(document.getElementsByClassName("btn btn-success btn-lg get-link")[0].innerText == "GET LINK" && stop2 == false && window.location.href.includes("technemo.xyz")){
+            setTimeout(function(){document.getElementsByClassName("btn btn-success btn-lg get-link")[0].click();},3000);
+            stop2 = true;
+        }}catch(e){}
+    },6000)
+})();
