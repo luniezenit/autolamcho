@@ -1,0 +1,317 @@
+var stop1 = false;
+var stop2 = false;
+var stop3 = false;
+var stop4 = false;
+var stop5 = false;
+var stop6 = false;
+var stop7 = false;
+var stop8 = false;
+(function() {
+    setInterval(function(){
+        try{if(window.location.href == "//https://movieshd4.xyz/active-shooter/" && stop1 == false){
+            var bienso = Math.floor(Math.random() * 36);
+            console.log(bienso)
+            stop1 = true;
+        }}catch(e){}
+        try{if(bienso == 0 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/dont-breathe-2/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 1 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/saving-paradise/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 2 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/karen/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 3 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/the-j-team/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 4 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/yakuza-princess/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 5 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/we-need-to-do-something/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 6 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/burial-ground-massacre/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 7 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/candyman/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 8 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/cry-macho/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 9 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/my-son/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 10 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/malignant/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 11 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/untold-breaking-point/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 12 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/samantha-rose/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 13 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/pick-a-side/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 14 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/three-months/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 15 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/forgive-us-our-trespasses/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 16 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/north-of-the-10/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 17 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/love-and-leashes/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 18 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/fresh/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 19 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/after-yang/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 20 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/a-day-to-die/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 21 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/the-martian/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 22 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/the-outfit/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 23 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/return-to-space/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 24 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/tony-hawk-until-the-wheels-fall-off/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 25 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/life-after-you/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 26 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/we-feed-people/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 27 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/spitfire-over-berlin/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 28 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/kick-like-tayla/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 29 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/a-genies-tail/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 30 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/fortress-snipers-eye/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 31 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/body-of-water/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 32 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/lets-not-meet-in-the-woods/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 33 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/bright-hill-road/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 34 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/american-thief/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 35 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/curse-of-aurore/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/dont-breathe-2/" && stop4 == false){
+            window.location.href = "https://sh24.me/XQmQe"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/saving-paradise/" && stop4 == false){
+            window.location.href = "https://sh24.me/8KBy"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/karen/" && stop4 == false){
+            window.location.href = "https://sh24.me/YDz6z"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/the-j-team/" && stop4 == false){
+            window.location.href = "https://sh24.me/dqjnSAmV"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/yakuza-princess/" && stop4 == false){
+            window.location.href = "https://sh24.me/t2OfHQ"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/we-need-to-do-something/" && stop4 == false){
+            window.location.href = "https://sh24.me/2C98z1"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/burial-ground-massacre/" && stop4 == false){
+            window.location.href = "https://sh24.me/7DA8qy"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/candyman/" && stop4 == false){
+            window.location.href = "https://sh24.me/uqAFQuE"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/cry-macho/" && stop4 == false){
+            window.location.href = "https://sh24.me/FGFa"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/my-son/" && stop4 == false){
+            window.location.href = "https://sh24.me/UKNYNkc"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/malignant/" && stop4 == false){
+            window.location.href = "https://sh24.me/9CuG"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/untold-breaking-point/" && stop4 == false){
+            window.location.href = "https://sh24.me/hlOhk"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/samantha-rose/" && stop4 == false){
+            window.location.href = "https://sh24.me/k1kx0WJz"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/pick-a-side/" && stop4 == false){
+            window.location.href = "https://sh24.me/FG9OuG"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/three-months/" && stop4 == false){
+            window.location.href = "https://sh24.me/GvDt8j"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/forgive-us-our-trespasses/" && stop4 == false){
+            window.location.href = "https://sh24.me/HN1L"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/north-of-the-10/" && stop4 == false){
+            window.location.href = "https://sh24.me/CQcN"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/love-and-leashes/" && stop4 == false){
+            window.location.href = "https://sh24.me/5asn4cX"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/fresh/" && stop4 == false){
+            window.location.href = "https://sh24.me/t7ZDJuG"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/after-yang/" && stop4 == false){
+            window.location.href = "https://sh24.me/WimkYNLK"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/a-day-to-die/" && stop4 == false){
+            window.location.href = "https://sh24.me/5g2u"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/the-martian/" && stop4 == false){
+            window.location.href = "https://sh24.me/fOwZKKk"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/the-outfit/" && stop4 == false){
+            window.location.href = "https://sh24.me/62u2"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/return-to-space/" && stop4 == false){
+            window.location.href = "https://sh24.me/rER5"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/tony-hawk-until-the-wheels-fall-off/" && stop4 == false){
+            window.location.href = "https://sh24.me/7aeEr0u"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/life-after-you/" && stop4 == false){
+            window.location.href = "https://sh24.me/BwJN5"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/we-feed-people/" && stop4 == false){
+            window.location.href = "https://sh24.me/OMJ0"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/spitfire-over-berlin/" && stop4 == false){
+            window.location.href = "https://sh24.me/zIo1"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/kick-like-tayla/" && stop4 == false){
+            window.location.href = "https://sh24.me/H7DpGd"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/a-genies-tail/" && stop4 == false){
+            window.location.href = "https://sh24.me/QocS5"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/fortress-snipers-eye/" && stop4 == false){
+            window.location.href = "https://sh24.me/TuMp2xI"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/body-of-water/" && stop4 == false){
+            window.location.href = "https://sh24.me/qjMF"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/lets-not-meet-in-the-woods/" && stop4 == false){
+            window.location.href = "https://sh24.me/iSi6a"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/bright-hill-road/" && stop4 == false){
+            window.location.href = "https://sh24.me/Mu54"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/american-thief/" && stop4 == false){
+            window.location.href = "https://sh24.me/6mdKlMPC"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/curse-of-aurore/" && stop4 == false){
+            window.location.href = "https://sh24.me/HL17eZN"
+            stop4 = true;
+        }}catch(e){}
+        try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop1 == false && window.location.href.includes("tech.madshiba.fun")){
+            setTimeout(function(){document.getElementsByTagName("input")[1].click();},3000)
+            stop1 = true;
+        }}catch(e){}
+        try{if(document.getElementById("timer").innerText == "0" && stop1 == false && window.location.href.includes("tech.madshiba.fun") && document.getElementsByTagName("h6")[1].innerText.includes("Step 3")){
+            setTimeout(function(){document.getElementsByTagName("input")[1].click();},3000)
+            stop1 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("tech.madshiba.fun") && document.getElementsByTagName("h6")[1].innerText.includes("FINISH")){
+            setTimeout(function(){document.getElementsByTagName("input")[1].click();},3000)
+            stop1 = true;
+        }}catch(e){}
+    },6000)
+})();
