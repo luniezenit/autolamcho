@@ -1,0 +1,233 @@
+var stop1 = false;
+var stop2 = false;
+var stop3 = false;
+var stop4 = false;
+var stop5 = false;
+var stop6 = false;
+var stop7 = false;
+var stop8 = false;
+(function() {
+    setInterval(function(){
+        try{if(window.location.href == "https://movieshd4.xyz/godmothered/" && stop1 == false){
+            var bienso = Math.floor(Math.random() * 25);
+            console.log(bienso)
+            stop1 = true;
+        }}catch(e){}
+        try{if(bienso == 0 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/1sI2T1O5KNwCp2V13YgN6ANsaszI8MYRU0LEmA-a4nZU"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 1 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/1kLwNyEBtganJkZw-3e6dRg5coaj3GROizklzOHFoXMI"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 2 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/1jQq4Kd2UGhnBvPLJFXtB-lsMEPMjEmVPLPuUlSB9f88"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 3 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/1v7htOnJLOHJGQzQoMqQ5MLln4jllwVjJ-hXO-a5f4jM"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 4 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/16dWTu1VG8cCZYP3owl-Calb-dRucINaQKplOF91GC9s"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 5 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/1QzqwCn2WpGozA90AMc_zJhKWOYPFTM8neFViorulZf0"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 6 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/1Otm_Vdru30kXEjfLurIyw29v-J23m7bnNpUf3OIlCLI"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 7 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/1RLfUyE5vs8DolxdihAtbNDJikVkPrPirjAr3kVCuRBA"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 8 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/1EMaCNAt259FXhrK-Be9nSCi3DAygtuwpUyDRDRE4FTE"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 9 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/1HT2LTuy0ExH90a1OtnAwsftWB3KcPQh-BD2QpjCK5g8"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 10 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/1Kr5crbEHKdHpWWsftsDI6DoxQjhkWXnO4TxeR4oJ8lw"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 11 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/1zD2-hGFM9aSRx9sCUdI0sy12xQqUHiVAx4uJ7MVe9iE"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 12 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/1cq8_j9JGAs5e0Eqn2gW_A7mxFgJwsXBLQNpNa459zsM"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 13 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/1eBMN8I1WdYXdxMT5o7Iz0ZEJGtEDbmnfOo7VbLTb5xY"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 14 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/1I5LLmg4LdTfvduHMnrMMt0cC-lkSorzPeqHfMsX2qw8"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 15 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/1NF_j96WfAhPrRZPWo37whnnKSTB_s4E76Q-drSgIGRo"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 16 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/1Ur4m0C8uO_T-NMlSTkxgtT4Ye1ToHg3AEOXbG4ZWvGQ"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 17 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/1M0l4cJVw_w2LkrSgutG4RGJ77rS9_hs87Z3fOhvO9qM"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 18 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/1pTtlQDm3QkE8uz5zukZHiCHebSLFs4q2LYI7g8sp97c"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 19 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/1_8diPAWpiwDOwsh2FI8uFq3pEP2OwU_HErktML1bHU8"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 20 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/1WuFYlvh6pjLVB2Fsd7X1DnMKALYtbRNU0_DcY2p1XIg"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 21 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/1bP-jrTu29PQg-dMdw49qehAVk9QmPJOpHUhpTsCW4WI"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 22 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/10AmZtLrdvLMxBnwX-CoQc-CsZIJaGsjkL00LxlqTKWk"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 23 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/1gcIuHSnjCIIGpknhV0SBfvuoQhnqwCHSAj5m66y4FUs"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 24 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/1JXRzMcEbM7SdAkR19-tUSQZ4FKK0WRyklLXinB98mjg"
+            stop2 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1sI2T1O5KNwCp2V13YgN6ANsaszI8MYRU0LEmA-a4nZU") && stop4 == false){
+            window.location.href = "https://fc.lc/WGxm3a7"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1kLwNyEBtganJkZw-3e6dRg5coaj3GROizklzOHFoXMI") && stop4 == false){
+            window.location.href = "https://fc.lc/vDQP"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1jQq4Kd2UGhnBvPLJFXtB-lsMEPMjEmVPLPuUlSB9f88") && stop4 == false){
+            window.location.href = "https://fc.lc/fBqGNb"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1v7htOnJLOHJGQzQoMqQ5MLln4jllwVjJ-hXO-a5f4jM") && stop4 == false){
+            window.location.href = "https://fc.lc/bl3UhNEm"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("16dWTu1VG8cCZYP3owl-Calb-dRucINaQKplOF91GC9s") && stop4 == false){
+            window.location.href = "https://fc.lc/dII3AdY7"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1QzqwCn2WpGozA90AMc_zJhKWOYPFTM8neFViorulZf0") && stop4 == false){
+            window.location.href = "https://fc.lc/D6V71jlz"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1Otm_Vdru30kXEjfLurIyw29v-J23m7bnNpUf3OIlCLI") && stop4 == false){
+            window.location.href = "https://fc.lc/eZ1X"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1RLfUyE5vs8DolxdihAtbNDJikVkPrPirjAr3kVCuRBA") && stop4 == false){
+            window.location.href = "https://fc.lc/0VurJM"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1EMaCNAt259FXhrK-Be9nSCi3DAygtuwpUyDRDRE4FTE") && stop4 == false){
+            window.location.href = "https://fc.lc/caN7btX"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1HT2LTuy0ExH90a1OtnAwsftWB3KcPQh-BD2QpjCK5g8") && stop4 == false){
+            window.location.href = "https://fc.lc/KwVDv3"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1Kr5crbEHKdHpWWsftsDI6DoxQjhkWXnO4TxeR4oJ8lw") && stop4 == false){
+            window.location.href = "https://fc-lc.com/qPrQW7"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1zD2-hGFM9aSRx9sCUdI0sy12xQqUHiVAx4uJ7MVe9iE") && stop4 == false){
+            window.location.href = "https://fc-lc.com/1UxF"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1cq8_j9JGAs5e0Eqn2gW_A7mxFgJwsXBLQNpNa459zsM") && stop4 == false){
+            window.location.href = "https://fc-lc.com/KqjdoPuV"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1eBMN8I1WdYXdxMT5o7Iz0ZEJGtEDbmnfOo7VbLTb5xY") && stop4 == false){
+            window.location.href = "https://fc-lc.com/Fqge"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1I5LLmg4LdTfvduHMnrMMt0cC-lkSorzPeqHfMsX2qw8") && stop4 == false){
+            window.location.href = "https://fc-lc.com/Afx7jqj"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1NF_j96WfAhPrRZPWo37whnnKSTB_s4E76Q-drSgIGRo") && stop4 == false){
+            window.location.href = "https://fc-lc.com/kCGah3mD"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1Ur4m0C8uO_T-NMlSTkxgtT4Ye1ToHg3AEOXbG4ZWvGQ") && stop4 == false){
+            window.location.href = "https://fc-lc.com/dCeT2"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1M0l4cJVw_w2LkrSgutG4RGJ77rS9_hs87Z3fOhvO9qM") && stop4 == false){
+            window.location.href = "https://fc-lc.com/TMyGq"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1pTtlQDm3QkE8uz5zukZHiCHebSLFs4q2LYI7g8sp97c") && stop4 == false){
+            window.location.href = "https://fc-lc.com/TEjVo"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1_8diPAWpiwDOwsh2FI8uFq3pEP2OwU_HErktML1bHU8") && stop4 == false){
+            window.location.href = "https://fc-lc.com/jKlp3M8a"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1WuFYlvh6pjLVB2Fsd7X1DnMKALYtbRNU0_DcY2p1XIg") && stop4 == false){
+            window.location.href = "https://fc-lc.com/fD3d9"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1bP-jrTu29PQg-dMdw49qehAVk9QmPJOpHUhpTsCW4WI") && stop4 == false){
+            window.location.href = "https://fc-lc.com/vQsXG"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("10AmZtLrdvLMxBnwX-CoQc-CsZIJaGsjkL00LxlqTKWk") && stop4 == false){
+            window.location.href = "https://fc-lc.com/JFk4T"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1gcIuHSnjCIIGpknhV0SBfvuoQhnqwCHSAj5m66y4FUs") && stop4 == false){
+            window.location.href = "https://fc-lc.com/PWJRnqQ8"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1JXRzMcEbM7SdAkR19-tUSQZ4FKK0WRyklLXinB98mjg") && stop4 == false){
+            window.location.href = "https://fc-lc.com/ddOixC5O"
+            stop4 = true;
+        }}catch(e){}
+        try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop1 == false && document.getElementsByClassName("g-recaptcha btn btn-primary ")[0].innerText == "Click here to continue"){
+            setTimeout(function(){document.getElementsByClassName("btn btn-outline-primary btn-captcha m-2")[0].click();},3000)
+            stop1 = true;
+        }}catch(e){}
+         try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop1 == false && document.getElementsByClassName("btn btn-outline-primary btn-captcha m-2")[0].innerText == "Click here to continue"){
+            setTimeout(function(){document.getElementsByClassName("btn btn-outline-primary btn-captcha m-2")[0].click();},3000)
+            stop1 = true;
+        }}catch(e){}
+        try{if(document.getElementsByClassName("btn m-2 btn-success")[0].innerText == "Get Link" && stop3 == false){
+             setTimeout(function(){document.getElementsByClassName("btn m-2 btn-success")[0].click();},3000);
+             stop3 = true;
+         }}catch(e){}
+        try{if(window.location.href.includes("vignette") && stop4 == false){
+             setTimeout(function(){document.getElementsByClassName("btn m-2 btn-success")[0].click();},3000);
+             stop4 = true;
+         }}catch(e){}
+    },6000)
+})();
