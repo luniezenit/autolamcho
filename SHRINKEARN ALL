@@ -176,4 +176,3 @@ var stop8 = false;
         }}catch(e){}
     },6000)
 })();
-Footer
