@@ -1,0 +1,106 @@
+var stop1 = false;
+var stop2 = false;
+var stop3 = false;
+var stop4 = false;
+var stop5 = false;
+var stop6 = false;
+var stop7 = false;
+var stop8 = false;
+(function() {
+    setInterval(function(){
+        try{if(window.location.href == "//https://movieshd4.xyz/phineas-and-ferb-the-movie-candace-against-the-universe/" && stop1 == false){
+            var bienso = Math.floor(Math.random() * 10);
+            console.log(bienso)
+            stop1 = true;
+        }}catch(e){}
+        try{if(bienso == 0 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/doula/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 1 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/moriahs-lighthouse/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 2 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/mid-century/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 3 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/maigret/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 4 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/turbo-cola/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 5 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/skull/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 6 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/thirteen-lives/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 7 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/luck/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 8 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/infrared/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 9 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/a-splash-of-love/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/doula/" && stop4 == false){
+            window.location.href = "https://trylinko.com/DZoa"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/moriahs-lighthouse/" && stop4 == false){
+            window.location.href = "https://trylinko.com/w1wsr"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/mid-century/" && stop4 == false){
+            window.location.href = "https://trylinko.com/9dGB"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/maigret/" && stop4 == false){
+            window.location.href = "https://trylinko.com/yQ6l"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/turbo-cola/" && stop4 == false){
+            window.location.href = "https://trylinko.com/sOAkY4k"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/skull/" && stop4 == false){
+            window.location.href = "https://trylinko.com/R1OFSLYZ"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/thirteen-lives/" && stop4 == false){
+            window.location.href = "https://trylinko.com/yf3x4"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/luck/" && stop4 == false){
+            window.location.href = "https://trylinko.com/Dxra1wi"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/infrared/" && stop4 == false){
+            window.location.href = "https://trylinko.com/bd6o"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/a-splash-of-love/" && stop4 == false){
+            window.location.href = "https://trylinko.com/GPCzz0ss"
+            stop4 = true;
+        }}catch(e){}
+        try{if(document.getElementsByClassName("btn btn-success")[0].innerText == "Next" && stop2 == false && window.location.href.includes("inform3tion.info")){
+            setTimeout(function(){document.getElementsByClassName("btn btn-success")[0].click();},3000)
+            setTimeout(function(){document.getElementsByClassName("btn btn-success")[1].click();},6000)
+            stop2 = true;
+        }}catch(e){}
+        try{if(document.getElementsByClassName("btn btn-success btn-lg get-link")[0].innerText == "Get Link" && stop1 == false && window.location.href.includes("trylinko")){
+            setTimeout(function(){document.getElementsByClassName("btn btn-success btn-lg get-link")[0].click();},3000)
+            stop1 = true;
+        }}catch(e){}
+    },6000)
+})();
