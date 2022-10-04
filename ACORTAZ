@@ -1,0 +1,265 @@
+var stop1 = false;
+var stop2 = false;
+var stop3 = false;
+var stop4 = false;
+var stop5 = false;
+var stop6 = false;
+var stop7 = false;
+var stop8 = false;
+(function() {
+    setInterval(function(){
+        try{if(window.location.href == "https://movieshd4.xyz/welcome-to-the-circle/" && stop1 == false){
+            var bienso = Math.floor(Math.random() * 30);
+            console.log(bienso)
+            stop1 = true;
+        }}catch(e){}
+        try{if(bienso == 0 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/dont-look-up/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 1 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/mass/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 2 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/the-matrix-resurrections/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 3 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/last-looks/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 4 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/the-kindred/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 5 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/project-gemini/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 6 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/turning-red/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 7 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/dog/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 8 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/spider-man-no-way-home/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 9 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/the-adam-project/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 10 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/american-sicario/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 11 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/national-champions/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 12 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/see-for-me/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 13 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/death-link/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 14 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/the-tender-bar/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 15 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/halloween-kills/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 16 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/the-auschwitz-report/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 17 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/riverdance-the-animated-adventure/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 18 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/italian-studies/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 19 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/the-free-fall/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 20 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/interceptor/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 21 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/the-overnight/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 22 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/fire-island/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 23 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/rrr/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 24 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/double-threat/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 25 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/zombies-3/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 26 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/diary-of-a-spy/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 27 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/my-daughters-killer/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 28 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/curse-of-the-macbeths/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 29 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/the-modern-way/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/dont-look-up/" && stop4 == false){
+            window.location.href = "https://m.finanzas-vida.com/EplQrO"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/mass/" && stop4 == false){
+            window.location.href = "https://m.finanzas-vida.com/cqGO6"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/the-matrix-resurrections/" && stop4 == false){
+            window.location.href = "https://m.finanzas-vida.com/pfrWm8eN"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/last-looks/" && stop4 == false){
+            window.location.href = "https://m.finanzas-vida.com/FqmcDd"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/the-kindred/" && stop4 == false){
+            window.location.href = "https://m.finanzas-vida.com/OIQfKPlF"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/project-gemini/" && stop4 == false){
+            window.location.href = "https://m.finanzas-vida.com/JPbDxd"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/turning-red/" && stop4 == false){
+            window.location.href = "https://m.finanzas-vida.com/TvQQGxZq"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/dog/" && stop4 == false){
+            window.location.href = "https://m.finanzas-vida.com/NRIF3"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/spider-man-no-way-home/" && stop4 == false){
+            window.location.href = "https://m.finanzas-vida.com/5LpL9"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/the-adam-project/" && stop4 == false){
+            window.location.href = "https://m.finanzas-vida.com/PPNCTqs"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/american-sicario/" && stop4 == false){
+            window.location.href = "https://m.finanzas-vida.com/DtsK6G"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/national-champions/" && stop4 == false){
+            window.location.href = "https://m.finanzas-vida.com/64VMO"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/see-for-me/" && stop4 == false){
+            window.location.href = "https://m.finanzas-vida.com/UG8GPu"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/death-link/" && stop4 == false){
+            window.location.href = "https://m.finanzas-vida.com/bL80PC"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/the-tender-bar/" && stop4 == false){
+            window.location.href = "https://m.finanzas-vida.com/AZuaddO"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/halloween-kills/" && stop4 == false){
+            window.location.href = "https://m.finanzas-vida.com/ERzZgo2"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/the-auschwitz-report/" && stop4 == false){
+            window.location.href = "https://m.finanzas-vida.com/GUjLb"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/riverdance-the-animated-adventure/" && stop4 == false){
+            window.location.href = "https://m.finanzas-vida.com/u3DeA1"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/italian-studies/" && stop4 == false){
+            window.location.href = "https://m.finanzas-vida.com/OQvix"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/the-free-fall/" && stop4 == false){
+            window.location.href = "https://m.finanzas-vida.com/dCRGX3qO"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/interceptor/" && stop4 == false){
+            window.location.href = "https://m.finanzas-vida.com/syul5wIF"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/the-overnight/" && stop4 == false){
+            window.location.href = "https://m.finanzas-vida.com/gfOAEZr"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/fire-island/" && stop4 == false){
+            window.location.href = "https://m.finanzas-vida.com/vEmmYywk"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/rrr/" && stop4 == false){
+            window.location.href = "https://m.finanzas-vida.com/3UxpEsU"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/double-threat/" && stop4 == false){
+            window.location.href = "https://m.finanzas-vida.com/m9IpX"
+            stop4 = true;
+        }}catch(e){}
+         try{if(window.location.href == "https://movieshd4.xyz/zombies-3/" && stop4 == false){
+            window.location.href = "https://m.finanzas-vida.com/6PUVOB"
+            stop4 = true;
+        }}catch(e){}
+         try{if(window.location.href == "https://movieshd4.xyz/diary-of-a-spy/" && stop4 == false){
+            window.location.href = "https://m.finanzas-vida.com/cUs3BA"
+            stop4 = true;
+        }}catch(e){}
+         try{if(window.location.href == "https://movieshd4.xyz/my-daughters-killer/" && stop4 == false){
+            window.location.href = "https://m.finanzas-vida.com/zkKrd"
+            stop4 = true;
+        }}catch(e){}
+         try{if(window.location.href == "https://movieshd4.xyz/curse-of-the-macbeths/" && stop4 == false){
+            window.location.href = "https://m.finanzas-vida.com/0H1Fbj0U"
+            stop4 = true;
+        }}catch(e){}
+         try{if(window.location.href == "https://movieshd4.xyz/the-modern-way/" && stop4 == false){
+            window.location.href = "https://m.finanzas-vida.com/8a2WM"
+            stop4 = true;
+        }}catch(e){}
+        try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop1 == false){
+            setTimeout(function(){document.getElementsByClassName("btn btn-primary btn-captcha")[0].click();},3000)
+            stop1 = true;
+        }}catch(e){}
+        try{if(document.getElementsByClassName("btn btn-primary btn-block get-link")[0].innerText == "Get Link" && stop2 == false){
+            setTimeout(function(){document.getElementsByClassName("btn btn-primary btn-block get-link")[0].click();},3000)
+            stop2 = true;
+        }}catch(e){}
+    },6000)
+})();
