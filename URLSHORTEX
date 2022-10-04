@@ -1,0 +1,74 @@
+var stop1 = false;
+var stop2 = false;
+var stop3 = false;
+var stop4 = false;
+var stop5 = false;
+var stop6 = false;
+var stop7 = false;
+var stop8 = false;
+(function() {
+    setInterval(function(){
+        try{if(window.location.href == "https://movieshd4.xyz/bring-me-a-dream/" && stop1 == false){
+            var bienso = Math.floor(Math.random() * 5);
+            console.log(bienso)
+            stop1 = true;
+        }}catch(e){}
+        try{if(bienso == 0 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/bandit/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 1 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/bodies-bodies-bodies/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 2 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/ravens-hollow/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 3 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/meet-cute/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 4 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/the-infernal-machine/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/bandit/" && stop4 == false){
+            window.location.href = "https://link.wrbloggers.com/?key=zsPhES41"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/bodies-bodies-bodies/" && stop4 == false){
+            window.location.href = "https://link.wrbloggers.com/?key=B3Ts1"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/ravens-hollow/" && stop4 == false){
+            window.location.href = "https://link.wrbloggers.com/?key=xlKxLmPT1"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/meet-cute/" && stop4 == false){
+            window.location.href = "https://link.wrbloggers.com/?key=dOsu1"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/the-infernal-machine/" && stop4 == false){
+            window.location.href = "https://link.wrbloggers.com/?key=RUfkal1"
+            stop4 = true;
+        }}catch(e){}
+        try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop1 == false && window.location.href.includes("ls2earn.com")){
+            setTimeout(function(){document.getElementsByClassName("btn btn-primary btn-captcha")[0].click();},3000);
+            stop1 = true;
+        }}catch(e){}
+        try{if(document.getElementById("vip_timer").innerText == "0" && stop3 == false && window.location.href.includes("wrbloggers.com")){
+            setTimeout(function(){document.getElementsByClassName("btn")[0].click();},5000);
+            stop3 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("vignette") && stop2 == false && window.location.href.includes("wrbloggers.com")){
+            setTimeout(function(){document.getElementsByClassName("btn")[0].click();},5000);
+            stop2 = true;
+        }}catch(e){}
+        try{if(document.getElementsByClassName("btn btn-success btn-lg get-link")[0].innerText == "GET LINK" && stop5 == false && window.location.href.includes("ls2earn.com")){
+            setTimeout(function(){document.getElementsByClassName("btn btn-success btn-lg get-link")[0].click();},3000);
+            setTimeout(function(){document.getElementsByClassName("btn btn-success btn-lg get-link")[0].click();},6000);
+            stop5 = true;
+        }}catch(e){}
+    },6000)
+})();
