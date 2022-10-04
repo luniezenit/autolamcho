@@ -1,0 +1,109 @@
+var stop1 = false;
+var stop2 = false;
+var stop3 = false;
+var stop4 = false;
+var stop5 = false;
+var stop6 = false;
+var stop7 = false;
+var stop8 = false;
+(function() {
+    setInterval(function(){
+        try{if(window.location.href == "//https://movieshd4.xyz/playhouse/" && stop1 == false){
+            var bienso = Math.floor(Math.random() * 10);
+            console.log(bienso)
+            stop1 = true;
+        }}catch(e){}
+        try{if(bienso == 0 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/orphan-first-kill/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 1 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/the-stranger-in-our-bed/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 2 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/glorious/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 3 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/vengeance-2/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 4 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/ppp-loan-gone/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 5 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/bullet-proof/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 6 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/sharp-stick/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 7 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/royalteen/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 8 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/look-both-ways/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 9 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/lie-hard/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/orphan-first-kill/" && stop4 == false){
+            window.location.href = "https://dexlink.xyz/hzvWIX18"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/the-stranger-in-our-bed/" && stop4 == false){
+            window.location.href = "https://dexlink.xyz/n3xUC6Ei"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/glorious/" && stop4 == false){
+            window.location.href = "https://dexlink.xyz/k3CV2"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/vengeance-2/" && stop4 == false){
+            window.location.href = "https://dexlink.xyz/DufW3G4c"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/ppp-loan-gone/" && stop4 == false){
+            window.location.href = "https://dexlink.xyz/09wuFta"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/bullet-proof/" && stop4 == false){
+            window.location.href = "https://dexlink.xyz/v6Lmp"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/sharp-stick/" && stop4 == false){
+            window.location.href = "https://dexlink.xyz/DtQbUS"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/royalteen/" && stop4 == false){
+            window.location.href = "https://dexlink.xyz/LJFdJw"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/look-both-ways/" && stop4 == false){
+            window.location.href = "https://dexlink.xyz/hlipB"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/lie-hard/" && stop4 == false){
+            window.location.href = "https://dexlink.xyz/NHhHk"
+            stop4 = true;
+        }}catch(e){}
+         try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop1 == false && window.location.href.includes("madshiba.fun")){
+            setTimeout(function(){document.getElementsByTagName("input")[1].click();},3000)
+            stop1 = true;
+        }}catch(e){}
+        try{if(document.getElementById("timer").innerText == "0" && stop1 == false && window.location.href.includes("madshiba.fun") && document.getElementsByTagName("h6")[1].innerText.includes("Step 3")){
+            setTimeout(function(){document.getElementsByTagName("input")[1].click();},3000)
+            stop1 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("madshiba.fun") && document.getElementsByTagName("h6")[1].innerText.includes("FINISH")){
+            setTimeout(function(){document.getElementsByTagName("input")[1].click();},3000)
+            stop1 = true;
+        }}catch(e){}
+    },6000)
+})();
