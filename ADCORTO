@@ -9,7 +9,7 @@ var stop8 = false;
 (function() {
     setInterval(function(){
         try{if(window.location.href == "https://movieshd4.xyz/summerland/" && stop1 == false){
-            var bienso = Math.floor(Math.random() * 10);
+            var bienso = Math.floor(Math.random() * 16);
             console.log(bienso)
             stop1 = true;
         }}catch(e){}
@@ -53,6 +53,30 @@ var stop8 = false;
             window.location.href = "https://docs.google.com/document/d/1kE9EW8tT9CNfg58z2YLfD18nUQSWJefIUzH2UbzcsXY"
             stop2 = true;
         }}catch(e){}
+        try{if(bienso == 10 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/1RipPSeq1g2stwVagFy1ul6NpGTc9ZsIZWf3t0uptTyQ"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 11 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/1ybD4hxmdywxhf3WR-8R1tcytxUoPjseM8fjiWgi-8do"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 12 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/1gB0UyR1ouOLVGy9Q5D52FlwQ8ykc9BOKyoBMxIE52ek"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 13 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/1jBYAHA0n-8nU17hTZvAMgH3qk3m-TWf-TyDDInFeei0"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 14 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/10JDOT6oQ0BYgiy0QRr4nghDUXVDogz7C6z94utFhcUY"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 15 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/1yH7tZoX9_H2_eyz5h7q3mpQe7lP6ps1UVGcWD2QVr2k"
+            stop2 = true;
+        }}catch(e){}
         try{if(window.location.href.includes("1aH-tAtNbU_1m5_0_GHOup-j8wL3qkzjTwju9U8veNA8") && stop4 == false){
             window.location.href = "https://dupload.net/lgoz8em22ou1"
             stop4 = true;
@@ -91,6 +115,30 @@ var stop8 = false;
         }}catch(e){}
         try{if(window.location.href.includes("1kE9EW8tT9CNfg58z2YLfD18nUQSWJefIUzH2UbzcsXY") && stop4 == false){
             window.location.href = "https://dupload.net/lazzfbolu0fv"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1RipPSeq1g2stwVagFy1ul6NpGTc9ZsIZWf3t0uptTyQ") && stop4 == false){
+            window.location.href = "https://dupload.net/xvbxyy0sd9oa"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1ybD4hxmdywxhf3WR-8R1tcytxUoPjseM8fjiWgi-8do") && stop4 == false){
+            window.location.href = "https://dupload.net/lnlq95fyujm9"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1gB0UyR1ouOLVGy9Q5D52FlwQ8ykc9BOKyoBMxIE52ek") && stop4 == false){
+            window.location.href = "https://dupload.net/s4xc20egh3ld"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1jBYAHA0n-8nU17hTZvAMgH3qk3m-TWf-TyDDInFeei0") && stop4 == false){
+            window.location.href = "https://dupload.net/9rz2my1sipsv"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("10JDOT6oQ0BYgiy0QRr4nghDUXVDogz7C6z94utFhcUY") && stop4 == false){
+            window.location.href = "https://dupload.net/p9q77pzcvxm1"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1yH7tZoX9_H2_eyz5h7q3mpQe7lP6ps1UVGcWD2QVr2k") && stop4 == false){
+            window.location.href = "https://dupload.net/ssjz8rg0tk5j"
             stop4 = true;
         }}catch(e){}
         try{if(window.location.href.includes("vignette") && stop2 == false && window.location.href.includes("techyreviewx.com")){
