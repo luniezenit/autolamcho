@@ -9,7 +9,7 @@ var stop8 = false;
 (function() {
     setInterval(function(){
         try{if(window.location.href == "https://movieshd4.xyz/malwarebytes/" && stop1 == false){
-            var bienso = Math.floor(Math.random() * 20);
+            var bienso = Math.floor(Math.random() * 26);
             console.log(bienso)
             stop1 = true;
         }}catch(e){}
@@ -93,6 +93,30 @@ var stop8 = false;
             window.location.href = "https://docs.google.com/document/d/1cC9cKDyAXcHMtJsPL5vPfKhRuwrO-rndXbaNIcYXA18"
             stop2 = true;
         }}catch(e){}
+        try{if(bienso == 20 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/1-QHtEh56fhBe6eadNpEp_cK1iaNVPgLg6SBWMWCANew"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 21 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/1RI6I5mNe_WhxdEVhaskw1yMVHisvRRP86lhkNr4sC-E"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 22 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/1FHC27Z9At1aL-i3-Ts5GADhVQwMv0Bxyb1wI2yo9zdI"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 23 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/1J5leRBelg3uub7RcezNhMxs0tXxCM-TgBPvwjqZWHao"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 24 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/1iCVjvVFcHXkwVcC5kjyigh0v3l0mSlDiGKTNIlh_WRY"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 25 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/1EZTtQWODCxy7WNp_-JqbqUVv84EbA180jT7-C8XE85o"
+            stop2 = true;
+        }}catch(e){}
         try{if(window.location.href.includes("1D8T41pHc5USHXdb8vqIFa0zUGnsD8ktP465u8OXXOgA") && stop4 == false){
             window.location.href = "https://usersdrive.com/mghk9flfx4fw.html"
             stop4 = true;
@@ -171,6 +195,30 @@ var stop8 = false;
         }}catch(e){}
         try{if(window.location.href.includes("1cC9cKDyAXcHMtJsPL5vPfKhRuwrO-rndXbaNIcYXA18") && stop4 == false){
             window.location.href = "https://usersdrive.com/uou89g6vg6il.html"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1-QHtEh56fhBe6eadNpEp_cK1iaNVPgLg6SBWMWCANew") && stop4 == false){
+            window.location.href = "https://usersdrive.com/ct8profqfv13.html"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1RI6I5mNe_WhxdEVhaskw1yMVHisvRRP86lhkNr4sC-E") && stop4 == false){
+            window.location.href = "https://usersdrive.com/xixwvhl8k6ex.html"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1FHC27Z9At1aL-i3-Ts5GADhVQwMv0Bxyb1wI2yo9zdI") && stop4 == false){
+            window.location.href = "https://usersdrive.com/m4hsiyw4di1f.html"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1J5leRBelg3uub7RcezNhMxs0tXxCM-TgBPvwjqZWHao") && stop4 == false){
+            window.location.href = "https://usersdrive.com/qcln8hsgkufd.html"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1iCVjvVFcHXkwVcC5kjyigh0v3l0mSlDiGKTNIlh_WRY") && stop4 == false){
+            window.location.href = "https://usersdrive.com/3na6av1wye62.html"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1EZTtQWODCxy7WNp_-JqbqUVv84EbA180jT7-C8XE85o") && stop4 == false){
+            window.location.href = "https://usersdrive.com/fxr9s90e4j0a.html"
             stop4 = true;
         }}catch(e){}
         try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop1 == false && window.location.href.includes("usersdrive.com") && document.getElementsByClassName("seconds")[0].innerText == ""){
