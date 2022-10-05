@@ -9,168 +9,56 @@ var stop8 = false;
 (function() {
     setInterval(function(){
         try{if(window.location.href == "https://movieshd4.xyz/joker/" && stop1 == false){
-            var bienso = Math.floor(Math.random() * 20);
+            var bienso = Math.floor(Math.random() * 6);
             console.log(bienso)
             stop1 = true;
         }}catch(e){}
         try{if(bienso == 0 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/12bR7KrObqkpAVDiu3-es-2f5uva2m6ahHRAKVDClLuM"
+            window.location.href = "https://docs.google.com/document/d/11zIl5hJ9oxS11P5-AUS55Ls3Go63odGzhhndH-Id3bQ"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 1 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1i58Dhf0sQOyyeCRLuglLT9bOWlEL7xMEEEv7HjQ49vQ"
+            window.location.href = "https://docs.google.com/document/d/1cEIS_g5UniLt7BVqo5MYKfVrFHGcRAiAMHxcGbBY81Q"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 2 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1qwSZuvv8TAs8IMsgnWXHlqC4dKgUKOeKa3TQGt12rWY"
+            window.location.href = "https://docs.google.com/document/d/13setXCe8ir9XEi8d2_GKjCfxFEaUV1xgB82OHWfiHQM"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 3 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1GpA8SRfv8ZW8Xjfj4KdSc29ee6R1Dh7lO43c20tGrYc"
+            window.location.href = "https://docs.google.com/document/d/1RmZcKFdHpEw48GlriSCYWSrTDysbnT_aOtwa9QEPr7g"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 4 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1t_HBXjC4ndDjfSyo3wAMFubkE_a_wvZaYgWDFajfRbw"
+            window.location.href = "https://docs.google.com/document/d/1QAk-Ok4xMUGIHe1wAY2JbKjSkraFBVEAaZAm_w-1ygE"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 5 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1t7NVN0NM7Y1D63xAaUL0QofHZkALU6m1lu6Ix3IUayM"
+            window.location.href = "https://docs.google.com/document/d/1-_lEncXNgHgBRiE-OCHJhiNHU_CXwHBZi0L5zMPkO4I"
             stop2 = true;
         }}catch(e){}
-        try{if(bienso == 6 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/18d9PTdLe2liboFtucU7yAO3zmBsfTInvnrW7RBT2Wtc"
-            stop2 = true;
-        }}catch(e){}
-        try{if(bienso == 7 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1PABuSTUK0NNvDHOfr6ew5CyDBNrmYnqq-fuWwipa6jU"
-            stop2 = true;
-        }}catch(e){}
-        try{if(bienso == 8 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1enbpWQE2Yfz0HVLj8Drelao-HPO9qjWB9vt8Vwq7_n4"
-            stop2 = true;
-        }}catch(e){}
-        try{if(bienso == 9 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1Mp-MZLHNRxVRFdLalLL2qKCoDL4Deqdbzo3MV4H8UDs"
-            stop2 = true;
-        }}catch(e){}
-        try{if(bienso == 10 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1aGFqoVBmRYvKNmuzqK6SVa2ac15UUs52YNdYPBZ7zis"
-            stop2 = true;
-        }}catch(e){}
-        try{if(bienso == 11 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1PImmYpTVjUcISP35A4OV7atkE6PXbk8whIiGxJTs3Gs"
-            stop2 = true;
-        }}catch(e){}
-        try{if(bienso == 12 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1hawuhUrgaLqUGN9xZz2RWoaNQDxeNPPp0DHIie4U8TQ"
-            stop2 = true;
-        }}catch(e){}
-        try{if(bienso == 13 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1Fyj2mRwNKcswob2cW77M6Y235AQVDzS7GLq0HbGiFps"
-            stop2 = true;
-        }}catch(e){}
-        try{if(bienso == 14 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/16P_XRfFoIE8zClx44Ve3gJzI4d8LlNf-O2BlCkuQEzU"
-            stop2 = true;
-        }}catch(e){}
-        try{if(bienso == 15 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/17FvObxa_cgF_VmuuF9fX8PqUIwb5RbeuqxuTnicUiZ0"
-            stop2 = true;
-        }}catch(e){}
-        try{if(bienso == 16 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1923LQH1RqGOyycBI3tfbZfv-OYdN36OG8oeBUYZB7IA"
-            stop2 = true;
-        }}catch(e){}
-        try{if(bienso == 17 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1wH0ZvYiJyrCyulJUUnlzxCNIu5cLR0LudOXVQHlxwaE"
-            stop2 = true;
-        }}catch(e){}
-        try{if(bienso == 18 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1gZyUk59jypLoZ5XzZpx6ZaWRLk88Nln0QWz6IzhWvNY"
-            stop2 = true;
-        }}catch(e){}
-        try{if(bienso == 19 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1oElzEi1CxN8Ei2ln5IIvEWejnlQlyOdg5wX9oaV-EBs"
-            stop2 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("12bR7KrObqkpAVDiu3-es-2f5uva2m6ahHRAKVDClLuM") && stop4 == false){
-            window.location.href = "https://iir.ai/tCnWkIE"
+        try{if(window.location.href.includes("11zIl5hJ9oxS11P5-AUS55Ls3Go63odGzhhndH-Id3bQ") && stop4 == false){
+            window.location.href = "https://oko.sh/iCOpvX4PPA"
             stop4 = true;
         }}catch(e){}
-        try{if(window.location.href.includes("1i58Dhf0sQOyyeCRLuglLT9bOWlEL7xMEEEv7HjQ49vQ") && stop4 == false){
-            window.location.href = "https://iir.ai/6LUIE3"
+        try{if(window.location.href.includes("1cEIS_g5UniLt7BVqo5MYKfVrFHGcRAiAMHxcGbBY81Q") && stop4 == false){
+            window.location.href = "https://oko.sh/W4c2dIdh"
             stop4 = true;
         }}catch(e){}
-        try{if(window.location.href.includes("1qwSZuvv8TAs8IMsgnWXHlqC4dKgUKOeKa3TQGt12rWY") && stop4 == false){
-            window.location.href = "https://iir.ai/FjTx"
+        try{if(window.location.href.includes("13setXCe8ir9XEi8d2_GKjCfxFEaUV1xgB82OHWfiHQM") && stop4 == false){
+            window.location.href = "https://oko.sh/MGRkj"
             stop4 = true;
         }}catch(e){}
-        try{if(window.location.href.includes("1GpA8SRfv8ZW8Xjfj4KdSc29ee6R1Dh7lO43c20tGrYc") && stop4 == false){
-            window.location.href = "https://iir.ai/IokdLran"
+        try{if(window.location.href.includes("1RmZcKFdHpEw48GlriSCYWSrTDysbnT_aOtwa9QEPr7g") && stop4 == false){
+            window.location.href = "https://oko.sh/WSznnzQXm"
             stop4 = true;
         }}catch(e){}
-        try{if(window.location.href.includes("1t_HBXjC4ndDjfSyo3wAMFubkE_a_wvZaYgWDFajfRbw") && stop4 == false){
-            window.location.href = "https://iir.ai/ZTQDmyjw"
+        try{if(window.location.href.includes("1QAk-Ok4xMUGIHe1wAY2JbKjSkraFBVEAaZAm_w-1ygE") && stop4 == false){
+            window.location.href = "https://oko.sh/8T63bnVX"
             stop4 = true;
         }}catch(e){}
-        try{if(window.location.href.includes("1t7NVN0NM7Y1D63xAaUL0QofHZkALU6m1lu6Ix3IUayM") && stop4 == false){
-            window.location.href = "https://iir.ai/bXdORU72"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("18d9PTdLe2liboFtucU7yAO3zmBsfTInvnrW7RBT2Wtc") && stop4 == false){
-            window.location.href = "https://iir.ai/Sf2BZrEs"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("1PABuSTUK0NNvDHOfr6ew5CyDBNrmYnqq-fuWwipa6jU") && stop4 == false){
-            window.location.href = "https://iir.ai/tphY"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("1enbpWQE2Yfz0HVLj8Drelao-HPO9qjWB9vt8Vwq7_n4") && stop4 == false){
-            window.location.href = "https://iir.ai/bFjAvVh"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("1Mp-MZLHNRxVRFdLalLL2qKCoDL4Deqdbzo3MV4H8UDs") && stop4 == false){
-            window.location.href = "https://iir.ai/PyyQn"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("1aGFqoVBmRYvKNmuzqK6SVa2ac15UUs52YNdYPBZ7zis") && stop4 == false){
-            window.location.href = "https://iir.ai/y4YUbt"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("1PImmYpTVjUcISP35A4OV7atkE6PXbk8whIiGxJTs3Gs") && stop4 == false){
-            window.location.href = "https://iir.ai/cws2QC1"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("1hawuhUrgaLqUGN9xZz2RWoaNQDxeNPPp0DHIie4U8TQ") && stop4 == false){
-            window.location.href = "https://iir.ai/Em2B1YGPs"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("1Fyj2mRwNKcswob2cW77M6Y235AQVDzS7GLq0HbGiFps") && stop4 == false){
-            window.location.href = "https://iir.ai/slHQBkt"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("16P_XRfFoIE8zClx44Ve3gJzI4d8LlNf-O2BlCkuQEzU") && stop4 == false){
-            window.location.href = "https://iir.ai/mevNVnjI"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("17FvObxa_cgF_VmuuF9fX8PqUIwb5RbeuqxuTnicUiZ0") && stop4 == false){
-            window.location.href = "https://iir.ai/lLpNrxCj5o"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("1923LQH1RqGOyycBI3tfbZfv-OYdN36OG8oeBUYZB7IA") && stop4 == false){
-            window.location.href = "https://iir.ai/uWKuzOWw1"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("1wH0ZvYiJyrCyulJUUnlzxCNIu5cLR0LudOXVQHlxwaE") && stop4 == false){
-            window.location.href = "https://iir.ai/iIOevk"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("1gZyUk59jypLoZ5XzZpx6ZaWRLk88Nln0QWz6IzhWvNY") && stop4 == false){
-            window.location.href = "https://iir.ai/XmFdSdFuWy"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("1oElzEi1CxN8Ei2ln5IIvEWejnlQlyOdg5wX9oaV-EBs") && stop4 == false){
-            window.location.href = "https://iir.ai/KtxkcSo3"
+        try{if(window.location.href.includes("1-_lEncXNgHgBRiE-OCHJhiNHU_CXwHBZi0L5zMPkO4I") && stop4 == false){
+            window.location.href = "https://oko.sh/tF7aQDs7"
             stop4 = true;
         }}catch(e){}
         try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop2 == false && window.location.href.includes("oko.sh")){
