@@ -9,7 +9,7 @@ var stop8 = false;
 (function() {
     setInterval(function(){
         try{if(window.location.href == "https://movieshd4.xyz/godmothered/" && stop1 == false){
-            var bienso = Math.floor(Math.random() * 25);
+            var bienso = Math.floor(Math.random() * 31);
             console.log(bienso)
             stop1 = true;
         }}catch(e){}
@@ -113,6 +113,30 @@ var stop8 = false;
             window.location.href = "https://docs.google.com/document/d/1JXRzMcEbM7SdAkR19-tUSQZ4FKK0WRyklLXinB98mjg"
             stop2 = true;
         }}catch(e){}
+        try{if(bienso == 25 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/13h8V5smJLUxi4ExaJ8OnBv6YbGHdpDXzDdimlAoOwpY"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 26 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/1foDxE-9yCGUTAqD23uLHzp2jdoKSDIe-zeHBBafAXZI"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 27 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/1lDopv5FamgdEEMz9zgbdxVKKVIfGNxoRGT8Z9rpgVgk"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 28 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/1TTu30Vke4RFOcVxXBG3wD9VA-GBz8psYZx_tk0ivRgY"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 29 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/11uNBHq8lKPBwiV85EkJFsvGrK-5uYYAT4dIsKGUGVak"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 30 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/16XyrLSnchVacTFLvCdEyohTsw0amgKeyjsugbyM_MBI"
+            stop2 = true;
+        }}catch(e){}
         try{if(window.location.href.includes("1sI2T1O5KNwCp2V13YgN6ANsaszI8MYRU0LEmA-a4nZU") && stop4 == false){
             window.location.href = "https://fc.lc/WGxm3a7"
             stop4 = true;
@@ -211,6 +235,30 @@ var stop8 = false;
         }}catch(e){}
         try{if(window.location.href.includes("1JXRzMcEbM7SdAkR19-tUSQZ4FKK0WRyklLXinB98mjg") && stop4 == false){
             window.location.href = "https://fc-lc.com/ddOixC5O"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("13h8V5smJLUxi4ExaJ8OnBv6YbGHdpDXzDdimlAoOwpY") && stop4 == false){
+            window.location.href = "https://fc-lc.com/wJMNJ"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1foDxE-9yCGUTAqD23uLHzp2jdoKSDIe-zeHBBafAXZI") && stop4 == false){
+            window.location.href = "https://fc-lc.com/s2cP"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1lDopv5FamgdEEMz9zgbdxVKKVIfGNxoRGT8Z9rpgVgk") && stop4 == false){
+            window.location.href = "https://fc-lc.com/FUYnc"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1TTu30Vke4RFOcVxXBG3wD9VA-GBz8psYZx_tk0ivRgY") && stop4 == false){
+            window.location.href = "https://fc-lc.com/F79ttos"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("11uNBHq8lKPBwiV85EkJFsvGrK-5uYYAT4dIsKGUGVak") && stop4 == false){
+            window.location.href = "https://fc-lc.com/salfP"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("16XyrLSnchVacTFLvCdEyohTsw0amgKeyjsugbyM_MBI") && stop4 == false){
+            window.location.href = "https://fc-lc.com/E9LwX1"
             stop4 = true;
         }}catch(e){}
         try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop1 == false && document.getElementsByClassName("g-recaptcha btn btn-primary ")[0].innerText == "Click here to continue"){
