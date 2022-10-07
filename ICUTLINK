@@ -9,89 +9,401 @@ var stop8 = false;
 (function() {
     setInterval(function(){
         try{if(window.location.href == "https://movieshd4.xyz/happy-horror-days/" && stop1 == false){
-            var bienso = Math.floor(Math.random() * 6);
+            var bienso = Math.floor(Math.random() * 42);
             console.log(bienso)
             stop1 = true;
         }}catch(e){}
         try{if(bienso == 0 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1-4lnktpiVNOxmJT5NqJcJG-JesYoDcX02MuETTqUBus"
+            window.location.href = "https://movieshd4.xyz/ghostbusters-afterlife/"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 1 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/156iPgFomH0eWAVzIIu5as-JQmFPMZ5_7Vk5_eWvsk8Q"
+            window.location.href = "https://movieshd4.xyz/the-power-of-the-dog/"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 2 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1BPyoPA0wYh2Cc8IG8MwucKrTe3QKsYsDXS_t0HL50EQ"
+            window.location.href = "https://movieshd4.xyz/my-love/"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 3 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1TFVAUJTIURuMIyy8ia3Q-S8h6wRKqEbG0d8PVUDJfvo"
+            window.location.href = "https://movieshd4.xyz/the-lost-daughter/"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 4 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1LBfzngY_ehNiPjxeW0nJpbEWxS6wqAzyFVT0rCJsr0s"
+            window.location.href = "https://movieshd4.xyz/road-to-perth/"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 5 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1WJMehNST83s0Ehnld114Asvn-UsQ3h9MrzRc7ChpiLU"
+            window.location.href = "https://movieshd4.xyz/the-worst-person-in-the-world/"
             stop2 = true;
         }}catch(e){}
-        try{if(window.location.href.includes("1-4lnktpiVNOxmJT5NqJcJG-JesYoDcX02MuETTqUBus") && stop4 == false){
-            window.location.href = "https://clks.pro/pFmXRVmP"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("156iPgFomH0eWAVzIIu5as-JQmFPMZ5_7Vk5_eWvsk8Q") && stop4 == false){
-            window.location.href = "https://clks.pro/Uynlb"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("1BPyoPA0wYh2Cc8IG8MwucKrTe3QKsYsDXS_t0HL50EQ") && stop4 == false){
-            window.location.href = "https://clks.pro/jtclm"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("1TFVAUJTIURuMIyy8ia3Q-S8h6wRKqEbG0d8PVUDJfvo") && stop4 == false){
-            window.location.href = "https://clks.pro/k1B2avP"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("1LBfzngY_ehNiPjxeW0nJpbEWxS6wqAzyFVT0rCJsr0s") && stop4 == false){
-            window.location.href = "https://clks.pro/GqQPVE"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("1WJMehNST83s0Ehnld114Asvn-UsQ3h9MrzRc7ChpiLU") && stop4 == false){
-            window.location.href = "https://clks.pro/lFFRXt"
-            stop4 = true;
-        }}catch(e){}
-        try{for(var u=0;u<200;u++){
-            if(document.getElementsByTagName("div")[u].innerText.includes("Get Link")){
-                console.log(u);
-                break;
-            }
-        }}catch(e){}
-        try{for(var j=10;j<200;j++){
-            if(document.getElementsByTagName("div")[j].innerHTML.includes("g-recaptcha")){
-                console.log(j);
-                break;
-            }
-        }}catch(e){}
-        try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop3 == false && window.location.href.includes("blog.mdn.lol")){
-            setTimeout(function(){document.getElementsByTagName("input")[1].click();},3000);
+        try{if(bienso == 6 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/onoda-10000-nights-in-the-jungle/"
             stop2 = true;
         }}catch(e){}
-        try{if(document.getElementsByClassName("alert alert-info")[0].innerText.includes("Click the ad, scroll and press") && stop2 == false && window.location.href.includes("techydino.net")){
-            setTimeout(function(){document.getElementsByTagName("div")[u].getElementsByTagName("button")[0].click();},3000);
+        try{if(bienso == 7 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/the-bad-guys/"
             stop2 = true;
         }}catch(e){}
-        try{if(document.getElementsByClassName("alert alert-info")[0].innerText.includes("Click the ad, scroll and press") && stop2 == false && window.location.href.includes("mdn.lol")){
-            setTimeout(function(){document.getElementsByTagName("div")[u].getElementsByTagName("button")[0].click();},3000);
+        try{if(bienso == 8 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/sonic-the-hedgehog-2/"
             stop2 = true;
         }}catch(e){}
-        try{if(document.getElementById("click").innerText.includes("captcha") && stop2 == false && window.location.href.includes("blog.mdn.lol")){
-            setTimeout(function(){document.getElementsByTagName("div")[j].style.display = "block"},3000);
+        try{if(bienso == 9 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/365-days-this-day/"
             stop2 = true;
         }}catch(e){}
-        try{if(document.getElementById("seconds").innerText == "seconds" && stop2 == false && window.location.href.includes("blog.mdn.lol") && document.getElementsByTagName("b")[0].innerText.includes("Timer Ends")){
-            setTimeout(function(){document.getElementsByTagName("input")[1].click();},3000);
+        try{if(bienso == 10 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/uncharted/"
             stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 11 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/the-northman/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 12 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/the-lost-city/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 13 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/lockdown/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 14 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/our-father-2/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 15 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/exposure-36/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 16 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/last-seen-alive/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 17 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/the-unbearable-weight-of-massive-talent/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 18 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/2000-mules/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 19 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/the-spy-who-never-dies/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 20 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/heart-of-the-matter/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 21 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/terror-on-the-prairie/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 22 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/endangered/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 23 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/blasted/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 24 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/death-hunt/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 25 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/frank-and-penelope/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 26 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/neon-lights/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 27 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/for-jojo/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 28 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/the-prey-legend-of-karnoctus/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 29 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/the-witch-part-2-the-other-one/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 30 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/dhaakad/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 31 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/anek/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 32 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/moonshot/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 33 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/ronny-chieng-speakeasy/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 34 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/11m-terror-in-madrid/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 35 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/hillwalkers/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 36 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/hunting-souls/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 37 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/breaking/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 38 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/three-thousand-years-of-longing/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 39 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/shark-bait/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 40 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/boonie-bears-back-to-earth/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 41 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/about-fate/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/ghostbusters-afterlife/" && stop4 == false){
+            window.location.href = "https://link.usalink.io/VCU5u"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/the-power-of-the-dog/" && stop4 == false){
+            window.location.href = "https://link.usalink.io/THyu"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/my-love/" && stop4 == false){
+            window.location.href = "https://link.usalink.io/XuIAyXUo"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/the-lost-daughter/" && stop4 == false){
+            window.location.href = "https://link.usalink.io/caRaG"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/road-to-perth/" && stop4 == false){
+            window.location.href = "https://link.usalink.io/k8GdIR43"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/the-worst-person-in-the-world/" && stop4 == false){
+            window.location.href = "https://link.usalink.io/RtKIh"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/onoda-10000-nights-in-the-jungle/" && stop4 == false){
+            window.location.href = "https://link.usalink.io/WvAQgTIt"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/the-bad-guys/" && stop4 == false){
+            window.location.href = "https://link.usalink.io/emWc"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/sonic-the-hedgehog-2/" && stop4 == false){
+            window.location.href = "https://link.usalink.io/RQ91"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/365-days-this-day/" && stop4 == false){
+            window.location.href = "https://link.usalink.io/NrjFt4"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/uncharted/" && stop4 == false){
+            window.location.href = "https://link.usalink.io/Cw4ARTV"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/the-northman/" && stop4 == false){
+            window.location.href = "https://link.usalink.io/H6a5G"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/the-lost-city/" && stop4 == false){
+            window.location.href = "https://link.usalink.io/HticmHY"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/lockdown/" && stop4 == false){
+            window.location.href = "https://link.usalink.io/Ua0meB"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/our-father-2/" && stop4 == false){
+            window.location.href = "https://link.usalink.io/4bwLaLD"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/exposure-36/" && stop4 == false){
+            window.location.href = "https://link.usalink.io/yPQnh4j"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/last-seen-alive/" && stop4 == false){
+            window.location.href = "https://link.usalink.io/UgSRY"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/the-unbearable-weight-of-massive-talent/" && stop4 == false){
+            window.location.href = "https://link.usalink.io/mYyon"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/2000-mules/" && stop4 == false){
+            window.location.href = "https://link.usalink.io/25jp"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/the-spy-who-never-dies/" && stop4 == false){
+            window.location.href = "https://link.usalink.io/2AGzVQ4x"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/heart-of-the-matter/" && stop4 == false){
+            window.location.href = "https://link.usalink.io/VKOqeM"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/terror-on-the-prairie/" && stop4 == false){
+            window.location.href = "https://link.usalink.io/RhszQZN"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/endangered/" && stop4 == false){
+            window.location.href = "https://link.usalink.io/swmGx"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/blasted/" && stop4 == false){
+            window.location.href = "https://link.usalink.io/Hgnkdgc5"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/death-hunt/" && stop4 == false){
+            window.location.href = "https://link.usalink.io/jT7xB"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/frank-and-penelope/" && stop4 == false){
+            window.location.href = "https://link.usalink.io/gToG"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/neon-lights/" && stop4 == false){
+            window.location.href = "https://link.usalink.io/wiBvxH"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/for-jojo/" && stop4 == false){
+            window.location.href = "https://link.usalink.io/QbwAiN"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/the-prey-legend-of-karnoctus/" && stop4 == false){
+            window.location.href = "https://link.usalink.io/yYZXgAU9"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/the-witch-part-2-the-other-one/" && stop4 == false){
+            window.location.href = "https://link.usalink.io/YIXhsKcq"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/dhaakad/" && stop4 == false){
+            window.location.href = "https://link.usalink.io/pMujtm"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/anek/" && stop4 == false){
+            window.location.href = "https://link.usalink.io/eUzGj"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/moonshot/" && stop4 == false){
+            window.location.href = "https://link.usalink.io/Sm1Dq"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/ronny-chieng-speakeasy/" && stop4 == false){
+            window.location.href = "https://link.usalink.io/oFDMAUUk"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/11m-terror-in-madrid/" && stop4 == false){
+            window.location.href = "https://link.usalink.io/6N17eNr"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/hillwalkers/" && stop4 == false){
+            window.location.href = "https://link.usalink.io/Jk2JxQjq"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/hunting-souls/" && stop4 == false){
+            window.location.href = "https://link.usalink.io/XJHH"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/breaking/" && stop4 == false){
+            window.location.href = "https://link.usalink.io/BOSNbaSB"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/three-thousand-years-of-longing/" && stop4 == false){
+            window.location.href = "https://link.usalink.io/cKhzy"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/shark-bait/" && stop4 == false){
+            window.location.href = "https://link.usalink.io/aJp1YR"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/boonie-bears-back-to-earth/" && stop4 == false){
+            window.location.href = "https://link.usalink.io/MlTHShE1"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/about-fate/" && stop4 == false){
+            window.location.href = "https://link.usalink.io/xKuttDkg"
+            stop4 = true;
+        }}catch(e){}
+        try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop2 == false && window.location.href.includes("insurance-space.xyz") && window.location.href.includes("link") == false){
+            setTimeout(function(){document.getElementsByClassName("btn btn-primary")[0].click();},3000);
+            stop2 = true;
+        }}catch(e){}
+        try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop2 == false && window.location.href.includes("theconomy.me") && window.location.href.includes("link") == false){
+            setTimeout(function(){document.getElementsByClassName("btn btn-primary")[0].click();},3000);
+            stop2 = true;
+        }}catch(e){}
+        try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop2 == false && window.location.href.includes("medipost.org") && window.location.href.includes("link")){
+            setTimeout(function(){document.getElementsByClassName("btn btn-primary btn-captcha")[0].click();},3000);
+            stop2 = true;
+        }}catch(e){}
+        try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop2 == false && window.location.href.includes("theconomy.me") && window.location.href.includes("link")){
+            setTimeout(function(){document.getElementsByClassName("btn btn-primary btn-captcha")[0].click();},3000);
+            stop2 = true;
+        }}catch(e){}
+        try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop2 == false && window.location.href.includes("medipost.org")){
+            setTimeout(function(){document.getElementsByClassName("yu-btn yu-blue")[1].click();},3000);
+            stop2 = true;
+        }}catch(e){}
+        try{if(document.getElementsByClassName("yu-btn yu-go")[0].innerText == "Continue" && stop3 == false && window.location.href.includes("medipost.org")){
+            setTimeout(function(){document.getElementsByClassName("yu-btn yu-go")[0].click();},3000);
+            stop3 = true;
+        }}catch(e){}
+        try{if(document.getElementsByClassName("btn btn-success")[0].innerText == "Get Link" && stop3 == false && window.location.href.includes("theconomy.me")){
+            setTimeout(function(){document.getElementsByClassName("btn btn-success")[0].click();},3000);
+            stop3 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("vignette") && stop4 == false && window.location.href.includes("medipost.org")){
+            setTimeout(function(){document.getElementsByClassName("btn btn-primary")[0].click();},3000);
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("vignette") && stop4 == false && window.location.href.includes("theconomy.me")){
+            setTimeout(function(){document.getElementsByClassName("btn btn-success")[0].click();},3000);
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("vignette") && stop4 == false && window.location.href.includes("links.medipost.org")){
+            setTimeout(function(){document.getElementsByClassName("btn btn-success btn-lg get-link")[0].click();},5000);
+            stop4 = true;
+        }}catch(e){}
+        try{if(document.getElementsByClassName("btn btn-success")[0].innerText == "Get Link" && stop5 == false && window.location.href.includes("insurance-space.xyz")){
+            setTimeout(function(){document.getElementsByClassName("btn btn-success")[0].click();},3000);
+            stop5 = true;
+        }}catch(e){}
+        try{if(document.getElementsByClassName("btn btn-success")[0].innerText == "Get Link" && stop5 == false && window.location.href.includes("links.medipost.org")){
+            setTimeout(function(){document.getElementsByClassName("btn btn-success")[0].click();},3000);
+            stop5 = true;
+        }}catch(e){}
+        try{if(document.getElementsByClassName("btn btn-success")[0].innerText == "Get Link" && stop5 == false && window.location.href.includes("link.theconomy.me")){
+            setTimeout(function(){document.getElementsByClassName("btn btn-success")[0].click();},3000);
+            stop5 = true;
+        }}catch(e){}
+        try{if(document.getElementsByClassName("btn btn-primary")[0].innerText == "GET LINK" && stop5 == false && window.location.href.includes("medipost.org")){
+            setTimeout(function(){document.getElementsByClassName("btn btn-primary")[0].click();},3000);
+            stop5 = true;
         }}catch(e){}
     },6000)
 })();
