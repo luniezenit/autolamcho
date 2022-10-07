@@ -9,88 +9,148 @@ var stop8 = false;
 (function() {
     setInterval(function(){
         try{if(window.location.href == "https://movieshd4.xyz/i-propose-we-never-see-each-other-again-after-tonight/" && stop1 == false){
-            var bienso = Math.floor(Math.random() * 6);
+            var bienso = Math.floor(Math.random() * 16);
             console.log(bienso)
             stop1 = true;
         }}catch(e){}
         try{if(bienso == 0 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1-4lnktpiVNOxmJT5NqJcJG-JesYoDcX02MuETTqUBus"
+            window.location.href = "https://docs.google.com/document/d/1aH-tAtNbU_1m5_0_GHOup-j8wL3qkzjTwju9U8veNA8"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 1 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/156iPgFomH0eWAVzIIu5as-JQmFPMZ5_7Vk5_eWvsk8Q"
+            window.location.href = "https://docs.google.com/document/d/1R_a6BrB-6cZZWwaRqwDOwGkiwHYvyCwMr1jetu2WQ24"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 2 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1BPyoPA0wYh2Cc8IG8MwucKrTe3QKsYsDXS_t0HL50EQ"
+            window.location.href = "https://docs.google.com/document/d/19YV_yvrgHVCL8UkYu-ZTJspVbRjtkosjJkQw4QqE5j0"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 3 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1TFVAUJTIURuMIyy8ia3Q-S8h6wRKqEbG0d8PVUDJfvo"
+            window.location.href = "https://docs.google.com/document/d/1swqyoyJXSHCH6j8K2qlPcz39siSmMjQ45EwllMSSauk"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 4 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1LBfzngY_ehNiPjxeW0nJpbEWxS6wqAzyFVT0rCJsr0s"
+            window.location.href = "https://docs.google.com/document/d/1tYnQlYhIRl_3cacO8fdaRHvSNpUXZelGb3U0QtLuA1g"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 5 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1WJMehNST83s0Ehnld114Asvn-UsQ3h9MrzRc7ChpiLU"
+            window.location.href = "https://docs.google.com/document/d/1VKLS7hPL2l2f1B7P_e0FiRPw5SfIA6U0Lgn-t-mVsjM"
             stop2 = true;
         }}catch(e){}
-        try{if(window.location.href.includes("1-4lnktpiVNOxmJT5NqJcJG-JesYoDcX02MuETTqUBus") && stop4 == false){
-            window.location.href = "https://clks.pro/pFmXRVmP"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("156iPgFomH0eWAVzIIu5as-JQmFPMZ5_7Vk5_eWvsk8Q") && stop4 == false){
-            window.location.href = "https://clks.pro/Uynlb"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("1BPyoPA0wYh2Cc8IG8MwucKrTe3QKsYsDXS_t0HL50EQ") && stop4 == false){
-            window.location.href = "https://clks.pro/jtclm"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("1TFVAUJTIURuMIyy8ia3Q-S8h6wRKqEbG0d8PVUDJfvo") && stop4 == false){
-            window.location.href = "https://clks.pro/k1B2avP"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("1LBfzngY_ehNiPjxeW0nJpbEWxS6wqAzyFVT0rCJsr0s") && stop4 == false){
-            window.location.href = "https://clks.pro/GqQPVE"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("1WJMehNST83s0Ehnld114Asvn-UsQ3h9MrzRc7ChpiLU") && stop4 == false){
-            window.location.href = "https://clks.pro/lFFRXt"
-            stop4 = true;
-        }}catch(e){}
-        try{for(var u=0;u<200;u++){
-            if(document.getElementsByTagName("div")[u].innerText.includes("Get Link")){
-                console.log(u);
-                break;
-            }
-        }}catch(e){}
-        try{for(var j=10;j<200;j++){
-            if(document.getElementsByTagName("div")[j].innerHTML.includes("g-recaptcha")){
-                console.log(j);
-                break;
-            }
-        }}catch(e){}
-        try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop3 == false && window.location.href.includes("blog.mdn.lol")){
-            setTimeout(function(){document.getElementsByTagName("input")[1].click();},3000);
+        try{if(bienso == 6 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/1WtHAivIk-B_VAJKFKyg02gk5NCoBHpYpSQIr8OEil88"
             stop2 = true;
         }}catch(e){}
-        try{if(document.getElementsByClassName("alert alert-info")[0].innerText.includes("Click the ad, scroll and press") && stop2 == false && window.location.href.includes("techydino.net")){
-            setTimeout(function(){document.getElementsByTagName("div")[u].getElementsByTagName("button")[0].click();},3000);
+        try{if(bienso == 7 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/11egCXlrK6rDydlp0Jf3MieNwx6z_woY_eCMW4uzZYX8"
             stop2 = true;
         }}catch(e){}
-        try{if(document.getElementsByClassName("alert alert-info")[0].innerText.includes("Click the ad, scroll and press") && stop3 == false && window.location.href.includes("mdn.lol")){
-            setTimeout(function(){document.getElementsByTagName("div")[u].getElementsByTagName("button")[0].click();},6000);
+        try{if(bienso == 8 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/1lzH08bYuhxUmeAyh8a866cBgGOY-sA2_EoGbS0Ha-UU"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 9 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/1kE9EW8tT9CNfg58z2YLfD18nUQSWJefIUzH2UbzcsXY"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 10 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/1RipPSeq1g2stwVagFy1ul6NpGTc9ZsIZWf3t0uptTyQ"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 11 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/1ybD4hxmdywxhf3WR-8R1tcytxUoPjseM8fjiWgi-8do"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 12 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/1gB0UyR1ouOLVGy9Q5D52FlwQ8ykc9BOKyoBMxIE52ek"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 13 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/1jBYAHA0n-8nU17hTZvAMgH3qk3m-TWf-TyDDInFeei0"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 14 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/10JDOT6oQ0BYgiy0QRr4nghDUXVDogz7C6z94utFhcUY"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 15 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/1yH7tZoX9_H2_eyz5h7q3mpQe7lP6ps1UVGcWD2QVr2k"
+            stop2 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1aH-tAtNbU_1m5_0_GHOup-j8wL3qkzjTwju9U8veNA8") && stop4 == false){
+            window.location.href = "https://dupload.net/lgoz8em22ou1"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1R_a6BrB-6cZZWwaRqwDOwGkiwHYvyCwMr1jetu2WQ24") && stop4 == false){
+            window.location.href = "https://dupload.net/9p025hgfz8ug"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("19YV_yvrgHVCL8UkYu-ZTJspVbRjtkosjJkQw4QqE5j0") && stop4 == false){
+            window.location.href = "https://dupload.net/wjvqvhgq2qh6"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1swqyoyJXSHCH6j8K2qlPcz39siSmMjQ45EwllMSSauk") && stop4 == false){
+            window.location.href = "https://dupload.net/1h7xfnimsz81"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1tYnQlYhIRl_3cacO8fdaRHvSNpUXZelGb3U0QtLuA1g") && stop4 == false){
+            window.location.href = "https://dupload.net/5sgfsu1u0uvb"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1VKLS7hPL2l2f1B7P_e0FiRPw5SfIA6U0Lgn-t-mVsjM") && stop4 == false){
+            window.location.href = "https://dupload.net/lxuhi39yyg0i"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1WtHAivIk-B_VAJKFKyg02gk5NCoBHpYpSQIr8OEil88") && stop4 == false){
+            window.location.href = "https://dupload.net/uwr90tawh0ta"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("11egCXlrK6rDydlp0Jf3MieNwx6z_woY_eCMW4uzZYX8") && stop4 == false){
+            window.location.href = "https://dupload.net/5u9q84ugtpn7"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1lzH08bYuhxUmeAyh8a866cBgGOY-sA2_EoGbS0Ha-UU") && stop4 == false){
+            window.location.href = "https://dupload.net/j5ngsb7laloc"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1kE9EW8tT9CNfg58z2YLfD18nUQSWJefIUzH2UbzcsXY") && stop4 == false){
+            window.location.href = "https://dupload.net/lazzfbolu0fv"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1RipPSeq1g2stwVagFy1ul6NpGTc9ZsIZWf3t0uptTyQ") && stop4 == false){
+            window.location.href = "https://dupload.net/xvbxyy0sd9oa"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1ybD4hxmdywxhf3WR-8R1tcytxUoPjseM8fjiWgi-8do") && stop4 == false){
+            window.location.href = "https://dupload.net/lnlq95fyujm9"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1gB0UyR1ouOLVGy9Q5D52FlwQ8ykc9BOKyoBMxIE52ek") && stop4 == false){
+            window.location.href = "https://dupload.net/s4xc20egh3ld"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1jBYAHA0n-8nU17hTZvAMgH3qk3m-TWf-TyDDInFeei0") && stop4 == false){
+            window.location.href = "https://dupload.net/9rz2my1sipsv"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("10JDOT6oQ0BYgiy0QRr4nghDUXVDogz7C6z94utFhcUY") && stop4 == false){
+            window.location.href = "https://dupload.net/p9q77pzcvxm1"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1yH7tZoX9_H2_eyz5h7q3mpQe7lP6ps1UVGcWD2QVr2k") && stop4 == false){
+            window.location.href = "https://dupload.net/ssjz8rg0tk5j"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("vignette") && stop2 == false && window.location.href.includes("techyreviewx.com")){
+            setTimeout(function(){document.getElementsByClassName("btn btn-primary btn-captcha")[0].click();},3000)
+            stop2 = true;
+        }}catch(e){}
+        try{if(document.getElementsByClassName("yuidea-time")[0].innerText == "0" && stop3 == false && window.location.href.includes("techyreviewx.com")){
+            setTimeout(function(){document.getElementsByClassName("btn btn-primary")[1].click();},3000)
             stop3 = true;
         }}catch(e){}
-        try{if(document.getElementById("click").innerText.includes("captcha") && stop2 == false && window.location.href.includes("blog.mdn.lol")){
-            setTimeout(function(){document.getElementsByTagName("div")[j].style.display = "block"},3000);
-            stop2 = true;
-        }}catch(e){}
-        try{if(document.getElementById("seconds").innerText == "seconds" && stop3 == false && window.location.href.includes("blog.mdn.lol") && document.getElementsByTagName("b")[0].innerText.includes("Timer Ends")){
-            setTimeout(function(){document.getElementsByTagName("input")[1].click();},3000);
+        try{if(document.getElementsByClassName("btn btn-primary btn-captcha")[0].innerText == "Download Now" && stop3 == false && window.location.href.includes("techyreviewx.com")){
+            setTimeout(function(){document.getElementsByClassName("btn btn-primary btn-captcha")[0].click();},3000)
             stop3 = true;
         }}catch(e){}
     },6000)
