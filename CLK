@@ -9,56 +9,48 @@ var stop8 = false;
 (function() {
     setInterval(function(){
         try{if(window.location.href == "https://movieshd4.xyz/joker/" && stop1 == false){
-            var bienso = Math.floor(Math.random() * 6);
+            var bienso = Math.floor(Math.random() * 5);
             console.log(bienso)
             stop1 = true;
         }}catch(e){}
         try{if(bienso == 0 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/11zIl5hJ9oxS11P5-AUS55Ls3Go63odGzhhndH-Id3bQ"
+            window.location.href = "https://movieshd4.xyz/luckiest-girl-alive/"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 1 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1cEIS_g5UniLt7BVqo5MYKfVrFHGcRAiAMHxcGbBY81Q"
+            window.location.href = "https://movieshd4.xyz/hellraiser/"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 2 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/13setXCe8ir9XEi8d2_GKjCfxFEaUV1xgB82OHWfiHQM"
+            window.location.href = "https://movieshd4.xyz/jujutsu-kaisen-0-the-movie/"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 3 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1RmZcKFdHpEw48GlriSCYWSrTDysbnT_aOtwa9QEPr7g"
+            window.location.href = "https://movieshd4.xyz/gods-country/"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 4 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1QAk-Ok4xMUGIHe1wAY2JbKjSkraFBVEAaZAm_w-1ygE"
+            window.location.href = "https://movieshd4.xyz/mk-ultra/"
             stop2 = true;
         }}catch(e){}
-        try{if(bienso == 5 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1-_lEncXNgHgBRiE-OCHJhiNHU_CXwHBZi0L5zMPkO4I"
-            stop2 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("11zIl5hJ9oxS11P5-AUS55Ls3Go63odGzhhndH-Id3bQ") && stop4 == false){
-            window.location.href = "https://oko.sh/iCOpvX4PPA"
+        try{if(window.location.href.includes("https://movieshd4.xyz/luckiest-girl-alive/") && stop4 == false){
+            window.location.href = "https://oko.sh/4fw0iyd"
             stop4 = true;
         }}catch(e){}
-        try{if(window.location.href.includes("1cEIS_g5UniLt7BVqo5MYKfVrFHGcRAiAMHxcGbBY81Q") && stop4 == false){
-            window.location.href = "https://oko.sh/W4c2dIdh"
+        try{if(window.location.href.includes("https://movieshd4.xyz/hellraiser/") && stop4 == false){
+            window.location.href = "https://oko.sh/u0pVgs7p3x"
             stop4 = true;
         }}catch(e){}
-        try{if(window.location.href.includes("13setXCe8ir9XEi8d2_GKjCfxFEaUV1xgB82OHWfiHQM") && stop4 == false){
-            window.location.href = "https://oko.sh/MGRkj"
+        try{if(window.location.href.includes("https://movieshd4.xyz/jujutsu-kaisen-0-the-movie/") && stop4 == false){
+            window.location.href = "https://oko.sh/q1rIBA1Jv"
             stop4 = true;
         }}catch(e){}
-        try{if(window.location.href.includes("1RmZcKFdHpEw48GlriSCYWSrTDysbnT_aOtwa9QEPr7g") && stop4 == false){
-            window.location.href = "https://oko.sh/WSznnzQXm"
+        try{if(window.location.href.includes("https://movieshd4.xyz/gods-country/") && stop4 == false){
+            window.location.href = "https://oko.sh/8MJ8ronw"
             stop4 = true;
         }}catch(e){}
-        try{if(window.location.href.includes("1QAk-Ok4xMUGIHe1wAY2JbKjSkraFBVEAaZAm_w-1ygE") && stop4 == false){
-            window.location.href = "https://oko.sh/8T63bnVX"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("1-_lEncXNgHgBRiE-OCHJhiNHU_CXwHBZi0L5zMPkO4I") && stop4 == false){
-            window.location.href = "https://oko.sh/tF7aQDs7"
+        try{if(window.location.href.includes("https://movieshd4.xyz/mk-ultra/") && stop4 == false){
+            window.location.href = "https://oko.sh/aB5JYp"
             stop4 = true;
         }}catch(e){}
         try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop2 == false && window.location.href.includes("oko.sh")){
