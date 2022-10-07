@@ -89,9 +89,9 @@ var stop8 = false;
             setTimeout(function(){document.getElementsByTagName("div")[j].style.display = "block"},3000);
             stop2 = true;
         }}catch(e){}
-        try{if(document.getElementById("seconds").innerText == "seconds" && stop2 == false && window.location.href.includes("blog.mdn.lol") && document.getElementsByTagName("b")[0].innerText.includes("Timer Ends")){
+        try{if(document.getElementById("seconds").innerText == "seconds" && stop3 == false && window.location.href.includes("blog.mdn.lol") && document.getElementsByTagName("b")[0].innerText.includes("Timer Ends")){
             setTimeout(function(){document.getElementsByTagName("input")[1].click();},3000);
-            stop2 = true;
+            stop3 = true;
         }}catch(e){}
     },6000)
 })();
