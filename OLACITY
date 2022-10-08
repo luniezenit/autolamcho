@@ -308,6 +308,7 @@ var stop8 = false;
         try{if(document.getElementById("makingdifferenttimer").innerText == "Next" && stop3 == false && window.location.href.includes("forex-articles.com")){
             setTimeout(function(){document.getElementById("makingdifferenttimer").click();},3000);
             setTimeout(function(){document.getElementsByClassName("btn btn-success")[1].click();},8000);
+            setTimeout(function(){document.getElementsByClassName("btn btn-success")[1].click();},15000);
             stop3 = true;
         }}catch(e){}
         try{if(document.getElementById("makingdifferenttimer").innerText == "NEXT" && stop3 == false && window.location.href.includes("forexmab.com")){
