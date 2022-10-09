@@ -377,6 +377,10 @@ var stop8 = false;
             setTimeout(function(){document.getElementsByClassName("yu-btn yu-go")[0].click();},3000);
             stop3 = true;
         }}catch(e){}
+        try{if(document.getElementsByClassName("yu-btn yu-go")[0].innerText == "Continue" && stop3 == false && window.location.href.includes("insurglobal.xyz")){
+            setTimeout(function(){document.getElementsByClassName("yu-btn yu-go")[0].click();},3000);
+            stop3 = true;
+        }}catch(e){}
         try{if(document.getElementsByClassName("btn btn-success")[0].innerText == "Get Link" && stop3 == false && window.location.href.includes("theconomy.me")){
             setTimeout(function(){document.getElementsByClassName("btn btn-success")[0].click();},3000);
             stop3 = true;
