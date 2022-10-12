@@ -9,7 +9,7 @@ var stop8 = false;
 (function() {
     setInterval(function(){
         try{if(window.location.href == "https://movieshd4.xyz/bring-me-a-dream/" && stop1 == false){
-            var bienso = Math.floor(Math.random() * 5);
+            var bienso = Math.floor(Math.random() * 10);
             console.log(bienso)
             stop1 = true;
         }}catch(e){}
@@ -33,6 +33,26 @@ var stop8 = false;
             window.location.href = "https://movieshd4.xyz/the-infernal-machine/"
             stop2 = true;
         }}catch(e){}
+        try{if(bienso == 5 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/grimcutty/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 6 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/werewolf-by-night/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 7 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/the-visitor/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 8 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/run/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 9 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/significant-other/"
+            stop2 = true;
+        }}catch(e){}
         try{if(window.location.href == "https://movieshd4.xyz/bandit/" && stop4 == false){
             window.location.href = "https://link.wrbloggers.com/?key=zsPhES41"
             stop4 = true;
@@ -51,6 +71,26 @@ var stop8 = false;
         }}catch(e){}
         try{if(window.location.href == "https://movieshd4.xyz/the-infernal-machine/" && stop4 == false){
             window.location.href = "https://link.wrbloggers.com/?key=RUfkal1"
+            stop4 = true;
+        }}catch(e){}
+         try{if(window.location.href == "https://movieshd4.xyz/grimcutty/" && stop4 == false){
+            window.location.href = "https://link.wrbloggers.com/?key=jE5Ta6I71"
+            stop4 = true;
+        }}catch(e){}
+         try{if(window.location.href == "https://movieshd4.xyz/werewolf-by-night/" && stop4 == false){
+            window.location.href = "https://link.wrbloggers.com/?key=dy4MUPz1"
+            stop4 = true;
+        }}catch(e){}
+         try{if(window.location.href == "https://movieshd4.xyz/the-visitor/" && stop4 == false){
+            window.location.href = "https://link.wrbloggers.com/?key=Du1SLb1"
+            stop4 = true;
+        }}catch(e){}
+         try{if(window.location.href == "https://movieshd4.xyz/run/" && stop4 == false){
+            window.location.href = "https://link.wrbloggers.com/?key=3BYY8V2o1"
+            stop4 = true;
+        }}catch(e){}
+         try{if(window.location.href == "https://movieshd4.xyz/significant-other/" && stop4 == false){
+            window.location.href = "https://link.wrbloggers.com/?key=W7Lb1"
             stop4 = true;
         }}catch(e){}
         try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop1 == false && window.location.href.includes("ls2earn.com")){
