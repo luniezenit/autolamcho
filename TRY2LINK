@@ -8,182 +8,78 @@ var stop7 = false;
 var stop8 = false;
 (function() {
     setInterval(function(){
-        try{if(window.location.href == "//https://movieshd4.xyz/master-pieces/" && stop1 == false){
-            var bienso = Math.floor(Math.random() * 20);
+        try{if(window.location.href == "https://movieshd4.xyz/master-pieces/" && stop1 == false){
+            var bienso = Math.floor(Math.random() * 6);
             console.log(bienso)
             stop1 = true;
         }}catch(e){}
         try{if(bienso == 0 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1m0_J1LG4PxCcIo3WMi1RS_3UjdSlA3XmAvqn8KMmPK0"
+            window.location.href = "https://docs.google.com/document/d/1PQpDyrGi5bB9pBXmPn30cws9-ZA7_3ONBEx0P4rVInY"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 1 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1zICZnGrVCN6bXKyJuMEWDuq5yTkDCw9K14_BF8b5avg"
+            window.location.href = "https://docs.google.com/document/d/1MF79AEe0dGCpcV37s2KQY4a8rtZm0rf_pJ4CFh7yRhs"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 2 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1ImVi4gEabYr6NwobxdZy_lyPxnRJYiT9SO35I-aFEGI"
+            window.location.href = "https://docs.google.com/document/d/10QJNYIwZffwG_aOM3pIOaNxNt0PFKjksCS9va51oiMM"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 3 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1m9vO-smP2I2ixM_2r65PVAsDlL7-s034Ecnh0l9Ddb8"
+            window.location.href = "https://docs.google.com/document/d/1B032TWZyRg_CTMv5mxFeL6BId_0EaEpaIJBWT6uY0G4"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 4 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1P9176FS2TI1mMgfBM_Ztl6XWpETFMkKAABi4sGViQ9c"
+            window.location.href = "https://docs.google.com/document/d/1Ipiw4uj0Z5MJWnSq9mGBnNDrHbAg1uA-Z1xQq9ZeyZI"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 5 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1uKtNm1tIlAvySpErmwpyx6OfLWAcgggExh5UwH62oc8"
+            window.location.href = "https://docs.google.com/document/d/16Qvw7RsQl8R8c4-clpJwp8XjvePS4ZTz9bxTnevaKR0"
             stop2 = true;
         }}catch(e){}
-        try{if(bienso == 6 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1DYunDI9sTsVfvvChZjVN1RZI9QciYQRhkpo3QT5PFoQ"
-            stop2 = true;
-        }}catch(e){}
-        try{if(bienso == 7 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1xrmL4q4fRk2gZqYQ3pHQypimoLMl-P7j_PfR9mjuCZg"
-            stop2 = true;
-        }}catch(e){}
-        try{if(bienso == 8 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1-jm7kfR_5zbe45pPKmwqEQuKVS4Sv42UFaCRo2pmtOo"
-            stop2 = true;
-        }}catch(e){}
-        try{if(bienso == 9 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1C0GXpCL6nFL63CuG7GpnggTwAdVn2CLVogAcgoMR6f4"
-            stop2 = true;
-        }}catch(e){}
-        try{if(bienso == 10 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/11kgc_MJZEgdcdD4CsPjbSXPHh2HkOnLf0wXMmhCc2zQ"
-            stop2 = true;
-        }}catch(e){}
-        try{if(bienso == 11 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/18wGYU_JFAW-_hkLWFwEmacLRpeIlu03Gnm35Txuj7BQ"
-            stop2 = true;
-        }}catch(e){}
-        try{if(bienso == 12 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1wqA7494tuCzcrqwwV8CMSJ_P0ZawbtaxyDSiFgoRen0"
-            stop2 = true;
-        }}catch(e){}
-        try{if(bienso == 13 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/16lDzA27G_qn34ATyRzEIaZKswSmxHiTdfznXJ9vp9q8"
-            stop2 = true;
-        }}catch(e){}
-        try{if(bienso == 14 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1605spjqhnKfHNaWUjkjihaefxYlQ8O4a1PS5YobRT7c"
-            stop2 = true;
-        }}catch(e){}
-        try{if(bienso == 15 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1Thobx1mfCZwcwcdhd7UgLHAa0JtxEDaJDgkBGAKV5Lg"
-            stop2 = true;
-        }}catch(e){}
-        try{if(bienso == 16 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1PYnTdKk3i8AMWvhdIwV3bj0RBorFFHjI2nv5hfJ03AU"
-            stop2 = true;
-        }}catch(e){}
-        try{if(bienso == 17 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1dTmjoJV3RGbUKojYI6gTc69KmQ3IZrdXe_EQSrWZcTQ"
-            stop2 = true;
-        }}catch(e){}
-        try{if(bienso == 18 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1BpyB018XITRMfm32BECnYTUXimm6Ph99xiCmREg0i0g"
-            stop2 = true;
-        }}catch(e){}
-        try{if(bienso == 19 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1i68Ca_NHJUOihSWgafdnmFQECPko8OyqLOE9Nh0qraw"
-            stop2 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("1m0_J1LG4PxCcIo3WMi1RS_3UjdSlA3XmAvqn8KMmPK0") && stop4 == false){
-            window.location.href = "https://userupload.net/gy24pjzlw8ek"
+        try{if(window.location.href.includes("1PQpDyrGi5bB9pBXmPn30cws9-ZA7_3ONBEx0P4rVInY") && stop4 == false){
+            window.location.href = "https://go.paid4link.com/3O602KP9"
             stop4 = true;
         }}catch(e){}
-        try{if(window.location.href.includes("1zICZnGrVCN6bXKyJuMEWDuq5yTkDCw9K14_BF8b5avg") && stop4 == false){
-            window.location.href = "https://userupload.net/1dvhjqvgde7c"
+        try{if(window.location.href.includes("1MF79AEe0dGCpcV37s2KQY4a8rtZm0rf_pJ4CFh7yRhs") && stop4 == false){
+            window.location.href = "https://go.paid4link.com/SEoru"
             stop4 = true;
         }}catch(e){}
-        try{if(window.location.href.includes("1ImVi4gEabYr6NwobxdZy_lyPxnRJYiT9SO35I-aFEGI") && stop4 == false){
-            window.location.href = "https://userupload.net/wab5q50u9q2u"
+        try{if(window.location.href.includes("10QJNYIwZffwG_aOM3pIOaNxNt0PFKjksCS9va51oiMM") && stop4 == false){
+            window.location.href = "https://go.paid4link.com/2xoUyc"
             stop4 = true;
         }}catch(e){}
-        try{if(window.location.href.includes("1m9vO-smP2I2ixM_2r65PVAsDlL7-s034Ecnh0l9Ddb8") && stop4 == false){
-            window.location.href = "https://userupload.net/b1emkerry8eb"
+        try{if(window.location.href.includes("1B032TWZyRg_CTMv5mxFeL6BId_0EaEpaIJBWT6uY0G4") && stop4 == false){
+            window.location.href = "https://go.paid4link.com/H7Sjuy"
             stop4 = true;
         }}catch(e){}
-        try{if(window.location.href.includes("1P9176FS2TI1mMgfBM_Ztl6XWpETFMkKAABi4sGViQ9c") && stop4 == false){
-            window.location.href = "https://userupload.net/5x9f1d9uy20o"
+        try{if(window.location.href.includes("1Ipiw4uj0Z5MJWnSq9mGBnNDrHbAg1uA-Z1xQq9ZeyZI") && stop4 == false){
+            window.location.href = "https://go.paid4link.com/5sAHLvY3"
             stop4 = true;
         }}catch(e){}
-        try{if(window.location.href.includes("1uKtNm1tIlAvySpErmwpyx6OfLWAcgggExh5UwH62oc8") && stop4 == false){
-            window.location.href = "https://userupload.net/bcevkktesumb"
+        try{if(window.location.href.includes("16Qvw7RsQl8R8c4-clpJwp8XjvePS4ZTz9bxTnevaKR0") && stop4 == false){
+            window.location.href = "https://go.paid4link.com/DOxrA"
             stop4 = true;
         }}catch(e){}
-        try{if(window.location.href.includes("1DYunDI9sTsVfvvChZjVN1RZI9QciYQRhkpo3QT5PFoQ") && stop4 == false){
-            window.location.href = "https://userupload.net/j4o077n7u5il"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("1xrmL4q4fRk2gZqYQ3pHQypimoLMl-P7j_PfR9mjuCZg") && stop4 == false){
-            window.location.href = "https://userupload.net/se8iyjl506im"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("1-jm7kfR_5zbe45pPKmwqEQuKVS4Sv42UFaCRo2pmtOo") && stop4 == false){
-            window.location.href = "https://userupload.net/dmeq44s2zhmh"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("1C0GXpCL6nFL63CuG7GpnggTwAdVn2CLVogAcgoMR6f4") && stop4 == false){
-            window.location.href = "https://userupload.net/yf2z7c222sqn"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("11kgc_MJZEgdcdD4CsPjbSXPHh2HkOnLf0wXMmhCc2zQ") && stop4 == false){
-            window.location.href = "https://userupload.net/65n4vwt56w0j"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("18wGYU_JFAW-_hkLWFwEmacLRpeIlu03Gnm35Txuj7BQ") && stop4 == false){
-            window.location.href = "https://userupload.net/tky03idaldbk"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("1wqA7494tuCzcrqwwV8CMSJ_P0ZawbtaxyDSiFgoRen0") && stop4 == false){
-            window.location.href = "https://userupload.net/ny6icng02jo6"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("16lDzA27G_qn34ATyRzEIaZKswSmxHiTdfznXJ9vp9q8") && stop4 == false){
-            window.location.href = "https://userupload.net/t6cregdve8en"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("1605spjqhnKfHNaWUjkjihaefxYlQ8O4a1PS5YobRT7c") && stop4 == false){
-            window.location.href = "https://userupload.net/a9xingpae5u6"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("1Thobx1mfCZwcwcdhd7UgLHAa0JtxEDaJDgkBGAKV5Lg") && stop4 == false){
-            window.location.href = "https://userupload.net/tiu0k445cgsm"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("1PYnTdKk3i8AMWvhdIwV3bj0RBorFFHjI2nv5hfJ03AU") && stop4 == false){
-            window.location.href = "https://userupload.net/tr8ehrcs5d8m"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("1dTmjoJV3RGbUKojYI6gTc69KmQ3IZrdXe_EQSrWZcTQ") && stop4 == false){
-            window.location.href = "https://userupload.net/11vqq310qpga"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("1BpyB018XITRMfm32BECnYTUXimm6Ph99xiCmREg0i0g") && stop4 == false){
-            window.location.href = "https://userupload.net/200yafeqkm1t"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("1i68Ca_NHJUOihSWgafdnmFQECPko8OyqLOE9Nh0qraw") && stop4 == false){
-            window.location.href = "https://userupload.net/yu75rza03apw"
-            stop4 = true;
-        }}catch(e){}
-        try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop1 == false && window.location.href.includes("userupload.net") && document.getElementsByClassName("seconds")[0].innerText == "1"){
-            setTimeout(function(){document.getElementsByClassName("btn btn-primary btn-block downloadbtn")[0].click();},3000)
+        try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop1 == false && window.location.href.includes("link.paid4link.net")){
+            setTimeout(function(){document.getElementsByClassName("btn ybtn ybtn-accent-color btn-captcha")[0].click();},3000)
             stop1 = true;
         }}catch(e){}
-        try{if(document.getElementsByClassName("btn btn-primary btn-block mb-4")[0].innerText == "DOWNLOAD NOW" && stop3 == false && window.location.href.includes("userupload.net")){
-            setTimeout(function(){document.getElementsByClassName("btn btn-primary btn-block mb-4")[0].click();},3000)
-            stop3 = true;
+        try{if(document.getElementById("wpsafelinkhuman").getElementsByTagName("img")[0].src == "https://www.artiskini.com/wp-content/plugins/SafeAdlink%20HIVEcorp./assets/human-verification4.png" && stop1 == false && window.location.href.includes("artiskini")){
+            setTimeout(function(){document.getElementById("wpsafelinkhuman").getElementsByTagName("img")[0].click();},3000)
+            stop1 = true;
         }}catch(e){}
-        try{if(window.location.href.includes("vignette") && stop4 == false && window.location.href.includes("userupload.net")){
-            setTimeout(function(){document.getElementsByClassName("btn btn-primary btn-block mb-4")[0].click();},3000)
-            stop4 = true;
+        try{if(document.getElementById("wpsafe-generate").getElementsByTagName("img")[0].src == "https://www.artiskini.com/wp-content/uploads/2022/01/open-1.png" && stop1 == false && window.location.href.includes("artiskini")){
+            setTimeout(function(){ setTimeout(function(){window.location.href = document.getElementById("wpsafe-link").getElementsByTagName("a")[0].getAttribute("onclick").slice(13,document.getElementById("wpsafe-link").getElementsByTagName("a")[0].getAttribute("onclick").lastIndexOf(",")-1);},6000)},3000)
+            stop1 = true;
+        }}catch(e){}
+        try{if(document.getElementsByClassName("timer")[0].innerText == "0" && stop1 == false && window.location.href.includes("link.paid4link.net")){
+            setTimeout(function(){document.getElementsByClassName("btn ybtn ybtn-accent-color get-link")[0].click();},3000)
+            setTimeout(function(){document.getElementsByClassName("btn ybtn ybtn-accent-color get-link")[0].click();},6000)
+            setTimeout(function(){document.getElementsByClassName("btn ybtn ybtn-accent-color get-link")[0].click();},9000)
+            setTimeout(function(){document.getElementsByClassName("btn ybtn ybtn-accent-color get-link")[0].click();},12000)
+            setTimeout(function(){document.getElementsByClassName("btn ybtn ybtn-accent-color get-link")[0].click();},15000)
+            stop1 = true;
         }}catch(e){}
     },6000)
 })();
