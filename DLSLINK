@@ -10,7 +10,7 @@ var bienso;
 (function() {
     setInterval(function(){
         try{if(window.location.href == "https://movieshd4.xyz/angie-lost-girls/" && stop1 == false){
-            var bienso = Math.floor(Math.random() * 42);
+            var bienso = Math.floor(Math.random() * 47);
             console.log(bienso)
             stop1 = true;
         }}catch(e){}
@@ -182,6 +182,26 @@ var bienso;
             window.location.href = "https://movieshd4.xyz/about-fate/"
             stop2 = true;
         }}catch(e){}
+        try{if(bienso == 42 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/medieval/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 43 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/mantra/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 44 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/guardians-of-time/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 45 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/project-legion/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 46 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/catherine-called-birdy/"
+            stop2 = true;
+        }}catch(e){}
         try{if(window.location.href == "https://movieshd4.xyz/ghostbusters-afterlife/" && stop4 == false){
             window.location.href = "https://link.usalink.io/VCU5u"
             stop4 = true;
@@ -348,6 +368,26 @@ var bienso;
         }}catch(e){}
         try{if(window.location.href == "https://movieshd4.xyz/about-fate/" && stop4 == false){
             window.location.href = "https://link.usalink.io/xKuttDkg"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/medieval/" && stop4 == false){
+            window.location.href = "https://link.usalink.io/tt4gE9R4"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/mantra/" && stop4 == false){
+            window.location.href = "https://link.usalink.io/rppi3l"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/guardians-of-time/" && stop4 == false){
+            window.location.href = "https://link.usalink.io/CfWcolUp"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/project-legion/" && stop4 == false){
+            window.location.href = "https://link.usalink.io/B9G9tmy"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/catherine-called-birdy/" && stop4 == false){
+            window.location.href = "https://link.usalink.io/kgWNRsm"
             stop4 = true;
         }}catch(e){}
         try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop2 == false && window.location.href.includes("insurance-space.xyz") && window.location.href.includes("link") == false){
