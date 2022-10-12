@@ -81,6 +81,14 @@ var stop8 = false;
             setTimeout(function(){ setTimeout(function(){window.location.href = document.getElementById("wpsafe-link").getElementsByTagName("a")[0].getAttribute("onclick").slice(13,document.getElementById("wpsafe-link").getElementsByTagName("a")[0].getAttribute("onclick").lastIndexOf(",")-1);},6000)},3000)
             stop1 = true;
         }}catch(e){}
+        try{if(document.getElementById("wpsafelinkhuman").getElementsByTagName("img")[0].src == 'https://www.delishwell.com/wp-content/plugins/SafeAdlink HIVEcorp./assets/human-verification4.png' && stop1 == false && window.location.href.includes("delishwell")){
+            setTimeout(function(){document.getElementById("wpsafelinkhuman").getElementsByTagName("img")[0].click();},3000)
+            stop1 = true;
+        }}catch(e){}
+        try{if(document.getElementById("wpsafe-generate").getElementsByTagName("img")[0].src == 'https://www.delishwell.com/wp-content/uploads/2022/02/open.png' && stop1 == false && window.location.href.includes("delishwell")){
+            setTimeout(function(){ setTimeout(function(){window.location.href = document.getElementById("wpsafe-link").getElementsByTagName("a")[0].getAttribute("onclick").slice(13,document.getElementById("wpsafe-link").getElementsByTagName("a")[0].getAttribute("onclick").lastIndexOf(",")-1);},6000)},3000)
+            stop1 = true;
+        }}catch(e){}
         try{if(document.getElementsByClassName("timer")[0].innerText == "0" && stop1 == false && window.location.href.includes("link.paid4link.net")){
             setTimeout(function(){document.getElementsByClassName("btn ybtn ybtn-accent-color get-link")[0].click();},3000)
             setTimeout(function(){document.getElementsByClassName("btn ybtn ybtn-accent-color get-link")[0].click();},6000)
