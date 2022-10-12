@@ -9,7 +9,7 @@ var stop8 = false;
 (function() {
     setInterval(function(){
         try{if(window.location.href == "https://movieshd4.xyz/high-school-musical-the-musical-the-holiday-special/" && stop1 == false){
-            var bienso = Math.floor(Math.random() * 5);
+            var bienso = Math.floor(Math.random() * 10);
             console.log(bienso)
             stop1 = true;
         }}catch(e){}
@@ -33,6 +33,26 @@ var stop8 = false;
             window.location.href = "https://movieshd4.xyz/a-love-song/"
             stop2 = true;
         }}catch(e){}
+        try{if(bienso == 5 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/luckiest-girl-alive/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 6 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/hellraiser/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 7 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/jujutsu-kaisen-0-the-movie/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 8 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/gods-country/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 9 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/mk-ultra/"
+            stop2 = true;
+        }}catch(e){}
         try{if(window.location.href == "https://movieshd4.xyz/lou/" && stop4 == false){
             window.location.href = "https://motor-money.biz/EV7iAk"
             stop4 = true;
@@ -51,6 +71,26 @@ var stop8 = false;
         }}catch(e){}
         try{if(window.location.href == "https://movieshd4.xyz/a-love-song/" && stop4 == false){
             window.location.href = "https://motor-money.biz/up7l"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/luckiest-girl-alive/" && stop4 == false){
+            window.location.href = "https://motor-money.biz/BrPeTs"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/hellraiser/" && stop4 == false){
+            window.location.href = "https://motor-money.biz/RZX0sq"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/jujutsu-kaisen-0-the-movie/" && stop4 == false){
+            window.location.href = "https://motor-money.biz/bCvg"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/gods-country/" && stop4 == false){
+            window.location.href = "https://motor-money.biz/EHFfbY"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/mk-ultra/" && stop4 == false){
+            window.location.href = "https://motor-money.biz/NuJWoLQO"
             stop4 = true;
         }}catch(e){}
          try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop1 == false && window.location.href.includes("motor-money.biz")){
