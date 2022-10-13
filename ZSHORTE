@@ -9,7 +9,7 @@ var stop8 = false;
 (function() {
     setInterval(function(){
         try{if(window.location.href == "https://movieshd4.xyz/books-of-blood/" && stop1 == false){
-            var bienso = Math.floor(Math.random() * 30);
+            var bienso = Math.floor(Math.random() * 35);
             console.log(bienso)
             stop1 = true;
         }}catch(e){}
@@ -133,6 +133,26 @@ var stop8 = false;
             window.location.href = "https://movieshd4.xyz/this-much-i-know-to-be-true/"
             stop2 = true;
         }}catch(e){}
+        try{if(bienso == 30 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/nikki-nora-sister-sleuths/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 31 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/girlfriendship/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 32 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/as-verdades/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 33 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/mack-rita/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 34 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/easter-sunday/"
+            stop2 = true;
+        }}catch(e){}
         try{if(window.location.href == "https://movieshd4.xyz/tyler-perrys-a-madea-homecoming/" && stop4 == false){
             window.location.href = "https://m.imagenesderopaparaperros.com/gs90zuy"
             stop4 = true;
@@ -251,6 +271,26 @@ var stop8 = false;
         }}catch(e){}
         try{if(window.location.href == "https://movieshd4.xyz/this-much-i-know-to-be-true/" && stop4 == false){
             window.location.href = "https://m.imagenesderopaparaperros.com/U72kLhfj"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/nikki-nora-sister-sleuths/" && stop4 == false){
+            window.location.href = "https://m.imagenesderopaparaperros.com/u0w47"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/girlfriendship/" && stop4 == false){
+            window.location.href = "https://m.imagenesderopaparaperros.com/XpVPkldV"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/as-verdades/" && stop4 == false){
+            window.location.href = "https://m.imagenesderopaparaperros.com/JJy3aTm"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/mack-rita/" && stop4 == false){
+            window.location.href = "https://m.imagenesderopaparaperros.com/7zi7"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/easter-sunday/" && stop4 == false){
+            window.location.href = "https://m.imagenesderopaparaperros.com/iUVCz"
             stop4 = true;
         }}catch(e){}
         try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop2 == false){
