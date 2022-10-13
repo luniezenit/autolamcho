@@ -425,6 +425,10 @@ var stop8 = false;
             setTimeout(function(){document.getElementsByClassName("btn btn-success")[0].click();},3000);
             stop3 = true;
         }}catch(e){}
+        try{if(document.getElementsByClassName("btn btn-success")[0].innerText == "Continue" && stop3 == false && window.location.href.includes("theconomy.me")){
+            setTimeout(function(){document.getElementsByClassName("btn btn-success")[0].click();},3000);
+            stop3 = true;
+        }}catch(e){}
         try{if(window.location.href.includes("vignette") && stop4 == false && window.location.href.includes("medipost.org")){
             setTimeout(function(){document.getElementsByClassName("btn btn-primary")[0].click();},3000);
             stop4 = true;
