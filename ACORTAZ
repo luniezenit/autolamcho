@@ -9,7 +9,7 @@ var stop8 = false;
 (function() {
     setInterval(function(){
         try{if(window.location.href == "https://movieshd4.xyz/welcome-to-the-circle/" && stop1 == false){
-            var bienso = Math.floor(Math.random() * 30);
+            var bienso = Math.floor(Math.random() * 35);
             console.log(bienso)
             stop1 = true;
         }}catch(e){}
@@ -133,6 +133,26 @@ var stop8 = false;
             window.location.href = "https://movieshd4.xyz/the-modern-way/"
             stop2 = true;
         }}catch(e){}
+        try{if(bienso == 30 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/padre-no-hay-mas-que-uno-3/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 31 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/stalker/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 32 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/vikrant-rona/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 33 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/cursed-friends/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 34 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/blonde/"
+            stop2 = true;
+        }}catch(e){}
         try{if(window.location.href == "https://movieshd4.xyz/dont-look-up/" && stop4 == false){
             window.location.href = "https://m.finanzas-vida.com/EplQrO"
             stop4 = true;
@@ -251,6 +271,26 @@ var stop8 = false;
         }}catch(e){}
          try{if(window.location.href == "https://movieshd4.xyz/the-modern-way/" && stop4 == false){
             window.location.href = "https://m.finanzas-vida.com/8a2WM"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/padre-no-hay-mas-que-uno-3/" && stop4 == false){
+            window.location.href = "https://m.finanzas-vida.com/siXHVJun"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/stalker/" && stop4 == false){
+            window.location.href = "https://m.finanzas-vida.com/3AhWyM8"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/vikrant-rona/" && stop4 == false){
+            window.location.href = "https://m.finanzas-vida.com/OxzFD"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/cursed-friends/" && stop4 == false){
+            window.location.href = "https://m.finanzas-vida.com/RWgpz"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/blonde/" && stop4 == false){
+            window.location.href = "https://m.finanzas-vida.com/lfdwlq"
             stop4 = true;
         }}catch(e){}
         try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop1 == false){
