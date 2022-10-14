@@ -38,36 +38,35 @@ var stop8 = false;
             stop2 = true;
         }}catch(e){}
         try{if(window.location.href.includes("1_PE1uG2AOeoOagBaBahCEu61379hbNGr1G-9I0YwVoI") && stop4 == false){
-            window.location.href = "https://shtfly.com/QCI1blf"
+            window.location.href = "https://oii.io/QEDzwr"
             stop4 = true;
         }}catch(e){}
         try{if(window.location.href.includes("1wR0us--BUr6ETgAm9izJRy0JgCvBvdAD00VDgZHIulY") && stop4 == false){
-            window.location.href = "https://shtfly.com/mnscva19I5ToKh"
+            window.location.href = "https://oii.io/ttRffD"
             stop4 = true;
         }}catch(e){}
         try{if(window.location.href.includes("1MXARIGlW80Bf4nlNVgxKYoA6qa9dSlZu88V4XkpBLMo") && stop4 == false){
-            window.location.href = "https://shtfly.com/Fbcq"
+            window.location.href = "https://oii.io/Bh36q3T"
             stop4 = true;
         }}catch(e){}
         try{if(window.location.href.includes("1MmkiUA-nHQdI--QfsB7znm3S0cdZ-ynolyvvD5XsZes") && stop4 == false){
-            window.location.href = "https://shtfly.com/5cttBNbFi"
+            window.location.href = "https://oii.io/BhmXdhXX"
             stop4 = true;
         }}catch(e){}
         try{if(window.location.href.includes("1Om8vgf5WyvLU39ZAwIA-36e2flUu-HF4IObtC0IdpWg") && stop4 == false){
-            window.location.href = "https://shtfly.com/CpKVD45y"
+            window.location.href = "https://oii.io/kTpwT"
             stop4 = true;
         }}catch(e){}
         try{if(window.location.href.includes("180a52IBBhlBjDCSwuov-x4HOWckgAlLpPV8lPibQoJU") && stop4 == false){
-            window.location.href = "https://shtfly.com/I5yDRdP75WJj"
+            window.location.href = "https://oii.io/WqtN1"
             stop4 = true;
         }}catch(e){}
-        try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop1 == false && window.location.href.includes("shtfly.com")){
+        try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop1 == false && window.location.href.includes("oii.io")){
             setTimeout(function(){document.getElementsByClassName("btn btn-primary btn-captcha")[0].click();},3000)
             stop1 = true;
         }}catch(e){}
-        try{if(document.getElementsByClassName("timer")[0].innerText == "0" && stop1 == false && window.location.href.includes("shtfly.com")){
-            setTimeout(function(){document.getElementsByClassName("btn btn-primary btn-lg get-link")[0].click();},3000)
-            //setTimeout(function(){document.getElementsByClassName("btn btn-primary btn-lg get-link")[0].click();},3000)
+        try{if(document.getElementsByClassName("btn btn-sm btn-success btn-lg get-link")[0].innerText == "Get Link" && stop1 == false && window.location.href.includes("oii.io")){
+            setTimeout(function(){document.getElementsByClassName("btn btn-sm btn-success btn-lg get-link")[0].click();},3000)
             stop1 = true;
         }}catch(e){}
     },6000)
