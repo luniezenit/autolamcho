@@ -8,230 +8,78 @@ var stop7 = false;
 var stop8 = false;
 (function() {
     setInterval(function(){
-        try{if(window.location.href == "//https://movieshd4.xyz/all-my-life/" && stop1 == false){
-            var bienso = Math.floor(Math.random() * 26);
+        try{if(window.location.href == "https://movieshd4.xyz/all-my-life/" && stop1 == false){
+            var bienso = Math.floor(Math.random() * 5);
             console.log(bienso)
             stop1 = true;
         }}catch(e){}
         try{if(bienso == 0 && stop2 == false){
-            window.location.href = "https://movieshd4.xyz/vikram/"
+            window.location.href = "https://movieshd4.xyz/accident-man-hitmans-holiday/"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 1 && stop2 == false){
-            window.location.href = "https://movieshd4.xyz/the-sea-beast/"
+            window.location.href = "https://movieshd4.xyz/old-man/"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 2 && stop2 == false){
-            window.location.href = "https://movieshd4.xyz/the-last-warrior-root-of-evil/"
+            window.location.href = "https://movieshd4.xyz/clerks-iii/"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 3 && stop2 == false){
-            window.location.href = "https://movieshd4.xyz/the-novice/"
+            window.location.href = "https://movieshd4.xyz/halloween-ends/"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 4 && stop2 == false){
-            window.location.href = "https://movieshd4.xyz/mayday/"
+            window.location.href = "https://movieshd4.xyz/the-accursed/"
             stop2 = true;
         }}catch(e){}
-        try{if(bienso == 5 && stop2 == false){
-            window.location.href = "https://movieshd4.xyz/the-unforgivable/"
-            stop2 = true;
-        }}catch(e){}
-        try{if(bienso == 6 && stop2 == false){
-            window.location.href = "https://movieshd4.xyz/9-bullets/"
-            stop2 = true;
-        }}catch(e){}
-        try{if(bienso == 7 && stop2 == false){
-            window.location.href = "https://movieshd4.xyz/ambulance/"
-            stop2 = true;
-        }}catch(e){}
-        try{if(bienso == 8 && stop2 == false){
-            window.location.href = "https://movieshd4.xyz/the-devil-you-know/"
-            stop2 = true;
-        }}catch(e){}
-        try{if(bienso == 9 && stop2 == false){
-            window.location.href = "https://movieshd4.xyz/brut-force/"
-            stop2 = true;
-        }}catch(e){}
-        try{if(bienso == 10 && stop2 == false){
-            window.location.href = "https://movieshd4.xyz/dying-for-chocolate-a-curious-caterer-mystery/"
-            stop2 = true;
-        }}catch(e){}
-        try{if(bienso == 11 && stop2 == false){
-            window.location.href = "https://movieshd4.xyz/the-nan-movie/"
-            stop2 = true;
-        }}catch(e){}
-        try{if(bienso == 12 && stop2 == false){
-            window.location.href = "https://movieshd4.xyz/in-our-prime/"
-            stop2 = true;
-        }}catch(e){}
-        try{if(bienso == 13 && stop2 == false){
-            window.location.href = "https://movieshd4.xyz/escape-the-field/"
-            stop2 = true;
-        }}catch(e){}
-        try{if(bienso == 14 && stop2 == false){
-            window.location.href = "https://movieshd4.xyz/donkeyhead/"
-            stop2 = true;
-        }}catch(e){}
-        try{if(bienso == 15 && stop2 == false){
-            window.location.href = "https://movieshd4.xyz/beyond-ed-buck/"
-            stop2 = true;
-        }}catch(e){}
-        try{if(bienso == 16 && stop2 == false){
-            window.location.href = "https://movieshd4.xyz/sheryl/"
-            stop2 = true;
-        }}catch(e){}
-        try{if(bienso == 17 && stop2 == false){
-            window.location.href = "https://movieshd4.xyz/snoopy-presents-to-mom-and-dad-with-love/"
-            stop2 = true;
-        }}catch(e){}
-        try{if(bienso == 18 && stop2 == false){
-            window.location.href = "https://movieshd4.xyz/love-accidentally/"
-            stop2 = true;
-        }}catch(e){}
-        try{if(bienso == 19 && stop2 == false){
-            window.location.href = "https://movieshd4.xyz/goliath/"
-            stop2 = true;
-        }}catch(e){}
-        try{if(bienso == 20 && stop2 == false){
-            window.location.href = "https://movieshd4.xyz/adeline/"
-            stop2 = true;
-        }}catch(e){}
-        try{if(bienso == 21 && stop2 == false){
-            window.location.href = "https://movieshd4.xyz/operation-romeo/"
-            stop2 = true;
-        }}catch(e){}
-        try{if(bienso == 22 && stop2 == false){
-            window.location.href = "https://movieshd4.xyz/samrat-prithviraj/"
-            stop2 = true;
-        }}catch(e){}
-        try{if(bienso == 23 && stop2 == false){
-            window.location.href = "https://movieshd4.xyz/major/"
-            stop2 = true;
-        }}catch(e){}
-        try{if(bienso == 24 && stop2 == false){
-            window.location.href = "https://movieshd4.xyz/janhit-mein-jaari/"
-            stop2 = true;
-        }}catch(e){}
-        try{if(bienso == 25 && stop2 == false){
-            window.location.href = "https://movieshd4.xyz/too-old-for-fairy-tales/"
-            stop2 = true;
-        }}catch(e){}
-        try{if(window.location.href == "https://movieshd4.xyz/vikram/" && stop4 == false){
-            window.location.href = "https://mshort.top/0dxUrqv8"
+        try{if(window.location.href == "https://movieshd4.xyz/accident-man-hitmans-holiday/" && stop4 == false){
+            window.location.href = "https://link.short2url.in/JoZqtHQU"
             stop4 = true;
         }}catch(e){}
-        try{if(window.location.href == "https://movieshd4.xyz/the-sea-beast/" && stop4 == false){
-            window.location.href = "https://mshort.top/A015ZV"
+        try{if(window.location.href == "https://movieshd4.xyz/old-man/" && stop4 == false){
+            window.location.href = "https://link.short2url.in/0r6z8"
             stop4 = true;
         }}catch(e){}
-        try{if(window.location.href == "https://movieshd4.xyz/the-last-warrior-root-of-evil/" && stop4 == false){
-            window.location.href = "https://mshort.top/QuDL"
+        try{if(window.location.href == "https://movieshd4.xyz/clerks-iii/" && stop4 == false){
+            window.location.href = "https://link.short2url.in/rnMvgn"
             stop4 = true;
         }}catch(e){}
-        try{if(window.location.href == "https://movieshd4.xyz/the-novice/" && stop4 == false){
-            window.location.href = "https://mshort.top/s0lzXCZ"
+        try{if(window.location.href == "https://movieshd4.xyz/halloween-ends/" && stop4 == false){
+            window.location.href = "https://link.short2url.in/QnWp"
             stop4 = true;
         }}catch(e){}
-        try{if(window.location.href == "https://movieshd4.xyz/mayday/" && stop4 == false){
-            window.location.href = "https://mshort.top/LG2fDy"
+        try{if(window.location.href == "https://movieshd4.xyz/the-accursed/" && stop4 == false){
+            window.location.href = "https://link.short2url.in/tVLO9HJZ"
             stop4 = true;
         }}catch(e){}
-        try{if(window.location.href == "https://movieshd4.xyz/the-unforgivable/" && stop4 == false){
-            window.location.href = "https://mshort.top/yVKw0mH"
+        try{if(document.getElementsByClassName("yuidea-time")[0].innerText == "0" && stop4 == false && window.location.href.includes("mytop5.club")){
+            setTimeout(function(){document.getElementsByClassName("btn btn-primary")[0].click();},3000)
             stop4 = true;
         }}catch(e){}
-        try{if(window.location.href == "https://movieshd4.xyz/9-bullets/" && stop4 == false){
-            window.location.href = "https://mshort.top/hDhN"
+         try{if(document.getElementsByClassName("yuidea-time")[0].innerText == "1" && stop3 == false && window.location.href.includes("mytop5.club")){
+            setTimeout(function(){document.getElementsByClassName("yu-btn yu-go")[0].click();},3000)
+            stop3 = true;
+        }}catch(e){}
+        try{if(document.getElementsByClassName("yuidea-time")[0].innerText == "0" && stop4 == false && window.location.href.includes("adybrands.in")){
+            setTimeout(function(){document.getElementsByClassName("btn btn-primary")[0].click();},3000)
             stop4 = true;
         }}catch(e){}
-        try{if(window.location.href == "https://movieshd4.xyz/ambulance/" && stop4 == false){
-            window.location.href = "https://mshort.top/5xZg"
-            stop4 = true;
+        try{if(document.getElementsByClassName("yuidea-time")[0].innerText == "1" && stop3 == false && window.location.href.includes("adybrands.in")){
+            setTimeout(function(){document.getElementsByClassName("yu-btn yu-blue")[0].click();},3000)
+            stop3 = true;
         }}catch(e){}
-        try{if(window.location.href == "https://movieshd4.xyz/the-devil-you-know/" && stop4 == false){
-            window.location.href = "https://mshort.top/LvGW5"
-            stop4 = true;
+        try{if(window.location.href.includes("google") && window.location.href.includes("adybrands.in") && stop6 == false){
+            setTimeout(function(){document.getElementsByClassName("btn btn-primary")[0].click();},3000)
+            stop6 = true;
         }}catch(e){}
-        try{if(window.location.href == "https://movieshd4.xyz/brut-force/" && stop4 == false){
-            window.location.href = "https://mshort.top/sNqGfAoE"
-            stop4 = true;
+        try{if(window.location.href.includes("google") && window.location.href.includes("mytop5.club") && stop6 == false){
+            setTimeout(function(){document.getElementsByClassName("btn btn-primary")[0].click();},3000)
+            stop6 = true;
         }}catch(e){}
-        try{if(window.location.href == "https://movieshd4.xyz/dying-for-chocolate-a-curious-caterer-mystery/" && stop4 == false){
-            window.location.href = "https://mshort.top/znvBWM"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href == "https://movieshd4.xyz/the-nan-movie/" && stop4 == false){
-            window.location.href = "https://mshort.top/IXvvd"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href == "https://movieshd4.xyz/in-our-prime/" && stop4 == false){
-            window.location.href = "https://mshort.top/cWTT7"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href == "https://movieshd4.xyz/escape-the-field/" && stop4 == false){
-            window.location.href = "https://mshort.top/1IHBL"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href == "https://movieshd4.xyz/donkeyhead/" && stop4 == false){
-            window.location.href = "https://mshort.top/YKuPy53"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href == "https://movieshd4.xyz/beyond-ed-buck/" && stop4 == false){
-            window.location.href = "https://mshort.top/AycjSLgd"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href == "https://movieshd4.xyz/sheryl/" && stop4 == false){
-            window.location.href = "https://mshort.top/phh8JB"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href == "https://movieshd4.xyz/snoopy-presents-to-mom-and-dad-with-love/" && stop4 == false){
-            window.location.href = "https://mshort.top/4mrKMWN8"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href == "https://movieshd4.xyz/love-accidentally/" && stop4 == false){
-            window.location.href = "https://mshort.top/voQb"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href == "https://movieshd4.xyz/goliath/" && stop4 == false){
-            window.location.href = "https://mshort.top/Oru4"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href == "https://movieshd4.xyz/adeline/" && stop4 == false){
-            window.location.href = "https://mshort.top/isJeQ"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href == "https://movieshd4.xyz/operation-romeo/" && stop4 == false){
-            window.location.href = "https://mshort.top/o0a1C"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href == "https://movieshd4.xyz/samrat-prithviraj/" && stop4 == false){
-            window.location.href = "https://mshort.top/s5A5bC"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href == "https://movieshd4.xyz/major/" && stop4 == false){
-            window.location.href = "https://mshort.top/EBGOD"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href == "https://movieshd4.xyz/janhit-mein-jaari/" && stop4 == false){
-            window.location.href = "https://mshort.top/h2hu0Mf"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href == "https://movieshd4.xyz/too-old-for-fairy-tales/" && stop4 == false){
-            window.location.href = "https://mshort.top/YHq1FoCs"
-            stop4 = true;
-        }}catch(e){}
-        try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop1 == false && window.location.href.includes("madshiba.fun")){
-            setTimeout(function(){document.getElementsByTagName("input")[1].click();},3000)
-            stop1 = true;
-        }}catch(e){}
-        try{if(document.getElementById("timer").innerText == "0" && stop1 == false && window.location.href.includes("madshiba.fun") && document.getElementsByTagName("h6")[1].innerText.includes("Step 3")){
-            setTimeout(function(){document.getElementsByTagName("input")[1].click();},3000)
-            stop1 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("madshiba.fun") && document.getElementsByTagName("h6")[1].innerText.includes("FINISH")){
-            setTimeout(function(){document.getElementsByTagName("input")[1].click();},3000)
-            stop1 = true;
+        try{if(document.getElementsByClassName("btn btn-success btn-lg get-link")[0].innerText == "GET LINK" && stop3 == false && window.location.href.includes("technemo.xyz")){
+            setTimeout(function(){document.getElementsByClassName("btn btn-success btn-lg get-link")[0].click();},3000)
+            stop3 = true;
         }}catch(e){}
     },6000)
 })();
