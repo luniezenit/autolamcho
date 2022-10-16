@@ -67,9 +67,19 @@ var stop8 = false;
                 break;
             }
         }}catch(e){}
+        try{for(var j=0;j<200;j++){
+            if(document.getElementsByTagName("div")[j].style.display == "none"){
+                console.log(j);
+                break;
+            }
+        }}catch(e){}
         try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop3 == false && window.location.href.includes("allcryptoz.net")){
             setTimeout(function(){document.getElementsByTagName("button")[u].click();},3000);
             stop2 = true;
+        }}catch(e){}
+        try{if(document.getElementsByTagName("p")[0].innerText.includes("Click Any Ad") && stop4 == false && window.location.href.includes("allcryptoz.net")){
+            setTimeout(function(){document.getElementsByTagName("div")[j].style.display = "block"},3000);
+            stop4 = true;
         }}catch(e){}
         try{if(document.getElementById("count").innerText.includes("0") && stop2 == false && window.location.href.includes("allcryptoz.net")){
             setTimeout(function(){document.getElementsByTagName("button")[u].click();},3000);
