@@ -38,60 +38,42 @@ var stop8 = false;
             stop2 = true;
         }}catch(e){}
         try{if(window.location.href.includes("1-4lnktpiVNOxmJT5NqJcJG-JesYoDcX02MuETTqUBus") && stop4 == false){
-            window.location.href = "https://clks.pro/pFmXRVmP"
+            window.location.href = "https://upperfly.bid/w/ME5R"
             stop4 = true;
         }}catch(e){}
         try{if(window.location.href.includes("156iPgFomH0eWAVzIIu5as-JQmFPMZ5_7Vk5_eWvsk8Q") && stop4 == false){
-            window.location.href = "https://clks.pro/Uynlb"
+            window.location.href = "https://upperfly.bid/w/cFGRV"
             stop4 = true;
         }}catch(e){}
         try{if(window.location.href.includes("1BPyoPA0wYh2Cc8IG8MwucKrTe3QKsYsDXS_t0HL50EQ") && stop4 == false){
-            window.location.href = "https://clks.pro/jtclm"
+            window.location.href = "https://upperfly.bid/w/7MBk6a"
             stop4 = true;
         }}catch(e){}
         try{if(window.location.href.includes("1TFVAUJTIURuMIyy8ia3Q-S8h6wRKqEbG0d8PVUDJfvo") && stop4 == false){
-            window.location.href = "https://clks.pro/k1B2avP"
+            window.location.href = "https://upperfly.bid/w/zimY"
             stop4 = true;
         }}catch(e){}
         try{if(window.location.href.includes("1LBfzngY_ehNiPjxeW0nJpbEWxS6wqAzyFVT0rCJsr0s") && stop4 == false){
-            window.location.href = "https://clks.pro/GqQPVE"
+            window.location.href = "https://upperfly.bid/w/k2xC"
             stop4 = true;
         }}catch(e){}
         try{if(window.location.href.includes("1WJMehNST83s0Ehnld114Asvn-UsQ3h9MrzRc7ChpiLU") && stop4 == false){
-            window.location.href = "https://clks.pro/lFFRXt"
+            window.location.href = "https://upperfly.bid/w/v48NG"
             stop4 = true;
         }}catch(e){}
         try{for(var u=0;u<100;u++){
-            if(document.getElementsByTagName("button")[u].innerHTML.includes("Get Link")){
+            if(document.getElementsByTagName("button")[u].innerHTML.includes("Step")){
                 console.log(u);
                 break;
             }
         }}catch(e){}
-        try{for(var j=10;j<200;j++){
-            if(document.getElementsByTagName("div")[j].innerHTML.includes("g-recaptcha")){
-                console.log(j);
-                break;
-            }
-        }}catch(e){}
-        try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop3 == false && window.location.href.includes("blog.mdn.lol")){
-            setTimeout(function(){document.getElementsByTagName("input")[1].click();},3000);
-            stop2 = true;
-        }}catch(e){}
-        try{if(document.getElementsByClassName("alert alert-info")[0].innerText.includes("Click the ad, scroll and press") && stop2 == false && window.location.href.includes("techydino.net")){
+        try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop3 == false && window.location.href.includes("allcryptoz.net")){
             setTimeout(function(){document.getElementsByTagName("button")[u].click();},3000);
             stop2 = true;
         }}catch(e){}
-        try{if(document.getElementsByClassName("alert alert-info")[0].innerText.includes("Click the ad, scroll and press") && stop3 == false && window.location.href.includes("mdn.lol")){
-            setTimeout(function(){document.getElementsByTagName("button")[u].click();},6000);
-            stop3 = true;
-        }}catch(e){}
-        try{if(document.getElementById("click").innerText.includes("captcha") && stop2 == false && window.location.href.includes("blog.mdn.lol")){
-            setTimeout(function(){document.getElementsByTagName("div")[j].style.display = "block"},3000);
+        try{if(document.getElementById("count").innerText.includes("0") && stop2 == false && window.location.href.includes("allcryptoz.net")){
+            setTimeout(function(){document.getElementsByTagName("button")[u].click();},3000);
             stop2 = true;
-        }}catch(e){}
-        try{if(document.getElementById("seconds").innerText == "seconds" && stop3 == false && window.location.href.includes("blog.mdn.lol") && document.getElementsByTagName("b")[0].innerText.includes("Timer Ends")){
-            setTimeout(function(){document.getElementsByTagName("input")[1].click();},3000);
-            stop3 = true;
         }}catch(e){}
     },6000)
 })();
