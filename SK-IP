@@ -8,82 +8,66 @@ var stop7 = false;
 var stop8 = false;
 (function() {
     setInterval(function(){
-        try{if(window.location.href == "//https://movieshd4.xyz/the-hunt/" && stop1 == false){
+        try{if(window.location.href == "https://movieshd4.xyz/the-hunt/" && stop1 == false){
             var bienso = Math.floor(Math.random() * 6);
             console.log(bienso)
             stop1 = true;
         }}catch(e){}
         try{if(bienso == 0 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1-4lnktpiVNOxmJT5NqJcJG-JesYoDcX02MuETTqUBus"
+            window.location.href = "https://docs.google.com/document/d/1_PE1uG2AOeoOagBaBahCEu61379hbNGr1G-9I0YwVoI"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 1 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/156iPgFomH0eWAVzIIu5as-JQmFPMZ5_7Vk5_eWvsk8Q"
+            window.location.href = "https://docs.google.com/document/d/1wR0us--BUr6ETgAm9izJRy0JgCvBvdAD00VDgZHIulY"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 2 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1BPyoPA0wYh2Cc8IG8MwucKrTe3QKsYsDXS_t0HL50EQ"
+            window.location.href = "https://docs.google.com/document/d/1MXARIGlW80Bf4nlNVgxKYoA6qa9dSlZu88V4XkpBLMo"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 3 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1TFVAUJTIURuMIyy8ia3Q-S8h6wRKqEbG0d8PVUDJfvo"
+            window.location.href = "https://docs.google.com/document/d/1MmkiUA-nHQdI--QfsB7znm3S0cdZ-ynolyvvD5XsZes"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 4 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1LBfzngY_ehNiPjxeW0nJpbEWxS6wqAzyFVT0rCJsr0s"
+            window.location.href = "https://docs.google.com/document/d/1Om8vgf5WyvLU39ZAwIA-36e2flUu-HF4IObtC0IdpWg"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 5 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1WJMehNST83s0Ehnld114Asvn-UsQ3h9MrzRc7ChpiLU"
+            window.location.href = "https://docs.google.com/document/d/180a52IBBhlBjDCSwuov-x4HOWckgAlLpPV8lPibQoJU"
             stop2 = true;
         }}catch(e){}
-        try{if(window.location.href.includes("1-4lnktpiVNOxmJT5NqJcJG-JesYoDcX02MuETTqUBus") && stop4 == false){
-            window.location.href = "https://upperfly.bid/w/ME5R"
+        try{if(window.location.href.includes("1_PE1uG2AOeoOagBaBahCEu61379hbNGr1G-9I0YwVoI") && stop4 == false){
+            window.location.href = "https://oii.io/QEDzwr"
             stop4 = true;
         }}catch(e){}
-        try{if(window.location.href.includes("156iPgFomH0eWAVzIIu5as-JQmFPMZ5_7Vk5_eWvsk8Q") && stop4 == false){
-            window.location.href = "https://upperfly.bid/w/cFGRV"
+        try{if(window.location.href.includes("1wR0us--BUr6ETgAm9izJRy0JgCvBvdAD00VDgZHIulY") && stop4 == false){
+            window.location.href = "https://oii.io/ttRffD"
             stop4 = true;
         }}catch(e){}
-        try{if(window.location.href.includes("1BPyoPA0wYh2Cc8IG8MwucKrTe3QKsYsDXS_t0HL50EQ") && stop4 == false){
-            window.location.href = "https://upperfly.bid/w/7MBk6a"
+        try{if(window.location.href.includes("1MXARIGlW80Bf4nlNVgxKYoA6qa9dSlZu88V4XkpBLMo") && stop4 == false){
+            window.location.href = "https://oii.io/Bh36q3T"
             stop4 = true;
         }}catch(e){}
-        try{if(window.location.href.includes("1TFVAUJTIURuMIyy8ia3Q-S8h6wRKqEbG0d8PVUDJfvo") && stop4 == false){
-            window.location.href = "https://upperfly.bid/w/zimY"
+        try{if(window.location.href.includes("1MmkiUA-nHQdI--QfsB7znm3S0cdZ-ynolyvvD5XsZes") && stop4 == false){
+            window.location.href = "https://oii.io/BhmXdhXX"
             stop4 = true;
         }}catch(e){}
-        try{if(window.location.href.includes("1LBfzngY_ehNiPjxeW0nJpbEWxS6wqAzyFVT0rCJsr0s") && stop4 == false){
-            window.location.href = "https://upperfly.bid/w/k2xC"
+        try{if(window.location.href.includes("1Om8vgf5WyvLU39ZAwIA-36e2flUu-HF4IObtC0IdpWg") && stop4 == false){
+            window.location.href = "https://oii.io/kTpwT"
             stop4 = true;
         }}catch(e){}
-        try{if(window.location.href.includes("1WJMehNST83s0Ehnld114Asvn-UsQ3h9MrzRc7ChpiLU") && stop4 == false){
-            window.location.href = "https://upperfly.bid/w/v48NG"
+        try{if(window.location.href.includes("180a52IBBhlBjDCSwuov-x4HOWckgAlLpPV8lPibQoJU") && stop4 == false){
+            window.location.href = "https://oii.io/WqtN1"
             stop4 = true;
         }}catch(e){}
-        try{for(var u=0;u<100;u++){
-            if(document.getElementsByTagName("button")[u].innerHTML.includes("Step")){
-                console.log(u);
-                break;
-            }
+        try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop1 == false && window.location.href.includes("oii.io")){
+            setTimeout(function(){document.getElementsByClassName("btn btn-primary btn-captcha")[0].click();},3000)
+            stop1 = true;
         }}catch(e){}
-        try{for(var j=0;j<200;j++){
-            if(document.getElementsByTagName("div")[j].style.display == "none"){
-                console.log(j);
-                break;
-            }
-        }}catch(e){}
-        try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop3 == false && window.location.href.includes("allcryptoz.net")){
-            setTimeout(function(){document.getElementsByTagName("button")[u].click();},3000);
-            stop2 = true;
-        }}catch(e){}
-        try{if(document.getElementsByTagName("p")[0].innerText.includes("Click Any Ad") && stop4 == false && window.location.href.includes("allcryptoz.net")){
-            setTimeout(function(){document.getElementsByTagName("div")[j].style.display = "block"},3000);
-            stop4 = true;
-        }}catch(e){}
-        try{if(document.getElementById("count").innerText.includes("0") && stop2 == false && window.location.href.includes("allcryptoz.net")){
-            setTimeout(function(){document.getElementsByTagName("button")[u].click();},3000);
-            stop2 = true;
+        try{if(document.getElementsByClassName("btn btn-sm btn-success btn-lg get-link")[0].innerText == "Get Link" && stop1 == false && window.location.href.includes("oii.io")){
+            setTimeout(function(){document.getElementsByClassName("btn btn-sm btn-success btn-lg get-link")[0].click();},3000)
+            stop1 = true;
         }}catch(e){}
     },6000)
 })();
