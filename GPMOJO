@@ -9,65 +9,101 @@ var stop8 = false;
 (function() {
     setInterval(function(){
         try{if(window.location.href == "https://movieshd4.xyz/active-shooter/" && stop1 == false){
-            var bienso = Math.floor(Math.random() * 6);
+            var bienso = Math.floor(Math.random() * 10);
             console.log(bienso)
             stop1 = true;
         }}catch(e){}
         try{if(bienso == 0 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1_PE1uG2AOeoOagBaBahCEu61379hbNGr1G-9I0YwVoI"
+            window.location.href = "https://docs.google.com/document/d/1X0RmNI_kY_8I5BA8mEb8pvnUJ4OsBj3KxBhg7uh0yyg"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 1 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1wR0us--BUr6ETgAm9izJRy0JgCvBvdAD00VDgZHIulY"
+            window.location.href = "https://docs.google.com/document/d/16fXxRZWzFK2lbYsHsR9NAU4k2xQ8z60NAkwvqGxjlaE"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 2 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1MXARIGlW80Bf4nlNVgxKYoA6qa9dSlZu88V4XkpBLMo"
+            window.location.href = "https://docs.google.com/document/d/1qvNbwrv66LXU13exO1BqpcSCjiZLO4AJVRKE76UBCJw"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 3 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1MmkiUA-nHQdI--QfsB7znm3S0cdZ-ynolyvvD5XsZes"
+            window.location.href = "https://docs.google.com/document/d/1FulG-GUhbw7yQ6LsfYMjlJVbXEhRLqCVrHv5JN1QeKY"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 4 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1Om8vgf5WyvLU39ZAwIA-36e2flUu-HF4IObtC0IdpWg"
+            window.location.href = "https://docs.google.com/document/d/17a1fwS5Rlbw1ADNDL4o_MP11c7Deief9AYxelNbpVYg"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 5 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/180a52IBBhlBjDCSwuov-x4HOWckgAlLpPV8lPibQoJU"
+            window.location.href = "https://docs.google.com/document/d/1wRcOIkVvBEZYvxEIburuxbbpu9zYBbQ1jGgOgFewsxw"
             stop2 = true;
         }}catch(e){}
-        try{if(window.location.href.includes("1_PE1uG2AOeoOagBaBahCEu61379hbNGr1G-9I0YwVoI") && stop4 == false){
-            window.location.href = "https://oii.io/QEDzwr"
+        try{if(bienso == 6 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/1-XtwEyFOPmuLO6-lSVYtsLzLOgfkPdYkdo7m4zObxvg"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 7 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/1ty-Eq6t0TlkYnudJuUFaWyXpOcMu5LnVDZJuVRVZB6Q"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 8 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/1TRShfn-qUIUB8BcnRqbuQBGw-d9K2uqb3t14qI4Tca0"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 9 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/1SBcSVCvOcwbM6SQhDlJS1pSKG7DYkUcfREee_dN8qtA"
+            stop2 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1X0RmNI_kY_8I5BA8mEb8pvnUJ4OsBj3KxBhg7uh0yyg") && stop4 == false){
+            window.location.href = "https://www.file-upload.com/9tec4mho74wa"
             stop4 = true;
         }}catch(e){}
-        try{if(window.location.href.includes("1wR0us--BUr6ETgAm9izJRy0JgCvBvdAD00VDgZHIulY") && stop4 == false){
-            window.location.href = "https://oii.io/ttRffD"
+        try{if(window.location.href.includes("16fXxRZWzFK2lbYsHsR9NAU4k2xQ8z60NAkwvqGxjlaE") && stop4 == false){
+            window.location.href = "https://www.file-upload.com/wkd9mwrme37m"
             stop4 = true;
         }}catch(e){}
-        try{if(window.location.href.includes("1MXARIGlW80Bf4nlNVgxKYoA6qa9dSlZu88V4XkpBLMo") && stop4 == false){
-            window.location.href = "https://oii.io/Bh36q3T"
+        try{if(window.location.href.includes("1qvNbwrv66LXU13exO1BqpcSCjiZLO4AJVRKE76UBCJw") && stop4 == false){
+            window.location.href = "https://www.file-upload.com/ec12xthnhtt9"
             stop4 = true;
         }}catch(e){}
-        try{if(window.location.href.includes("1MmkiUA-nHQdI--QfsB7znm3S0cdZ-ynolyvvD5XsZes") && stop4 == false){
-            window.location.href = "https://oii.io/BhmXdhXX"
+        try{if(window.location.href.includes("1FulG-GUhbw7yQ6LsfYMjlJVbXEhRLqCVrHv5JN1QeKY") && stop4 == false){
+            window.location.href = "https://www.file-upload.com/23i484il8u2y"
             stop4 = true;
         }}catch(e){}
-        try{if(window.location.href.includes("1Om8vgf5WyvLU39ZAwIA-36e2flUu-HF4IObtC0IdpWg") && stop4 == false){
-            window.location.href = "https://oii.io/kTpwT"
+        try{if(window.location.href.includes("17a1fwS5Rlbw1ADNDL4o_MP11c7Deief9AYxelNbpVYg") && stop4 == false){
+            window.location.href = "https://www.file-upload.com/ufcjg72wis2e"
             stop4 = true;
         }}catch(e){}
-        try{if(window.location.href.includes("180a52IBBhlBjDCSwuov-x4HOWckgAlLpPV8lPibQoJU") && stop4 == false){
-            window.location.href = "https://oii.io/WqtN1"
+        try{if(window.location.href.includes("1wRcOIkVvBEZYvxEIburuxbbpu9zYBbQ1jGgOgFewsxw") && stop4 == false){
+            window.location.href = "https://www.file-upload.com/8r19juyeuy0q"
             stop4 = true;
         }}catch(e){}
-        try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop1 == false && window.location.href.includes("oii.io")){
-            setTimeout(function(){document.getElementsByClassName("btn btn-primary btn-captcha")[0].click();},3000)
+        try{if(window.location.href.includes("1-XtwEyFOPmuLO6-lSVYtsLzLOgfkPdYkdo7m4zObxvg") && stop4 == false){
+            window.location.href = "https://www.file-upload.com/reapc6xl1n1z"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1ty-Eq6t0TlkYnudJuUFaWyXpOcMu5LnVDZJuVRVZB6Q") && stop4 == false){
+            window.location.href = "https://www.file-upload.com/oxpda6tsfh23"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1TRShfn-qUIUB8BcnRqbuQBGw-d9K2uqb3t14qI4Tca0") && stop4 == false){
+            window.location.href = "https://www.file-upload.com/bp63ygfc3dx5"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1SBcSVCvOcwbM6SQhDlJS1pSKG7DYkUcfREee_dN8qtA") && stop4 == false){
+            window.location.href = "https://www.file-upload.com/nn675l1vewyh"
+            stop4 = true;
+        }}catch(e){}
+        try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop2 == false && window.location.href.includes("file-upload.com") && document.getElementsByClassName("label label-danger seconds")[0].innerHTML == "1"){
+            setTimeout(function(){document.getElementById("downloadbtn").click();},3000);
+            stop2 = true;
+        }}catch(e){}
+        try{if(document.getElementsByClassName("btn btn-xs btn-primary mnbt1")[0].value == "Free Download" && stop1 == false && window.location.href.includes("file-upload.com")){
+            setTimeout(function(){document.getElementsByClassName("btn btn-xs btn-primary mnbt1")[0].click();},3000);
             stop1 = true;
         }}catch(e){}
-        try{if(document.getElementsByClassName("btn btn-sm btn-success btn-lg get-link")[0].innerText == "Get Link" && stop1 == false && window.location.href.includes("oii.io")){
-            setTimeout(function(){document.getElementsByClassName("btn btn-sm btn-success btn-lg get-link")[0].click();},3000)
-            stop1 = true;
+        try{if(document.getElementsByClassName("btn btn-sm btn-success")[0].innerText.includes("Click here to download") && stop3 == false && window.location.href.includes("file-upload.com")){
+            setTimeout(function(){document.getElementsByClassName("btn btn-sm btn-success")[0].click();},3000);
+            stop3 = true;
         }}catch(e){}
     },6000)
 })();
