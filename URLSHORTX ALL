@@ -245,6 +245,12 @@ var stop8 = false;
             window.location.href = "http://kimo.ma/r/#http://cryptobu.xyz/AqSbtK"
             stop4 = true;
         }}catch(e){}
+        try{for(var j=0;j<100;j++){
+            if(document.getElementsByTagName("script")[j].innerText.includes("adfloz")){
+                console.log(j);
+                break;
+            }
+        }}catch(e){}
         try{if(document.getElementById("url_qu").innerText == " الرابط جاهز" && stop3 == false && document.getElementById("mdtimer").style.display == "none"){
             setTimeout(function(){document.getElementById("url_qu").getElementsByTagName("a")[0].click();},3000)
             stop3 = true;
@@ -257,6 +263,15 @@ var stop8 = false;
         try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop1 == false){
             setTimeout(function(){document.getElementById("wpsafelinkhuman").getElementsByTagName("img")[0].click();},3000)
             stop1 = true;
+        }}catch(e){}
+        try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop2 == false && window.location.href == "https://kimo.ma/"){
+            setTimeout(function(){document.getElementsByClassName("btn btn-outline-primary btn-captcha m-2")[0].click();},3000)
+            stop2 = true;
+        }}catch(e){}
+        try{if(document.getElementsByClassName("filler")[0].innerText.includes("Wait 0 s") && stop3 == false && window.location.href.includes("kimo.ma")){
+            setTimeout(function(){document.getElementsByClassName("btn btn-outline-primary btn-captcha m-2")[0].click();},3000)
+            setTimeout(function(){window.location.href = document.getElementsByTagName("script")[27].innerHTML.slice(56,document.getElementsByTagName("script")[27].innerHTML.lastIndexOf("referr")-15);},6000)
+            stop3 = true;
         }}catch(e){}
         try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop2 == false && window.location.href.includes("adfloz")){
             setTimeout(function(){document.getElementsByClassName("btn btn--bg-primary btn-3d-hover btn-splash-hover btn-captcha")[0].click();},3000)
