@@ -8,99 +8,66 @@ var stop7 = false;
 var stop8 = false;
 (function() {
     setInterval(function(){
-        try{if(window.location.href == "//https://movieshd4.xyz/phineas-and-ferb-the-movie-candace-against-the-universe/" && stop1 == false){
-            var bienso = Math.floor(Math.random() * 10);
+        try{if(window.location.href == "https://movieshd4.xyz/phineas-and-ferb-the-movie-candace-against-the-universe/" && stop1 == false){
+            var bienso = Math.floor(Math.random() * 6);
             console.log(bienso)
             stop1 = true;
         }}catch(e){}
         try{if(bienso == 0 && stop2 == false){
-            window.location.href = "https://movieshd4.xyz/doula/"
+            window.location.href = "https://docs.google.com/document/d/1zqX5ek7PfzSKZx6oaxK0Yx15NmooZ46frw_lalH_myg"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 1 && stop2 == false){
-            window.location.href = "https://movieshd4.xyz/moriahs-lighthouse/"
+            window.location.href = "https://docs.google.com/document/d/1S8pOo45_F_evMQI9VL4kZtwy7UOjo_gPoeP0YNYib5k"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 2 && stop2 == false){
-            window.location.href = "https://movieshd4.xyz/mid-century/"
+            window.location.href = "https://docs.google.com/document/d/1GqEmVaOeH1ibs3A6P_oQvHHcOCmjJekAehZRntNq9fI"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 3 && stop2 == false){
-            window.location.href = "https://movieshd4.xyz/maigret/"
+            window.location.href = "https://docs.google.com/document/d/1cAbV6zKDwDX2lRdF1EdgF-cJxBDNpXB8VzL_vPChS_U"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 4 && stop2 == false){
-            window.location.href = "https://movieshd4.xyz/turbo-cola/"
+            window.location.href = "https://docs.google.com/document/d/1Sly2rdl6fE3w2w8MBmdc7dAb09emBbMqW9FF-S8yNzo"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 5 && stop2 == false){
-            window.location.href = "https://movieshd4.xyz/skull/"
+            window.location.href = "https://docs.google.com/document/d/1yeaTX17YIDDoSOsCpk1DFmwz_DOJkY6jiGeRhCrUd3k"
             stop2 = true;
         }}catch(e){}
-        try{if(bienso == 6 && stop2 == false){
-            window.location.href = "https://movieshd4.xyz/thirteen-lives/"
+        try{if(window.location.href.includes("1zqX5ek7PfzSKZx6oaxK0Yx15NmooZ46frw_lalH_myg") && stop4 == false){
+            window.location.href = "https://cuty.io/te5eVaQyKX6b"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1S8pOo45_F_evMQI9VL4kZtwy7UOjo_gPoeP0YNYib5k") && stop4 == false){
+            window.location.href = "https://cuty.io/YNs9Vx7vctm"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1GqEmVaOeH1ibs3A6P_oQvHHcOCmjJekAehZRntNq9fI") && stop4 == false){
+            window.location.href = "https://cuty.io/d7bB05LJGoP4"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1cAbV6zKDwDX2lRdF1EdgF-cJxBDNpXB8VzL_vPChS_U") && stop4 == false){
+            window.location.href = "https://cuty.io/o0kWWQXtKHd6"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1Sly2rdl6fE3w2w8MBmdc7dAb09emBbMqW9FF-S8yNzo") && stop4 == false){
+            window.location.href = "https://cuty.io/pfai7AHy"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1yeaTX17YIDDoSOsCpk1DFmwz_DOJkY6jiGeRhCrUd3k") && stop4 == false){
+            window.location.href = "https://cuty.io/SDdWivS7kS0"
+            stop4 = true;
+        }}catch(e){}
+        try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop3 == false && window.location.href.includes("cut-y.net")){
+            setTimeout(function(){document.getElementById('submit-button').click();},10000);
             stop2 = true;
         }}catch(e){}
-        try{if(bienso == 7 && stop2 == false){
-            window.location.href = "https://movieshd4.xyz/luck/"
+        try{if(document.getElementById("submit-button").innerText == "Continue" && stop2 == false && window.location.href.includes("cut-y.net")){
+            setTimeout(function(){document.getElementById("submit-button").click();},3000);
             stop2 = true;
-        }}catch(e){}
-        try{if(bienso == 8 && stop2 == false){
-            window.location.href = "https://movieshd4.xyz/infrared/"
-            stop2 = true;
-        }}catch(e){}
-        try{if(bienso == 9 && stop2 == false){
-            window.location.href = "https://movieshd4.xyz/a-splash-of-love/"
-            stop2 = true;
-        }}catch(e){}
-        try{if(window.location.href == "https://movieshd4.xyz/doula/" && stop4 == false){
-            window.location.href = "https://trylinko.com/DZoa"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href == "https://movieshd4.xyz/moriahs-lighthouse/" && stop4 == false){
-            window.location.href = "https://trylinko.com/w1wsr"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href == "https://movieshd4.xyz/mid-century/" && stop4 == false){
-            window.location.href = "https://trylinko.com/9dGB"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href == "https://movieshd4.xyz/maigret/" && stop4 == false){
-            window.location.href = "https://trylinko.com/yQ6l"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href == "https://movieshd4.xyz/turbo-cola/" && stop4 == false){
-            window.location.href = "https://trylinko.com/sOAkY4k"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href == "https://movieshd4.xyz/skull/" && stop4 == false){
-            window.location.href = "https://trylinko.com/R1OFSLYZ"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href == "https://movieshd4.xyz/thirteen-lives/" && stop4 == false){
-            window.location.href = "https://trylinko.com/yf3x4"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href == "https://movieshd4.xyz/luck/" && stop4 == false){
-            window.location.href = "https://trylinko.com/Dxra1wi"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href == "https://movieshd4.xyz/infrared/" && stop4 == false){
-            window.location.href = "https://trylinko.com/bd6o"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href == "https://movieshd4.xyz/a-splash-of-love/" && stop4 == false){
-            window.location.href = "https://trylinko.com/GPCzz0ss"
-            stop4 = true;
-        }}catch(e){}
-        try{if(document.getElementsByClassName("btn btn-success")[0].innerText == "Next" && stop2 == false && window.location.href.includes("inform3tion.info")){
-            setTimeout(function(){document.getElementsByClassName("btn btn-success")[0].click();},3000)
-            setTimeout(function(){document.getElementsByClassName("btn btn-success")[1].click();},6000)
-            stop2 = true;
-        }}catch(e){}
-        try{if(document.getElementsByClassName("btn btn-success btn-lg get-link")[0].innerText == "Get Link" && stop1 == false && window.location.href.includes("trylinko")){
-            setTimeout(function(){document.getElementsByClassName("btn btn-success btn-lg get-link")[0].click();},3000)
-            stop1 = true;
         }}catch(e){}
     },6000)
 })();
