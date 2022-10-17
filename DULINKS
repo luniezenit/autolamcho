@@ -93,5 +93,9 @@ var stop8 = false;
             setTimeout(function(){document.getElementsByTagName("img")[j].click();},3000);
             stop5 = true;
         }}catch(e){}
+        try{if((window.location.href.includes("i-polls.com") || window.location.href.includes("techtrim.tech")) && stop6 == false && document.getElementById("ez-cookie-dialog") != null){
+            setTimeout(function(){document.getElementById("ez-accept-all").click();},3000);
+            stop6 = true;
+        }}catch(e){}
     },6000)
 })();
