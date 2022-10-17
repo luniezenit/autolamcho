@@ -70,6 +70,15 @@ var stop8 = false;
              setTimeout(function(){document.getElementsByTagName("a")[15].click();},20000);
             stop3 = true;
         }}catch(e){}
+        try{if(document.getElementsByTagName("button")[2].innerText == "Continue" && stop2 == false && window.location.href.includes("techtrim.tech")){
+            setTimeout(function(){document.getElementsByTagName("button")[2].click();},5000);
+            stop2 = true;
+        }}catch(e){}
+         try{if(document.getElementsByTagName("button")[2].innerText == "Get Link" && stop3 == false && window.location.href.includes("techtrim.tech")){
+            setTimeout(function(){document.getElementsByTagName("button")[2].click();},3000);
+             setTimeout(function(){document.getElementsByTagName("a")[15].click();},20000);
+            stop3 = true;
+        }}catch(e){}
          try{if(window.location.href.includes("google") && stop5 == false && window.location.href.includes("i-polls.com")){
             setTimeout(function(){document.getElementsByTagName("a")[15].click();},3000);
             stop5 = true;
