@@ -61,9 +61,9 @@ var stop8 = false;
             window.location.href = "https://cuty.io/SDdWivS7kS0"
             stop4 = true;
         }}catch(e){}
-        try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop3 == false && window.location.href.includes("cut-y.net")){
-            setTimeout(function(){document.getElementById('submit-button').click();},10000);
-            stop2 = true;
+        try{if(document.getElementById("submit-button").innerText.includes("Go") && stop3 == false && window.location.href.includes("cut-y.net") && document.getElementById("timer").innerText.includes("0")){
+            setTimeout(function(){document.getElementById("submit-button").click();},3000);
+            stop3 = true;
         }}catch(e){}
         try{if(document.getElementById("submit-button").innerText == "Continue" && stop2 == false && window.location.href.includes("cut-y.net")){
             setTimeout(function(){document.getElementById("submit-button").click();},3000);
