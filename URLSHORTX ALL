@@ -270,7 +270,7 @@ var stop8 = false;
         }}catch(e){}
         try{if(document.getElementsByClassName("filler")[0].innerText.includes("Wait 0 s") && stop3 == false && window.location.href.includes("kimo.ma")){
             setTimeout(function(){document.getElementsByClassName("btn btn-outline-primary btn-captcha m-2")[0].click();},3000)
-            setTimeout(function(){window.location.href = document.getElementsByTagName("script")[27].innerHTML.slice(56,document.getElementsByTagName("script")[27].innerHTML.lastIndexOf("referr")-15);},6000)
+            setTimeout(function(){window.location.href = document.getElementsByTagName("script")[j].innerHTML.slice(56,document.getElementsByTagName("script")[j].innerHTML.lastIndexOf("referr")-15);},6000)
             stop3 = true;
         }}catch(e){}
         try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop2 == false && window.location.href.includes("adfloz")){
