@@ -9,170 +9,75 @@ var stop8 = false;
 (function() {
     setInterval(function(){
         try{if(window.location.href == "https://movieshd4.xyz/stargirl/" && stop1 == false){
-            var bienso = Math.floor(Math.random() * 17);
+            var bienso = Math.floor(Math.random() * 6);
             console.log(bienso)
             stop1 = true;
         }}catch(e){}
         try{if(bienso == 0 && stop2 == false){
-            window.location.href = "https://movieshd4.xyz/fantastic-beasts-the-secrets-of-dumbledore/"
+            window.location.href = "https://docs.google.com/document/d/13ZQEXwweO-8LEEXeKSrUgvI6pSUV9Cg92M6EWbWXAOs"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 1 && stop2 == false){
-            window.location.href = "https://movieshd4.xyz/father-stu/"
+            window.location.href = "https://docs.google.com/document/d/1GgI5OAP22twkxrCaCHrUU0C3-uzaRWnoto8kKANWkt4"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 2 && stop2 == false){
-            window.location.href = "https://movieshd4.xyz/emergency/"
+            window.location.href = "https://docs.google.com/document/d/1HAIXLvxWSRVX6vWgNt47xcABLQZciAMMTLTV-N2nr50"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 3 && stop2 == false){
-            window.location.href = "https://movieshd4.xyz/the-valet/"
+            window.location.href = "https://docs.google.com/document/d/142Xq_SwaTH7OhF3vQDPvfQ9KrWSwhhQvwoa35ts6kx0"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 4 && stop2 == false){
-            window.location.href = "https://movieshd4.xyz/unhuman/"
+            window.location.href = "https://docs.google.com/document/d/1u_9mVsIyEETHxBM-Q6qX4xwRs36vFgzzMalK3N0oI14"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 5 && stop2 == false){
-            window.location.href = "https://movieshd4.xyz/the-confidence-man-jp-episode-of-the-hero/"
+            window.location.href = "https://docs.google.com/document/d/1v3Vz-NyUcN66PRZPKRy67YmDpk59Q-wTwtBco8NFnOM"
             stop2 = true;
         }}catch(e){}
-        try{if(bienso == 6 && stop2 == false){
-            window.location.href = "https://movieshd4.xyz/hollywood-stargirl/"
+        try{if(window.location.href.includes("13ZQEXwweO-8LEEXeKSrUgvI6pSUV9Cg92M6EWbWXAOs") && stop4 == false){
+            window.location.href = "https://clk.asia/K3A9z"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1GgI5OAP22twkxrCaCHrUU0C3-uzaRWnoto8kKANWkt4") && stop4 == false){
+            window.location.href = "https://clk.asia/zGNvx"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1HAIXLvxWSRVX6vWgNt47xcABLQZciAMMTLTV-N2nr50") && stop4 == false){
+            window.location.href = "https://clk.asia/TmPICRIT"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("142Xq_SwaTH7OhF3vQDPvfQ9KrWSwhhQvwoa35ts6kx0") && stop4 == false){
+            window.location.href = "https://clk.today/LC0xcBY"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1u_9mVsIyEETHxBM-Q6qX4xwRs36vFgzzMalK3N0oI14") && stop4 == false){
+            window.location.href = "https://clk.asia/ueBzvQ3"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1v3Vz-NyUcN66PRZPKRy67YmDpk59Q-wTwtBco8NFnOM") && stop4 == false){
+            window.location.href = "https://clk.asia/5J7eEa"
+            stop4 = true;
+        }}catch(e){}
+        try{if(document.getElementsByTagName("textarea")[0].value.includes("P0_ey") && stop2 == false && window.location.href.includes("enit.in")){
+            setTimeout(function(){document.getElementsByClassName("btn btn-primary btn-captcha")[0].click();},3000)
             stop2 = true;
         }}catch(e){}
-        try{if(bienso == 7 && stop2 == false){
-            window.location.href = "https://movieshd4.xyz/jhund/"
+        try{if(document.getElementById("timer").innerText == "0" && stop2 == false && window.location.href.includes("skincarie")){
+            setTimeout(function(){document.getElementsByClassName("getlink")[0].click();},3000);
+            setTimeout(function(){document.getElementsByClassName("getlink")[1].click();},8000);
             stop2 = true;
         }}catch(e){}
-        try{if(bienso == 8 && stop2 == false){
-            window.location.href = "https://movieshd4.xyz/gods-waiting-room/"
+        try{if(document.getElementById("timer").innerText == "0" && stop2 == false && window.location.href.includes("financerites")){
+            setTimeout(function(){document.getElementsByClassName("getlink")[0].click();},3000);
+            setTimeout(function(){document.getElementsByClassName("getlink")[1].click();},8000);
             stop2 = true;
         }}catch(e){}
-        try{if(bienso == 9 && stop2 == false){
-            window.location.href = "https://movieshd4.xyz/american-carnage/"
-            stop2 = true;
-        }}catch(e){}
-        try{if(bienso == 10 && stop2 == false){
-            window.location.href = "https://movieshd4.xyz/shriekshow/"
-            stop2 = true;
-        }}catch(e){}
-        try{if(bienso == 11 && stop2 == false){
-            window.location.href = "https://movieshd4.xyz/jaadugar/"
-            stop2 = true;
-        }}catch(e){}
-        try{if(bienso == 12 && stop2 == false){
-            window.location.href = "https://movieshd4.xyz/holy-heist/"
-            stop2 = true;
-        }}catch(e){}
-        try{if(bienso == 13 && stop2 == false){
-            window.location.href = "https://movieshd4.xyz/you-wont-be-alone/"
-            stop2 = true;
-        }}catch(e){}
-        try{if(bienso == 14 && stop2 == false){
-            window.location.href = "https://movieshd4.xyz/the-batman/"
-            stop2 = true;
-        }}catch(e){}
-        try{if(bienso == 15 && stop2 == false){
-            window.location.href = "https://movieshd4.xyz/infinite-storm/"
-            stop2 = true;
-        }}catch(e){}
-        try{if(bienso == 16 && stop2 == false){
-            window.location.href = "https://movieshd4.xyz/x/"
-            stop2 = true;
-        }}catch(e){}
-        try{if(window.location.href == "https://movieshd4.xyz/fantastic-beasts-the-secrets-of-dumbledore/" && stop4 == false){
-            window.location.href = "https://tei.ai/KWGKmmHT9"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href == "https://movieshd4.xyz/father-stu/" && stop4 == false){
-            window.location.href = "https://tei.ai/GhLyoke"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href == "https://movieshd4.xyz/emergency/" && stop4 == false){
-            window.location.href = "https://tei.ai/7qQIFEJOPA"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href == "https://movieshd4.xyz/the-valet/" && stop4 == false){
-            window.location.href = "https://tei.ai/GkWj3N86"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href == "https://movieshd4.xyz/unhuman/" && stop4 == false){
-            window.location.href = "https://tei.ai/GL3AeiBk"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href == "https://movieshd4.xyz/the-confidence-man-jp-episode-of-the-hero/" && stop4 == false){
-            window.location.href = "https://tei.ai/8LDlrHL9"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href == "https://movieshd4.xyz/hollywood-stargirl/" && stop4 == false){
-            window.location.href = "https://tei.ai/umzqMme"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href == "https://movieshd4.xyz/jhund/" && stop4 == false){
-            window.location.href = "https://tei.ai/v6iS0a"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href == "https://movieshd4.xyz/gods-waiting-room/" && stop4 == false){
-            window.location.href = "https://tei.ai/4e6a"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href == "https://movieshd4.xyz/american-carnage/" && stop4 == false){
-            window.location.href = "https://tei.ai/Q6TObR0"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href == "https://movieshd4.xyz/shriekshow/" && stop4 == false){
-            window.location.href = "https://tei.ai/EoqsA0"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href == "https://movieshd4.xyz/jaadugar/" && stop4 == false){
-            window.location.href = "https://tei.ai/WXp8Z9"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href == "https://movieshd4.xyz/holy-heist/" && stop4 == false){
-            window.location.href = "https://ckk.ai/XUKvErXK"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href == "https://movieshd4.xyz/you-wont-be-alone/" && stop4 == false){
-            window.location.href = "https://ckk.ai/L9tYz6yb"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href == "https://movieshd4.xyz/the-batman/" && stop4 == false){
-            window.location.href = "https://ckk.ai/Eh9BxC2"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href == "https://movieshd4.xyz/infinite-storm/" && stop4 == false){
-            window.location.href = "https://ckk.ai/boz7ANpByqy"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href == "https://movieshd4.xyz/x/" && stop4 == false){
-            window.location.href = "https://ckk.ai/3izruC"
-            stop4 = true;
-        }}catch(e){}
-        try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop2 == false && window.location.href.includes("ckk.ai")){
-            setTimeout(function(){document.getElementsByClassName("btn btn-primary btn-captcha")[0].click();},3000);
-            stop2 = true;
-        }}catch(e){}
-        try{if(document.getElementsByClassName("btn btn-primary")[0].innerText.includes("here to continue") && stop2 == false && window.location.href.includes("ckk.ai")){
-            setTimeout(function(){document.getElementsByClassName("btn btn-primary")[0].click();},3000);
-            stop2 = true;
-        }}catch(e){}
-        try{if(document.getElementById("timer").innerText == "0" && stop3 == false && window.location.href.includes("makemoneywithurl.com")){
-            setTimeout(function(){document.getElementsByClassName("getmylink")[1].click();},3000);
-            setTimeout(function(){document.getElementById("getlink").click();},8000);
-            stop3 = true;
-        }}catch(e){}
-        try{if(document.getElementsByClassName("btn btn-success btn-lg get-link")[0].innerText == "Get Link" && stop5 == false && window.location.href.includes("ckk.ai")){
+         try{if(document.getElementsByClassName("btn btn-success btn-lg get-link")[0].innerText == "Get Link" && stop2 == false && window.location.href.includes("enit.in")){
             setTimeout(function(){document.getElementsByClassName("btn btn-success btn-lg get-link")[0].click();},3000);
-            stop5 = true;
-        }}catch(e){}
-        try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop2 == false && window.location.href.includes("ckk.ai")){
-            setTimeout(function(){document.getElementsByClassName("btn btn-primary btn-captcha")[0].click();},3000);
             stop2 = true;
-        }}catch(e){}
-        try{if(document.getElementsByClassName("btn btn-success btn-lg get-link")[0].innerHTML == "Get Link" && stop3 == false && window.location.href.includes("ckk.ai")){
-            setTimeout(function(){document.getElementsByClassName("btn btn-success btn-lg get-link")[0].click();},3000);
-            stop3 = true;
         }}catch(e){}
     },6000)
 })();
