@@ -9,81 +9,69 @@ var stop8 = false;
 (function() {
     setInterval(function(){
         try{if(window.location.href == "https://movieshd4.xyz/joker/" && stop1 == false){
-            var bienso = Math.floor(Math.random() * 5);
+            var bienso = Math.floor(Math.random() * 6);
             console.log(bienso)
             stop1 = true;
         }}catch(e){}
         try{if(bienso == 0 && stop2 == false){
-            window.location.href = "https://movieshd4.xyz/luckiest-girl-alive/"
+            window.location.href = "https://docs.google.com/document/d/1LRam54rrBtgzTyQ-TOObdTyLxIn_HzHm5p1xqmmIWPc"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 1 && stop2 == false){
-            window.location.href = "https://movieshd4.xyz/hellraiser/"
+            window.location.href = "https://docs.google.com/document/d/1_FdSN_zkJGF7yKRV6DQzVzHRh6Ejn73TGVPW3u939c4"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 2 && stop2 == false){
-            window.location.href = "https://movieshd4.xyz/jujutsu-kaisen-0-the-movie/"
+            window.location.href = "https://docs.google.com/document/d/15vaNtjMruV3Ac8PyxUFVmY16S0lBEITi9gXi1EffOKY"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 3 && stop2 == false){
-            window.location.href = "https://movieshd4.xyz/gods-country/"
+            window.location.href = "https://docs.google.com/document/d/1QJe6iY8zo5_H4KXBQzZ2EB4hFEZ1zfcrUPrz7VT2gA0"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 4 && stop2 == false){
-            window.location.href = "https://movieshd4.xyz/mk-ultra/"
+            window.location.href = "https://docs.google.com/document/d/1y8Fz39nwZMQJYld8Zb7bYUTVAqLVxzmzWDhEJuaxRA8"
             stop2 = true;
         }}catch(e){}
-        try{if(window.location.href.includes("https://movieshd4.xyz/luckiest-girl-alive/") && stop4 == false){
-            window.location.href = "https://oko.sh/4fw0iyd"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("https://movieshd4.xyz/hellraiser/") && stop4 == false){
-            window.location.href = "https://oko.sh/u0pVgs7p3x"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("https://movieshd4.xyz/jujutsu-kaisen-0-the-movie/") && stop4 == false){
-            window.location.href = "https://oko.sh/q1rIBA1Jv"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("https://movieshd4.xyz/gods-country/") && stop4 == false){
-            window.location.href = "https://oko.sh/8MJ8ronw"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("https://movieshd4.xyz/mk-ultra/") && stop4 == false){
-            window.location.href = "https://oko.sh/aB5JYp"
-            stop4 = true;
-        }}catch(e){}
-        try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop2 == false && window.location.href.includes("oko.sh")){
-            setTimeout(function(){document.getElementsByClassName("btn btn-primary btn-captcha")[0].click();},3000);
+        try{if(bienso == 5 && stop2 == false){
+            window.location.href = "https://docs.google.com/document/d/1o8MNFA5q8lmhHsne-X0Rn8FgcePXj_fpTBl9fIJwtVU"
             stop2 = true;
         }}catch(e){}
-        try{if(document.getElementsByClassName("btn btn-primary")[0].innerText.includes("here to continue") && stop2 == false && window.location.href.includes("oko.sh")){
+        try{if(window.location.href.includes("1LRam54rrBtgzTyQ-TOObdTyLxIn_HzHm5p1xqmmIWPc") && stop4 == false){
+            window.location.href = "https://ckk.ai/Z2NskbAP"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1_FdSN_zkJGF7yKRV6DQzVzHRh6Ejn73TGVPW3u939c4") && stop4 == false){
+            window.location.href = "https://ckk.ai/zDoBj"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("15vaNtjMruV3Ac8PyxUFVmY16S0lBEITi9gXi1EffOKY") && stop4 == false){
+            window.location.href = "https://ckk.ai/NwIdz"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1QJe6iY8zo5_H4KXBQzZ2EB4hFEZ1zfcrUPrz7VT2gA0") && stop4 == false){
+            window.location.href = "https://ckk.ai/KooMe"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1y8Fz39nwZMQJYld8Zb7bYUTVAqLVxzmzWDhEJuaxRA8") && stop4 == false){
+            window.location.href = "https://ckk.ai/w2PgUHhLnL"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1o8MNFA5q8lmhHsne-X0Rn8FgcePXj_fpTBl9fIJwtVU") && stop4 == false){
+            window.location.href = "https://ckk.ai/fWrmi"
+            stop4 = true;
+        }}catch(e){}
+        try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop2 == false && window.location.href.includes("ckk.ai")){
+            setTimeout(function(){document.getElementsByTagName("button")[0].click();},3000);
+            stop2 = true;
+        }}catch(e){}
+        try{if(document.getElementsByClassName("btn btn-primary")[0].innerText.includes("here to continue") && stop2 == false && window.location.href.includes("ckk.ai")){
             setTimeout(function(){document.getElementsByClassName("btn btn-primary")[0].click();},3000);
             stop2 = true;
         }}catch(e){}
-        try{if(document.getElementsByClassName("btn btn-success btn-lg get-link")[0].innerHTML == "Get Link" && stop3 == false && window.location.href.includes("oko.sh")){
+        try{if(document.getElementsByClassName("btn btn-success btn-lg get-link")[0].innerText.includes("Get Link") && stop2 == false && window.location.href.includes("ckk.ai")){
             setTimeout(function(){document.getElementsByClassName("btn btn-success btn-lg get-link")[0].click();},3000);
-            stop3 = true;
-        }}catch(e){}
-        try{if(document.getElementsByClassName("btn btn-primary")[0].innerText.includes("Click here to continue") && stop3 == false && window.location.href.includes("oko.sh")){
-            setTimeout(function(){document.getElementsByClassName("btn btn-primary")[0].click();},3000);
-            stop3 = true;
-        }}catch(e){}
-        try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop2 == false && window.location.href.includes("ier.ai")){
-            setTimeout(function(){document.getElementsByClassName("btn btn-primary btn-captcha")[0].click();},3000);
             stop2 = true;
-        }}catch(e){}
-        try{if(document.getElementsByClassName("btn btn-primary")[0].innerText.includes("here to continue") && stop2 == false && window.location.href.includes("ier.ai")){
-            setTimeout(function(){document.getElementsByClassName("btn btn-primary")[0].click();},3000);
-            stop2 = true;
-        }}catch(e){}
-        try{if(document.getElementsByClassName("btn btn-success btn-lg get-link")[0].innerHTML == "Get Link" && stop3 == false && window.location.href.includes("ier.ai")){
-            setTimeout(function(){document.getElementsByClassName("btn btn-success btn-lg get-link")[0].click();},3000);
-            stop3 = true;
-        }}catch(e){}
-        try{if(document.getElementsByClassName("btn btn-primary")[0].innerText.includes("Click here to continue") && stop3 == false && window.location.href.includes("ier.ai")){
-            setTimeout(function(){document.getElementsByClassName("btn btn-primary")[0].click();},3000);
-            stop3 = true;
         }}catch(e){}
     },6000)
 })();
