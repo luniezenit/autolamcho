@@ -98,6 +98,11 @@ var stop8 = false;
             setTimeout(function(){document.getElementsByClassName("btn btn-primary btn-lg downloadbtn ddddd")[0].click();},6000)
             stop2 = true;
         }}catch(e){}
+        try{if(document.getElementsByClassName("btn btn-primary btn-lg downloadbtn ddddd")[0].innerText == "Send" && stop2 == false){
+            setTimeout(function(){document.getElementsByClassName("btn btn-primary btn-lg downloadbtn ddddd")[0].click();},3000)
+            setTimeout(function(){document.getElementsByClassName("btn btn-primary btn-lg downloadbtn ddddd")[0].click();},6000)
+            stop2 = true;
+        }}catch(e){}
         try{if(document.getElementsByClassName("btn btn-default")[0].innerText.includes("SLOW") && stop3 == false){
             setTimeout(function(){document.getElementsByClassName("btn btn-default")[0].click();},3000)
             setTimeout(function(){document.getElementsByClassName("btn btn-default")[0].click();},6000)
