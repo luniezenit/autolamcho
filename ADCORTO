@@ -86,12 +86,16 @@ var stop8 = false;
             stop3 = true;
         }}catch(e){}
         try{if(document.getElementById("click").innerText.includes("captcha") && stop2 == false && window.location.href.includes("blog.mdn.lol")){
-            setTimeout(function(){document.getElementsByTagName("div")[j].style.display = "block"},3000);
+            setTimeout(function(){document.getElementsByTagName("div")[j].style.display = "block"},20000);
             stop2 = true;
         }}catch(e){}
         try{if(document.getElementById("seconds").innerText == "seconds" && stop3 == false && window.location.href.includes("blog.mdn.lol") && document.getElementsByTagName("b")[0].innerText.includes("Timer Ends")){
             setTimeout(function(){document.getElementsByTagName("input")[1].click();},3000);
             stop3 = true;
         }}catch(e){}
+         try{if(document.getElementById("click").innerText.includes("Click the ad below to get link") && stop3 == false && window.location.href.includes("blog.mdn.lol")){
+            setTimeout(function(){document.getElementsByTagName("input")[1].click();},3000);
+            stop3 = true;
+        }}catch(e){}
     },6000)
-})()
+})();
