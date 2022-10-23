@@ -38,38 +38,34 @@ var stop8 = false;
             stop2 = true;
         }}catch(e){}
         try{if(window.location.href.includes("1LRam54rrBtgzTyQ-TOObdTyLxIn_HzHm5p1xqmmIWPc") && stop4 == false){
-            window.location.href = "https://ckk.ai/Z2NskbAP"
+            window.location.href = "https://2shrt.com/N37n"
             stop4 = true;
         }}catch(e){}
         try{if(window.location.href.includes("1_FdSN_zkJGF7yKRV6DQzVzHRh6Ejn73TGVPW3u939c4") && stop4 == false){
-            window.location.href = "https://ckk.ai/zDoBj"
+            window.location.href = "https://2shrt.com/EIj52F"
             stop4 = true;
         }}catch(e){}
         try{if(window.location.href.includes("15vaNtjMruV3Ac8PyxUFVmY16S0lBEITi9gXi1EffOKY") && stop4 == false){
-            window.location.href = "https://ckk.ai/NwIdz"
+            window.location.href = "https://2shrt.com/CWGsFL"
             stop4 = true;
         }}catch(e){}
         try{if(window.location.href.includes("1QJe6iY8zo5_H4KXBQzZ2EB4hFEZ1zfcrUPrz7VT2gA0") && stop4 == false){
-            window.location.href = "https://ckk.ai/KooMe"
+            window.location.href = "https://2shrt.com/QzQ1hk"
             stop4 = true;
         }}catch(e){}
         try{if(window.location.href.includes("1y8Fz39nwZMQJYld8Zb7bYUTVAqLVxzmzWDhEJuaxRA8") && stop4 == false){
-            window.location.href = "https://ckk.ai/w2PgUHhLnL"
+            window.location.href = "https://2shrt.com/QqWbP"
             stop4 = true;
         }}catch(e){}
         try{if(window.location.href.includes("1o8MNFA5q8lmhHsne-X0Rn8FgcePXj_fpTBl9fIJwtVU") && stop4 == false){
-            window.location.href = "https://ckk.ai/fWrmi"
+            window.location.href = "https://2shrt.com/dVy9O"
             stop4 = true;
         }}catch(e){}
-        try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop2 == false && window.location.href.includes("ckk.ai")){
-            setTimeout(function(){document.getElementsByTagName("button")[0].click();},3000);
+        try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop2 == false && window.location.href.includes("2shrt.com")){
+            setTimeout(function(){document.getElementsByClassName("btn btn-primary btn-captcha")[0].click();},3000);
             stop2 = true;
         }}catch(e){}
-        try{if(document.getElementsByClassName("btn btn-primary")[0].innerText.includes("here to continue") && stop2 == false && window.location.href.includes("ckk.ai")){
-            setTimeout(function(){document.getElementsByClassName("btn btn-primary")[0].click();},3000);
-            stop2 = true;
-        }}catch(e){}
-        try{if(document.getElementsByClassName("btn btn-success btn-lg get-link")[0].innerText.includes("Get Link") && stop2 == false && window.location.href.includes("ckk.ai")){
+        try{if(document.getElementById("timer").innerText == "0" && stop2 == false && window.location.href.includes("2shrt.com") && document.getElementsByClassName("btn btn-success btn-lg get-link")[0].innerText == "Get Link"){
             setTimeout(function(){document.getElementsByClassName("btn btn-success btn-lg get-link")[0].click();},3000);
             stop2 = true;
         }}catch(e){}
