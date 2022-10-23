@@ -9,7 +9,7 @@ var stop8 = false;
 (function() {
     setInterval(function(){
         try{if(window.location.href == "https://movieshd4.xyz/all-my-life/" && stop1 == false){
-            var bienso = Math.floor(Math.random() * 5);
+            var bienso = Math.floor(Math.random() * 10);
             console.log(bienso)
             stop1 = true;
         }}catch(e){}
@@ -33,6 +33,26 @@ var stop8 = false;
             window.location.href = "https://movieshd4.xyz/the-accursed/"
             stop2 = true;
         }}catch(e){}
+        try{if(bienso == 5 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/cyrano/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 6 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/the-fourth-musketeer/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 7 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/the-invisible-thread/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 8 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/the-weekend-away/"
+            stop2 = true;
+        }}catch(e){}
+        try{if(bienso == 9 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/blacklight/"
+            stop2 = true;
+        }}catch(e){}
         try{if(window.location.href == "https://movieshd4.xyz/accident-man-hitmans-holiday/" && stop4 == false){
             window.location.href = "https://link.short2url.in/JoZqtHQU"
             stop4 = true;
@@ -53,11 +73,31 @@ var stop8 = false;
             window.location.href = "https://link.short2url.in/tVLO9HJZ"
             stop4 = true;
         }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/cyrano/" && stop4 == false){
+            window.location.href = "https://link.short2url.in/Nyz9uT"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/the-fourth-musketeer/" && stop4 == false){
+            window.location.href = "https://link.short2url.in/PzmR"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/the-invisible-thread/" && stop4 == false){
+            window.location.href = "https://link.short2url.in/A800j"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/the-weekend-away/" && stop4 == false){
+            window.location.href = "https://link.short2url.in/C2thj"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/blacklight/" && stop4 == false){
+            window.location.href = "https://link.short2url.in/BhEvi"
+            stop4 = true;
+        }}catch(e){}
         try{if(document.getElementsByClassName("yuidea-time")[0].innerText == "0" && stop4 == false && window.location.href.includes("mytop5.club")){
             setTimeout(function(){document.getElementsByClassName("btn btn-primary")[0].click();},3000)
             stop4 = true;
         }}catch(e){}
-         try{if(document.getElementsByClassName("yuidea-time")[0].innerText == "1" && stop3 == false && window.location.href.includes("mytop5.club")){
+        try{if(document.getElementsByClassName("yuidea-time")[0].innerText == "1" && stop3 == false && window.location.href.includes("mytop5.club")){
             setTimeout(function(){document.getElementsByClassName("yu-btn yu-go")[0].click();},3000)
             stop3 = true;
         }}catch(e){}
