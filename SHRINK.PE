@@ -8,7 +8,7 @@ var stop7 = false;
 var stop8 = false;
 (function() {
     setInterval(function(){
-        try{if(window.location.href == "//https://movieshd4.xyz/playhouse/" && stop1 == false){
+        try{if(window.location.href == "https://movieshd4.xyz/playhouse/" && stop1 == false){
             var bienso = Math.floor(Math.random() * 6);
             console.log(bienso)
             stop1 = true;
@@ -38,51 +38,36 @@ var stop8 = false;
             stop2 = true;
         }}catch(e){}
         try{if(window.location.href.includes("13ZQEXwweO-8LEEXeKSrUgvI6pSUV9Cg92M6EWbWXAOs") && stop4 == false){
-            window.location.href = "https://go.zuba.link/WoFo"
+            window.location.href = "https://cutw.in/dNHIU"
             stop4 = true;
         }}catch(e){}
         try{if(window.location.href.includes("1GgI5OAP22twkxrCaCHrUU0C3-uzaRWnoto8kKANWkt4") && stop4 == false){
-            window.location.href = "https://go.zuba.link/Hdnlk8"
+            window.location.href = "https://cutw.in/u1jd05c"
             stop4 = true;
         }}catch(e){}
         try{if(window.location.href.includes("1HAIXLvxWSRVX6vWgNt47xcABLQZciAMMTLTV-N2nr50") && stop4 == false){
-            window.location.href = "https://go.zuba.link/R2UJaY"
+            window.location.href = "https://cutw.in/CQuIjA"
             stop4 = true;
         }}catch(e){}
         try{if(window.location.href.includes("142Xq_SwaTH7OhF3vQDPvfQ9KrWSwhhQvwoa35ts6kx0") && stop4 == false){
-            window.location.href = "https://go.zuba.link/JRo4Q3H"
+            window.location.href = "https://cutw.in/cvpVhmL"
             stop4 = true;
         }}catch(e){}
         try{if(window.location.href.includes("1u_9mVsIyEETHxBM-Q6qX4xwRs36vFgzzMalK3N0oI14") && stop4 == false){
-            window.location.href = "https://go.zuba.link/oBtFt"
+            window.location.href = "https://cutw.in/ajuJ"
             stop4 = true;
         }}catch(e){}
         try{if(window.location.href.includes("1v3Vz-NyUcN66PRZPKRy67YmDpk59Q-wTwtBco8NFnOM") && stop4 == false){
-            window.location.href = "https://go.zuba.link/DQhl2"
+            window.location.href = "https://cutw.in/iWo15nV"
             stop4 = true;
         }}catch(e){}
-        try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop2 == false && window.location.href.includes("battleroyal.online")){
-            //setTimeout(function(){document.getElementsByClassName("btn btn-primary btn-captcha")[0].click();},3000)
+        try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop2 == false && window.location.href.includes("chooyomi.com") && document.getElementsByClassName("btn")[0].innerText.includes("Click here")){
+            setTimeout(function(){document.getElementsByClassName("btn")[0].click();},3000)
             stop2 = true;
         }}catch(e){}
-        try{if(document.getElementById("wpsafe-generate").getElementsByTagName("img")[0].src == "https://claimfey.com/press/wp-content/uploads/2022/08/rsz_21rsz_1click_hare_to_contenue.png" && stop2 == false && window.location.href.includes("claimfey.com")){
-            setTimeout(function(){document.getElementById("wpsafe-generate").getElementsByTagName("img")[0].click();},3000);
-            setTimeout(function(){document.getElementById("wpsafe-link").getElementsByTagName("img")[0].click();},9000);
+        try{if(document.getElementById("timer").innerText == "0" && stop2 == false && window.location.href.includes("chooyomi.com") && document.getElementsByClassName("btn")[0].innerText.includes("Get Link")){
+            setTimeout(function(){document.getElementsByClassName("btn")[0].click();},3000);
             stop2 = true;
-        }}catch(e){}
-        try{if(document.getElementById("wpsafe-generate").getElementsByTagName("img")[0].src == "https://claimfey.com/en/wp-content/uploads/2022/08/Click-hare-to-contenue.png" && stop2 == false && window.location.href.includes("claimfey.com")){
-            setTimeout(function(){document.getElementById("wpsafe-generate").getElementsByTagName("img")[0].click();},3000);
-            setTimeout(function(){document.getElementById("wpsafe-link").getElementsByTagName("img")[0].click();},9000);
-            stop2 = true;
-        }}catch(e){}
-        try{if(document.getElementById("wpsafe-generate").getElementsByTagName("img")[0].src == "https://news.claimfey.com/wp-content/uploads/2022/08/Click-hare-to-contenue.png" && stop2 == false && window.location.href.includes("claimfey.com")){
-            setTimeout(function(){document.getElementById("wpsafe-generate").getElementsByTagName("img")[0].click();},3000);
-            setTimeout(function(){document.getElementById("wpsafe-link").getElementsByTagName("img")[0].click();},9000);
-            stop2 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("vignette") && stop3 == false && window.location.href.includes("claimfey")){
-            setTimeout(function(){document.getElementById("wpsafe-link").getElementsByTagName("img")[0].click();},3000);
-            stop3 = true;
         }}catch(e){}
     },6000)
 })();
