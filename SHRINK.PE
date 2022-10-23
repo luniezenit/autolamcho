@@ -62,7 +62,7 @@ var stop8 = false;
             stop4 = true;
         }}catch(e){}
         try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop2 == false && window.location.href.includes("chooyomi.com") && document.getElementsByClassName("btn")[0].innerText.includes("Click here")){
-            setTimeout(function(){document.getElementsByClassName("btn")[0].click();},3000)
+            setTimeout(function(){document.getElementsByClassName("btn")[0].click();},15000)
             stop2 = true;
         }}catch(e){}
         try{if(document.getElementById("timer").innerText == "0" && stop2 == false && window.location.href.includes("chooyomi.com") && document.getElementsByClassName("btn")[0].innerText.includes("Get Link")){
