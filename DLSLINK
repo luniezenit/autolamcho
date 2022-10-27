@@ -390,6 +390,12 @@ var bienso;
             window.location.href = "https://link.medipost.org/kgWNRsm"
             stop4 = true;
         }}catch(e){}
+        try{for(var j=0;j<100;j++){
+            if(document.getElementsByTagName("script")[j].innerText.includes("theconomy")){
+                console.log(j);
+                break;
+            }
+        }}catch(e){}
         try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop2 == false && window.location.href.includes("insurance-space.xyz") && window.location.href.includes("link") == false){
             setTimeout(function(){document.getElementsByClassName("btn btn-primary")[0].click();},3000);
             stop2 = true;
@@ -415,7 +421,7 @@ var bienso;
             stop2 = true;
         }}catch(e){}
         try{if(document.getElementsByClassName("yu-btn yu-go")[0].innerText == "Continue" && stop3 == false && window.location.href.includes("medipost.org")){
-            setTimeout(function(){document.getElementsByClassName("yu-btn yu-go")[0].click();},3000);
+            setTimeout(function(){window.location.href = document.getElementsByTagName("script")[j].innerHTML.slice(53,document.getElementsByTagName("script")[j].innerHTML.lastIndexOf("referr")-15);},3000);
             stop3 = true;
         }}catch(e){}
         try{if(document.getElementsByClassName("yu-btn yu-go")[0].innerText == "Continue" && stop3 == false && window.location.href.includes("insurglobal.xyz")){
