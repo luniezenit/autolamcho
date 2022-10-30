@@ -309,22 +309,29 @@ var stop8 = false;
             window.location.href = "https://linkszia.co/916t5"
             stop4 = true;
         }}catch(e){}
-        try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop1 == false){
-            setTimeout(function(){document.getElementsByClassName("btn ybtn ybtn-accent-color get-link")[0].click();},5000)
+        try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop1 == false && window.location.href.includes("djxmaza.in")){
+            setTimeout(function(){document.getElementById("wait2button").click();},5000)
             console.log("1")
             stop1 = true;
         }}catch(e){}
-        try{if(document.getElementsByClassName("btn ybtn ybtn-accent-color get-link")[0].innerText == "CONTINUE TO GET LINK" && stop2 == false){
-             setTimeout(function(){document.getElementsByClassName("btn ybtn ybtn-accent-color get-link")[0].click();},3000);
-             stop2 = true;
-         }}catch(e){}
-        try{if(document.getElementsByClassName("btn ybtn ybtn-accent-color get-link")[0].innerText == 'MELANJUTKAN' && stop2 == false && window.location.href.includes("djxmaza.in")){
-             setTimeout(function(){document.getElementsByClassName("btn ybtn ybtn-accent-color get-link")[0].click();},3000);
-             stop2 = true;
-         }}catch(e){}
-        try{if(document.getElementsByClassName("btn ybtn ybtn-accent-color get-link")[0].innerText == "GET LINK" && stop3 == false){
-             setTimeout(function(){document.getElementsByClassName("btn ybtn ybtn-accent-color get-link")[0].click();},3000);
-             stop3 = true;
-         }}catch(e){}
+        try{if(document.getElementById("wait1button").innerText.includes("CLICK HERE") && stop2 == false && window.location.href.includes("proviralhost")){
+            setTimeout(function(){document.getElementById("wait1button").click();},3000);
+            setTimeout(function(){document.getElementById("wait2button").click();},15000);
+            stop2 = true;
+        }}catch(e){}
+        try{if(document.getElementById("wait1button").innerText.includes("CLICK HERE") && stop2 == false && window.location.href.includes("examtadka")){
+            setTimeout(function(){document.getElementById("wait1button").click();},3000);
+            setTimeout(function(){document.getElementById("wait2button").click();},15000);
+            stop2 = true;
+        }}catch(e){}
+         try{if(document.getElementById("wait1button").innerText.includes("CLICK HERE") && stop2 == false && window.location.href.includes("djxmaza.in")){
+            setTimeout(function(){document.getElementById("wait1button").click();},3000);
+            setTimeout(function(){document.getElementById("wait2button").click();},15000);
+            stop2 = true;
+        }}catch(e){}
+               try{if(document.getElementsByClassName("btn ybtn ybtn-accent-color get-link")[0].innerText.includes("GET LINK") && stop2 == false && window.location.href.includes("linkszia.co")){
+            setTimeout(function(){document.getElementsByClassName("btn ybtn ybtn-accent-color get-link")[0].click();},3000);
+            stop2 = true;
+        }}catch(e){}
     },6000)
 })();
