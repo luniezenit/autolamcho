@@ -10,7 +10,7 @@ var bienso;
 (function() {
     setInterval(function(){
         try{if(window.location.href == "https://movieshd4.xyz/angie-lost-girls/" && stop1 == false){
-            var bienso = Math.floor(Math.random() * 47);
+            ar bienso = Math.floor(Math.random() * 47);
             console.log(bienso)
             stop1 = true;
         }}catch(e){}
@@ -390,7 +390,7 @@ var bienso;
             window.location.href = "https://link.medipost.org/kgWNRsm"
             stop4 = true;
         }}catch(e){}
-        try{for(var j=0;j<100;j++){
+        try{for(var j=0;j<150;j++){
             if(document.getElementsByTagName("script")[j].innerText.includes("theconomy")){
                 console.log(j);
                 break;
