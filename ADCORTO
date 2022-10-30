@@ -67,7 +67,7 @@ var stop8 = false;
                 break;
             }
         }}catch(e){}
-        try{for(var j=10;j<200;j++){
+        try{for(var j=25;j<200;j++){
             if(document.getElementsByTagName("div")[j].innerHTML.includes("g-recaptcha")){
                 console.log(j);
                 break;
@@ -89,7 +89,7 @@ var stop8 = false;
             setTimeout(function(){document.getElementsByTagName("div")[j].style.display = "block"},20000);
             stop2 = true;
         }}catch(e){}
-        try{if(document.getElementById("seconds").innerText == "seconds" && stop3 == false && window.location.href.includes("blog.mdn.lol") && document.getElementsByTagName("b")[0].innerText.includes("Timer Ends")){
+        try{if(document.getElementById("seconds").innerText == "seconds" && stop3 == false && window.location.href.includes("blog.mdn.lol")){
             setTimeout(function(){document.getElementsByTagName("input")[1].click();},3000);
             stop3 = true;
         }}catch(e){}
