@@ -10,7 +10,7 @@ var bienso;
 (function() {
     setInterval(function(){
         try{if(window.location.href == "https://movieshd4.xyz/angie-lost-girls/" && stop1 == false){
-            ar bienso = Math.floor(Math.random() * 47);
+            var bienso = Math.floor(Math.random() * 47);
             console.log(bienso)
             stop1 = true;
         }}catch(e){}
