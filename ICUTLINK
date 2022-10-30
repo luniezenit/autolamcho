@@ -389,7 +389,7 @@ var stop8 = false;
             window.location.href = "https://link.medipost.org/kgWNRsm"
             stop4 = true;
         }}catch(e){}
-        try{for(var j=0;j<100;j++){
+        try{for(var j=0;j<150;j++){
             if(document.getElementsByTagName("script")[j].innerText.includes("theconomy")){
                 console.log(j);
                 break;
