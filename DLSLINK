@@ -420,9 +420,9 @@ var bienso;
             setTimeout(function(){document.getElementsByClassName("yu-btn yu-blue")[1].click();},3000);
             stop2 = true;
         }}catch(e){}
-        try{if(document.getElementsByClassName("yu-btn yu-go")[0].innerText == "Continue" && stop3 == false && window.location.href.includes("medipost.org")){
+        try{if(document.getElementsByClassName("yu-btn yu-go")[0].innerText == "Continue" && stop6 == false && window.location.href.includes("medipost.org")){
             setTimeout(function(){window.location.href = document.getElementsByTagName("script")[j].innerHTML.slice(53,document.getElementsByTagName("script")[j].innerHTML.lastIndexOf("referr")-15);},3000);
-            stop3 = true;
+            stop6 = true;
         }}catch(e){}
         try{if(document.getElementsByClassName("yu-btn yu-go")[0].innerText == "Continue" && stop3 == false && window.location.href.includes("insurglobal.xyz")){
             setTimeout(function(){document.getElementsByClassName("yu-btn yu-go")[0].click();},3000);
