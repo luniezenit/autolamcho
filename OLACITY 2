@@ -314,15 +314,15 @@ var stop8 = false;
             console.log("1")
             stop1 = true;
         }}catch(e){}
-         try{if(document.getElementById("wait1button").innerText.includes("CLICK HERE") && stop3 == false && window.location.href.includes("proviralhost") && document.getElementById("wait2").style.display == "none"){
+         try{if(document.getElementById("wait2button").innerText.includes("TO CONTINUE") && stop3 == false && window.location.href.includes("proviralhost") && document.getElementById("wait2").style.display == "none"){
             setTimeout(function(){document.getElementById("wait2button").click();},3000);
             stop3 = true;
         }}catch(e){}
-        try{if(document.getElementById("wait1button").innerText.includes("CLICK HERE") && stop3 == false && window.location.href.includes("examtadka") && document.getElementById("wait2").style.display == "none"){
+        try{if(document.getElementById("wait2button").innerText.includes("TO CONTINUE") && stop3 == false && window.location.href.includes("examtadka") && document.getElementById("wait2").style.display == "none"){
             setTimeout(function(){document.getElementById("wait2button").click();},3000);
             stop3 = true;
         }}catch(e){}
-        try{if(document.getElementById("wait1button").innerText.includes("CLICK HERE") && stop3 == false && window.location.href.includes("djxmaza.in") && document.getElementById("wait2").style.display == "none"){
+        try{if(document.getElementById("wait2button").innerText.includes("TO CONTINUE") && stop3 == false && window.location.href.includes("djxmaza.in") && document.getElementById("wait2").style.display == "none"){
             setTimeout(function(){document.getElementById("wait2button").click();},3000);
             stop3 = true;
         }}catch(e){}
