@@ -314,22 +314,22 @@ var stop8 = false;
             console.log("1")
             stop1 = true;
         }}catch(e){}
-        try{if(document.getElementById("wait1button").innerText.includes("CLICK HERE") && stop2 == false && window.location.href.includes("proviralhost")){
+        try{if(document.getElementById("wait1button").innerText.includes("CLICK HERE") && stop2 == false && window.location.href.includes("proviralhost") && document.getElementById("wait1").style.display == "none"){
             setTimeout(function(){document.getElementById("wait1button").click();},3000);
-            setTimeout(function(){document.getElementById("wait2button").click();},15000);
+            setTimeout(function(){document.getElementById("wait2button").click();},8000);
             stop2 = true;
         }}catch(e){}
-        try{if(document.getElementById("wait1button").innerText.includes("CLICK HERE") && stop2 == false && window.location.href.includes("examtadka")){
+        try{if(document.getElementById("wait1button").innerText.includes("CLICK HERE") && stop2 == false && window.location.href.includes("examtadka") && document.getElementById("wait1").style.display == "none"){
             setTimeout(function(){document.getElementById("wait1button").click();},3000);
-            setTimeout(function(){document.getElementById("wait2button").click();},15000);
+            setTimeout(function(){document.getElementById("wait2button").click();},8000);
             stop2 = true;
         }}catch(e){}
-         try{if(document.getElementById("wait1button").innerText.includes("CLICK HERE") && stop2 == false && window.location.href.includes("djxmaza.in")){
+        try{if(document.getElementById("wait1button").innerText.includes("CLICK HERE") && stop2 == false && window.location.href.includes("djxmaza.in") && document.getElementById("wait1").style.display == "none"){
             setTimeout(function(){document.getElementById("wait1button").click();},3000);
-            setTimeout(function(){document.getElementById("wait2button").click();},15000);
+            setTimeout(function(){document.getElementById("wait2button").click();},8000);
             stop2 = true;
         }}catch(e){}
-               try{if(document.getElementsByClassName("btn ybtn ybtn-accent-color get-link")[0].innerText.includes("GET LINK") && stop2 == false && window.location.href.includes("linkszia.co")){
+        try{if(document.getElementsByClassName("btn ybtn ybtn-accent-color get-link")[0].innerText.includes("GET LINK") && stop2 == false && window.location.href.includes("linkszia.co")){
             setTimeout(function(){document.getElementsByClassName("btn ybtn ybtn-accent-color get-link")[0].click();},3000);
             stop2 = true;
         }}catch(e){}
