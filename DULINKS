@@ -76,16 +76,25 @@ var stop8 = false;
             setTimeout(function(){document.getElementsByTagName("img")[j].click();},20000);
             stop3 = true;
         }}catch(e){}
+        try{if(document.getElementsByTagName("button")[0].innerText == "Continue" && stop2 == false && window.location.href.includes("homeairquality.org")){
+            setTimeout(function(){document.getElementsByTagName("button")[0].click();},5000);
+            stop2 = true;
+        }}catch(e){}
+        try{if(document.getElementsByTagName("button")[0].innerText == "Get Link" && stop3 == false && window.location.href.includes("homeairquality.org")){
+            setTimeout(function(){document.getElementsByTagName("button")[0].click();},3000);
+            setTimeout(function(){document.getElementsByTagName("img")[j].click();},20000);
+            stop3 = true;
+        }}catch(e){}
         try{if(document.getElementsByTagName("button")[2].innerText == "Continue" && stop2 == false && window.location.href.includes("techtrim.tech")){
             setTimeout(function(){document.getElementsByTagName("button")[2].click();},5000);
             stop2 = true;
         }}catch(e){}
-         try{if(document.getElementsByTagName("button")[2].innerText == "Get Link" && stop3 == false && window.location.href.includes("techtrim.tech")){
+        try{if(document.getElementsByTagName("button")[2].innerText == "Get Link" && stop3 == false && window.location.href.includes("techtrim.tech")){
             setTimeout(function(){document.getElementsByTagName("button")[2].click();},3000);
-             setTimeout(function(){document.getElementsByTagName("img")[j].click();},20000);
+            setTimeout(function(){document.getElementsByTagName("img")[j].click();},20000);
             stop3 = true;
         }}catch(e){}
-         try{if(window.location.href.includes("google") && stop5 == false && window.location.href.includes("i-polls.com")){
+        try{if(window.location.href.includes("google") && stop5 == false && window.location.href.includes("i-polls.com")){
             setTimeout(function(){document.getElementsByTagName("img")[j].click();},3000);
             stop5 = true;
         }}catch(e){}
@@ -93,7 +102,11 @@ var stop8 = false;
             setTimeout(function(){document.getElementsByTagName("img")[j].click();},3000);
             stop5 = true;
         }}catch(e){}
-        try{if((window.location.href.includes("i-polls.com") || window.location.href.includes("techtrim.tech")) && stop6 == false && document.getElementById("ez-cookie-dialog") != null){
+        try{if(window.location.href.includes("google") && stop5 == false && window.location.href.includes("homeairquality.org")){
+            setTimeout(function(){document.getElementsByTagName("img")[j].click();},3000);
+            stop5 = true;
+        }}catch(e){}
+        try{if((window.location.href.includes("i-polls.com") || window.location.href.includes("techtrim.tech") || window.location.href.includes("homeairquality.org")) && stop6 == false && document.getElementById("ez-cookie-dialog") != null){
             setTimeout(function(){document.getElementById("ez-accept-all").click();},3000);
             stop6 = true;
         }}catch(e){}
