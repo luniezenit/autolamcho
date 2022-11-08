@@ -241,6 +241,18 @@ var stop8 = false;
             setTimeout(function(){document.getElementsByClassName("yu-btn yu-blue")[1].click();},6000);
             stop3 = true;
         }}catch(e){}
+        try{if(document.getElementsByClassName("rock-btn")[0].innerText == "Go to Next Page" && stop3 == false && window.location.href.includes("techrfour")){
+            setTimeout(function(){document.getElementsByClassName("rock-btn")[1].click();},6000);
+            stop3 = true;
+        }}catch(e){}
+         try{if(document.getElementsByClassName("rock-btn")[0].innerText == "Click Here to Continue" && stop3 == false && window.location.href.includes("techrfour")){
+            setTimeout(function(){document.getElementsByClassName("rock-btn")[0].click();},6000);
+            stop3 = true;
+        }}catch(e){}
+        try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop4 == false && window.location.href.includes("techrfour")){
+            setTimeout(function(){document.getElementsByClassName("rock-btn")[1].click();},6000);
+            stop4 = true;
+        }}catch(e){}
         try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop3 == false && window.location.href.includes("veganac.co")){
             setTimeout(function(){document.getElementsByClassName("yu-btn yu-blue")[1].click();},6000);
             stop3 = true;
@@ -292,4 +304,3 @@ var stop8 = false;
         }}catch(e){}
     },6000)
 })();
-
