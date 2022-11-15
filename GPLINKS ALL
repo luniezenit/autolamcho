@@ -258,10 +258,10 @@ var stop8 = false;
             setTimeout(function(){document.getElementsByClassName("button")[1].click();},15000);
             stop3 = true;
         }}catch(e){}
-        try{if(document.getElementsByClassName("btn bt-success")[1].innerText.includes("Dual Tap") && stop6 == false && window.location.href.includes("musicdhamaka")){
+        try{if(document.getElementsByClassName("btn bt-success")[1].innerText.includes("Dual Tap") && stop8 == false && window.location.href.includes("musicdhamaka")){
             setTimeout(function(){document.getElementsByClassName("btn bt-success")[1].click();},6000);
             setTimeout(function(){document.getElementsByClassName("btn bt-success")[2].click();},15000);
-            stop6 = true;
+            stop8 = true;
         }}catch(e){}
         try{if(document.getElementsByClassName("rock-btn")[0].innerText == "Go to Next Page" && stop3 == false && window.location.href.includes("musicdhamaka")){
             setTimeout(function(){document.getElementsByClassName("rock-btn")[1].click();},6000);
