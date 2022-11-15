@@ -233,10 +233,6 @@ var stop8 = false;
                 break;
             }
         }}catch(e){}
-        try{if(document.getElementById("g-recaptcha-response") != null && stop1 == false){
-            setTimeout(function(){window.location.href = document.getElementById("wpsafe-link").getElementsByTagName("a")[0].getAttribute("onclick").slice(13,document.getElementById("wpsafe-link").getElementsByTagName("a")[0].getAttribute("onclick").lastIndexOf(",")-1);},6000);
-            stop1 = true;
-        }}catch(e){}
         try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop3 == false && window.location.href.includes("takem.co")){
             setTimeout(function(){document.getElementsByClassName("yu-btn yu-blue")[1].click();},6000);
             stop3 = true;
@@ -255,29 +251,14 @@ var stop8 = false;
         }}catch(e){}
         try{if(document.getElementsByClassName("button")[0].innerText.includes("Dual Tap") && stop3 == false && window.location.href.includes("musicdhamaka")){
             setTimeout(function(){document.getElementsByClassName("button")[0].click();},6000);
+            console.log("1");
             setTimeout(function(){document.getElementsByClassName("button")[1].click();},15000);
             stop3 = true;
         }}catch(e){}
-        try{if(document.getElementsByClassName("btn bt-success")[1].innerText.includes("Dual Tap") && stop8 == false && window.location.href.includes("musicdhamaka")){
+        try{if(document.getElementsByClassName("btn bt-success")[1].innerText.includes("Go To Link") && stop8 == false && window.location.href.includes("musicdhamaka") && document.getElementsByTagName("b")[0].innerText.includes("Please Wait") == false){
             setTimeout(function(){document.getElementsByClassName("btn bt-success")[1].click();},6000);
             setTimeout(function(){document.getElementsByClassName("btn bt-success")[2].click();},15000);
             stop8 = true;
-        }}catch(e){}
-        try{if(document.getElementsByClassName("rock-btn")[0].innerText == "Go to Next Page" && stop3 == false && window.location.href.includes("musicdhamaka")){
-            setTimeout(function(){document.getElementsByClassName("rock-btn")[1].click();},6000);
-            stop3 = true;
-        }}catch(e){}
-        try{if(document.getElementsByClassName("rock-btn")[0].innerText == "Open - Continue" && stop4 == false && window.location.href.includes("musicdhamaka")){
-            setTimeout(function(){document.getElementsByClassName("rock-btn")[0].click();},6000);
-            stop4 = true;
-        }}catch(e){}
-         try{if(document.getElementsByClassName("rock-btn")[0].innerText == "Click Here to Continue" && stop3 == false && window.location.href.includes("musicdhamaka")){
-            setTimeout(function(){document.getElementsByClassName("rock-btn")[0].click();},6000);
-            stop3 = true;
-        }}catch(e){}
-        try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop4 == false && window.location.href.includes("musicdhamaka")){
-            setTimeout(function(){document.getElementsByClassName("rock-btn")[1].click();},6000);
-            stop4 = true;
         }}catch(e){}
         try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop3 == false && window.location.href.includes("veganac.co")){
             setTimeout(function(){document.getElementsByClassName("yu-btn yu-blue")[1].click();},6000);
