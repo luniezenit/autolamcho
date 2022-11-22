@@ -259,6 +259,17 @@ var stop8 = false;
             setTimeout(function(){document.getElementsByClassName("button")[1].click();},15000);
             stop3 = true;
         }}catch(e){}
+         try{if(document.getElementsByClassName("button")[0].innerText.includes("Dual Tap") && stop3 == false && window.location.href.includes("kongutoday")){
+            setTimeout(function(){document.getElementsByClassName("button")[0].click();},6000);
+            console.log("1");
+            setTimeout(function(){document.getElementsByClassName("button")[1].click();},15000);
+            stop3 = true;
+        }}catch(e){}
+        try{if(document.getElementsByClassName("btn bt-success")[1].innerText.includes("Go To Link") && stop8 == false && window.location.href.includes("kongutoday") && document.getElementsByTagName("b")[0].innerText.includes("Please Wait") == false){
+            setTimeout(function(){document.getElementsByClassName("btn bt-success")[1].click();},6000);
+            setTimeout(function(){document.getElementsByClassName("btn bt-success")[2].click();},15000);
+            stop8 = true;
+        }}catch(e){}
         try{if(document.getElementsByClassName("btn bt-success")[1].innerText.includes("Go To Link") && stop8 == false && window.location.href.includes("musicdhamaka") && document.getElementsByTagName("b")[0].innerText.includes("Please Wait") == false){
             setTimeout(function(){document.getElementsByClassName("btn bt-success")[1].click();},6000);
             setTimeout(function(){document.getElementsByClassName("btn bt-success")[2].click();},15000);
