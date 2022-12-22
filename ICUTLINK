@@ -424,11 +424,15 @@ var stop8 = false;
             stop2 = true;
         }}catch(e){}
         try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop2 == false && window.location.href.includes("theconomy.me") && window.location.href.includes("link")){
-            setTimeout(function(){document.getElementsByClassName("btn btn-primary btn-captcha")[0].click();},3000);
+            setTimeout(function(){document.getElementsByClassName("btn btn-primary")[0].click();},3000);
             stop2 = true;
         }}catch(e){}
         try{if(document.getElementsByClassName("yu-btn yu-blue")[1].style.display == "none" && stop2 == false && window.location.href == "https://medipost.org/" && document.getElementsByClassName("yu-btn yu-blue")[1].innerText == "Continue"){
             setTimeout(function(){document.getElementsByClassName("yu-btn yu-blue")[1].click();},3000);
+            stop2 = true;
+        }}catch(e){}
+        try{if(document.getElementsByClassName("qc-cmp2-consent-info")[0].innerText.includes("We and our") && stop2 == false && window.location.href.includes("theconomy.me")){
+            setTimeout(function(){document.getElementsByClassName(" css-47sehv")[0].click();},3000);
             stop2 = true;
         }}catch(e){}
         try{if(document.getElementsByClassName("yu-btn yu-go")[0].innerText == "Continue" && stop6 == false && window.location.href.includes("medipost.org")){
