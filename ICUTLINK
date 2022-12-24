@@ -500,4 +500,4 @@ var stop8 = false;
             stop5 = true;
         }}catch(e){}
     },6000)
-})();
+})(); 
