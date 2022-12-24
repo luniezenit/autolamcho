@@ -409,21 +409,23 @@ var stop8 = false;
         }}catch(e){}
         try{if(document.getElementsByTagName("textarea")[0].value.includes("P0_ey") && stop6 == false && window.location.href.includes("theconomy.me") && window.location.href.includes("link") == false){
             setTimeout(function(){document.getElementsByClassName("btn btn-primary")[0].click();},3000);
-            setTimeout(function(){document.getElementsByClassName("btn btn-primary")[0].click();},7000);
             stop6 = true;
         }}catch(e){}
         try{if(document.getElementsByTagName("textarea")[0].value.includes("P0_ey") && stop2 == false && window.location.href.includes("medipost.org") && window.location.href.includes("link") == false){
             setTimeout(function(){document.getElementsByClassName("btn btn-primary")[0].click();},3000);
             stop2 = true;
         }}catch(e){}
+        try{if(document.getElementsByTagName("textarea")[0].value.includes("P0_ey") && stop8 == false && window.location.href.includes("medipost.org") && window.location.href.includes("link")){
+            setTimeout(function(){document.getElementsByClassName("btn btn-primary")[0].click();},3000);
+            stop8 = true;
+        }}catch(e){}
         try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop2 == false && window.location.href.includes("medipost.org") && window.location.href.includes("links")){
             setTimeout(function(){document.getElementsByClassName("btn btn-primary")[0].click();},3000);
             stop2 = true;
         }}catch(e){}
-        try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop2 == false && window.location.href.includes("medipost.org") && window.location.href.includes("blog")){
+        try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop3 == false && window.location.href.includes("medipost.org") && window.location.href.includes("blog")){
             setTimeout(function(){document.getElementsByClassName("yu-btn yu-blue")[1].click();},3000);
-            setTimeout(function(){document.getElementsByClassName("yu-btn yu-blue")[1].click();},8000);
-            stop2 = true;
+            stop3 = true;
         }}catch(e){}
         try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop2 == false && window.location.href.includes("theconomy.me") && window.location.href.includes("link")){
             setTimeout(function(){document.getElementsByClassName("btn btn-primary")[0].click();},3000);
