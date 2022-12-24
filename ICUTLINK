@@ -407,10 +407,10 @@ var stop8 = false;
             setTimeout(function(){document.getElementsByClassName("yu-btn yu-blue")[1].click();},3000);
             stop2 = true;
         }}catch(e){}
-        try{if(document.getElementsByTagName("textarea")[0].value.includes("P0_ey") && stop2 == false && window.location.href.includes("theconomy.me") && window.location.href.includes("link") == false){
+        try{if(document.getElementsByTagName("textarea")[0].value.includes("P0_ey") && stop6 == false && window.location.href.includes("theconomy.me") && window.location.href.includes("link") == false){
             setTimeout(function(){document.getElementsByClassName("btn btn-primary")[0].click();},3000);
             setTimeout(function(){document.getElementsByClassName("btn btn-primary")[0].click();},7000);
-            stop2 = true;
+            stop6 = true;
         }}catch(e){}
         try{if(document.getElementsByTagName("textarea")[0].value.includes("P0_ey") && stop2 == false && window.location.href.includes("medipost.org") && window.location.href.includes("link") == false){
             setTimeout(function(){document.getElementsByClassName("btn btn-primary")[0].click();},3000);
