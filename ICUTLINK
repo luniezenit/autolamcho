@@ -433,13 +433,13 @@ var stop8 = false;
             setTimeout(function(){document.getElementsByClassName("yu-btn yu-blue")[1].click();},10000);
             stop2 = true;
         }}catch(e){}
-        try{if(document.getElementsByClassName("qc-cmp2-consent-info")[0].innerText.includes("We and our") && stop2 == false && window.location.href.includes("theconomy.me")){
+        try{if(document.getElementsByClassName("qc-cmp2-consent-info")[0].innerText.includes("We and our") && stop4 == false && window.location.href.includes("theconomy.me")){
             setTimeout(function(){document.getElementsByClassName(" css-47sehv")[0].click();},3000);
-            stop2 = true;
+            stop4 = true;
         }}catch(e){}
-        try{if(document.getElementsByClassName("qc-cmp2-consent-info")[0].innerText.includes("We and our") && stop2 == false && window.location.href.includes("medipost.org")){
+        try{if(document.getElementsByClassName("qc-cmp2-consent-info")[0].innerText.includes("We and our") && stop4 == false && window.location.href.includes("medipost.org")){
             setTimeout(function(){document.getElementsByClassName(" css-47sehv")[0].click();},3000);
-            stop2 = true;
+            stop4 = true;
         }}catch(e){}
         try{if(document.getElementsByClassName("yu-btn yu-go")[0].innerText == "Continue" && stop6 == false && window.location.href.includes("medipost.org")){
             setTimeout(function(){document.getElementsByClassName("yu-btn yu-go")[0].click();},3000);
