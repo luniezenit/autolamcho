@@ -8,66 +8,62 @@ var stop7 = false;
 var stop8 = false;
 (function() {
     setInterval(function(){
-        try{if(window.location.href == "//https://movieshd4.xyz/joker/" && stop1 == false){
-            var bienso = Math.floor(Math.random() * 6);
+        try{if(window.location.href == "https://movieshd4.xyz/joker/" && stop1 == false){
+            var bienso = Math.floor(Math.random() * 5);
             console.log(bienso)
             stop1 = true;
         }}catch(e){}
         try{if(bienso == 0 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1LRam54rrBtgzTyQ-TOObdTyLxIn_HzHm5p1xqmmIWPc"
+            window.location.href = "https://docs.google.com/document/d/1kWejwOH3vg-gbAZJiioV6fdpZERlX3rxpwzn7LDE-Jg"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 1 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1_FdSN_zkJGF7yKRV6DQzVzHRh6Ejn73TGVPW3u939c4"
+            window.location.href = "https://docs.google.com/document/d/1iSf-ibCHsFRMV1GTQ02nl2Sn9A38d0mL3xW7YRh0Ii8"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 2 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/15vaNtjMruV3Ac8PyxUFVmY16S0lBEITi9gXi1EffOKY"
+            window.location.href = "https://docs.google.com/document/d/1if2GHViFfcsVvfJYuDeNzUWsULwYhwcSUxNMqB95ias"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 3 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1QJe6iY8zo5_H4KXBQzZ2EB4hFEZ1zfcrUPrz7VT2gA0"
+            window.location.href = "https://docs.google.com/document/d/1_-JXnHecM5OtpSjDmAhLSUuUUQPiRHyWnzq2efWKdgo"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 4 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1y8Fz39nwZMQJYld8Zb7bYUTVAqLVxzmzWDhEJuaxRA8"
+            window.location.href = "https://docs.google.com/document/d/1ynmJFtGAmOtOAGwRtSqbkIzEBrICOEMuq2CFBJbYFvA"
             stop2 = true;
         }}catch(e){}
-        try{if(bienso == 5 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1o8MNFA5q8lmhHsne-X0Rn8FgcePXj_fpTBl9fIJwtVU"
+        try{if(window.location.href.includes("1kWejwOH3vg-gbAZJiioV6fdpZERlX3rxpwzn7LDE-Jg") && stop4 == false){
+            window.location.href = "https://oko.sh/agdjOR"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1iSf-ibCHsFRMV1GTQ02nl2Sn9A38d0mL3xW7YRh0Ii8") && stop4 == false){
+            window.location.href = "https://oko.sh/G52smh1K"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1if2GHViFfcsVvfJYuDeNzUWsULwYhwcSUxNMqB95ias") && stop4 == false){
+            window.location.href = "https://oko.sh/Uv2qolbIZ"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1_-JXnHecM5OtpSjDmAhLSUuUUQPiRHyWnzq2efWKdgo") && stop4 == false){
+            window.location.href = "https://oko.sh/0S1KPn"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1ynmJFtGAmOtOAGwRtSqbkIzEBrICOEMuq2CFBJbYFvA") && stop4 == false){
+            window.location.href = "https://oko.sh/xvMBa5vvx"
+            stop4 = true;
+        }}catch(e){}
+        try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop2 == false && window.location.href.includes("oko.sh")){
+            setTimeout(function(){document.getElementsByClassName("btn btn-primary")[0].click();},3000);
             stop2 = true;
         }}catch(e){}
-        try{if(window.location.href.includes("1LRam54rrBtgzTyQ-TOObdTyLxIn_HzHm5p1xqmmIWPc") && stop4 == false){
-            window.location.href = "https://2shrt.com/N37n"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("1_FdSN_zkJGF7yKRV6DQzVzHRh6Ejn73TGVPW3u939c4") && stop4 == false){
-            window.location.href = "https://2shrt.com/EIj52F"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("15vaNtjMruV3Ac8PyxUFVmY16S0lBEITi9gXi1EffOKY") && stop4 == false){
-            window.location.href = "https://2shrt.com/CWGsFL"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("1QJe6iY8zo5_H4KXBQzZ2EB4hFEZ1zfcrUPrz7VT2gA0") && stop4 == false){
-            window.location.href = "https://2shrt.com/QzQ1hk"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("1y8Fz39nwZMQJYld8Zb7bYUTVAqLVxzmzWDhEJuaxRA8") && stop4 == false){
-            window.location.href = "https://2shrt.com/QqWbP"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("1o8MNFA5q8lmhHsne-X0Rn8FgcePXj_fpTBl9fIJwtVU") && stop4 == false){
-            window.location.href = "https://2shrt.com/dVy9O"
-            stop4 = true;
-        }}catch(e){}
-        try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop2 == false && window.location.href.includes("2shrt.com")){
-            setTimeout(function(){document.getElementsByClassName("btn btn-primary btn-captcha")[0].click();},3000);
+        try{if(document.getElementsByClassName("btn btn-primary")[0].innerText == 'Click here to continue' && stop2 == false && window.location.href.includes("oko.sh")){
+            setTimeout(function(){document.getElementsByClassName("btn btn-primary")[0].click();},3000);
             stop2 = true;
         }}catch(e){}
-        try{if(document.getElementById("timer").innerText == "0" && stop2 == false && window.location.href.includes("2shrt.com") && document.getElementsByClassName("btn btn-success btn-lg get-link")[0].innerText == "Get Link"){
-            setTimeout(function(){document.getElementsByClassName("btn btn-success btn-lg get-link")[0].click();},3000);
-            stop2 = true;
+      try{if(document.getElementsByClassName("btn btn-success btn-lg get-link")[0].innerText == "Get Link" && stop5 == false && window.location.href.includes("oko.sh")){
+            setTimeout(function(){document.getElementsByClassName("btn btn-success btn-lg get-link")[0].click();},7000);
+            stop5 = true;
         }}catch(e){}
     },6000)
 })();
