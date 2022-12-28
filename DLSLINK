@@ -409,7 +409,9 @@ var bienso;
             stop2 = true;
         }}catch(e){}
         try{if((document.getElementsByTagName("textarea")[0].value.includes("P1_ey") || document.getElementsByTagName("textarea")[0].value.includes("P0_ey")) && stop6 == false && window.location.href.includes("theconomy.me") && window.location.href.includes("link") == false){
-            setTimeout(function(){document.getElementsByClassName("btn btn-primary")[0].click();},3000);
+
+            //setTimeout(function(){document.getElementsByClassName("btn btn-primary")[0].click();},3000);
+                        console.log(1);
             stop6 = true;
         }}catch(e){}
         try{if((document.getElementsByTagName("textarea")[0].value.includes("P1_ey") || document.getElementsByTagName("textarea")[0].value.includes("P0_ey")) && stop2 == false && window.location.href.includes("medipost.org") && window.location.href.includes("link") == false){
@@ -417,7 +419,8 @@ var bienso;
             stop2 = true;
         }}catch(e){}
         try{if((document.getElementsByTagName("textarea")[0].value.includes("P1_ey") || document.getElementsByTagName("textarea")[0].value.includes("P0_ey")) && stop8 == false && window.location.href.includes("medipost.org") && window.location.href.includes("link")){
-            setTimeout(function(){document.getElementsByClassName("btn btn-primary")[0].click();},3000);
+            setTimeout(function(){document.getElementsByClassName("btn btn-primary")[0].click();},5000);
+
             stop8 = true;
         }}catch(e){}
         try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop2 == false && window.location.href.includes("medipost.org") && window.location.href.includes("links")){
@@ -461,11 +464,12 @@ var bienso;
             stop3 = true;
         }}catch(e){}
         try{if(window.location.href.includes("vignette") && stop4 == false && window.location.href.includes("medipost.org")){
-            setTimeout(function(){document.getElementsByClassName("yu-btn yu-blue")[1].click();},3000);
+            setTimeout(function(){document.getElementsByClassName("yu-btn yu-blue")[1].click();},5000);
+            console.log(1);
             stop4 = true;
         }}catch(e){}
         try{if(window.location.href.includes("vignette") && stop4 == false && window.location.href.includes("theconomy.me")){
-            setTimeout(function(){document.getElementsByClassName("btn btn-success")[0].click();},3000);
+            setTimeout(function(){document.getElementsByClassName("btn btn-success")[0].click();},5000);
             stop4 = true;
         }}catch(e){}
         try{if(window.location.href.includes("vignette") && stop4 == false && window.location.href.includes("links.medipost.org")){
