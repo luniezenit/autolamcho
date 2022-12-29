@@ -8,75 +8,78 @@ var stop7 = false;
 var stop8 = false;
 (function() {
     setInterval(function(){
-        try{if(window.location.href == "//https://movieshd4.xyz/stargirl/" && stop1 == false){
-            var bienso = Math.floor(Math.random() * 6);
+        try{if(window.location.href == "https://movieshd4.xyz/stargirl/" && stop1 == false){
+            var bienso = Math.floor(Math.random() * 7);
             console.log(bienso)
             stop1 = true;
         }}catch(e){}
         try{if(bienso == 0 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1SJwx8ltUycKiyRCr7-8b4DUNTjkdlHfPAPzErFfcdY8"
+            window.location.href = "https://movieshd4.xyz/the-boy-the-mole-the-fox-and-the-horse/"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 1 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1VZiEI7HSvaXGY0WkTCC6dNS_c0KMi83C2N-Ck0SLwZY"
+            window.location.href = "https://movieshd4.xyz/roald-dahls-matilda-the-musical/"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 2 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1-AI3X_uvOwkSsEa8nsCEOGYoHWD5n3shLDrK_EzFreE"
+            window.location.href = "https://movieshd4.xyz/strange-world/"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 3 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1GVH4RtdLOCLRHXAuYIz0Gryh3YQgtX16snAD1MGAJVY"
+            window.location.href = "https://movieshd4.xyz/glass-onion-a-knives-out-mystery/"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 4 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1LTGtUELfcIJZ1WOItWfZBwfsZ1qkrhwh4xwqFwjay6g"
+            window.location.href = "https://movieshd4.xyz/emancipation/"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 5 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1qiq1paQb3Rt-iCapr17CCwf_Lthio-aLcPkUmNcVKns"
+            window.location.href = "https://movieshd4.xyz/deleted/"
             stop2 = true;
         }}catch(e){}
-        try{if(window.location.href.includes("1SJwx8ltUycKiyRCr7-8b4DUNTjkdlHfPAPzErFfcdY8") && stop4 == false){
-            window.location.href = "https://panylink.com/nJDWIfka"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("1VZiEI7HSvaXGY0WkTCC6dNS_c0KMi83C2N-Ck0SLwZY") && stop4 == false){
-            window.location.href = "https://panylink.com/zvAnB"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("1-AI3X_uvOwkSsEa8nsCEOGYoHWD5n3shLDrK_EzFreE") && stop4 == false){
-            window.location.href = "https://panylink.com/gosf4QI"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("1GVH4RtdLOCLRHXAuYIz0Gryh3YQgtX16snAD1MGAJVY") && stop4 == false){
-            window.location.href = "https://panylink.com/0ahx"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("1LTGtUELfcIJZ1WOItWfZBwfsZ1qkrhwh4xwqFwjay6g") && stop4 == false){
-            window.location.href = "https://panylink.com/SmlHY29i"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("1qiq1paQb3Rt-iCapr17CCwf_Lthio-aLcPkUmNcVKns") && stop4 == false){
-            window.location.href = "https://panylink.com/2R3G6Q"
-            stop4 = true;
-        }}catch(e){}
-        try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop2 == false && window.location.href.includes("btcpany.com")){
-            setTimeout(function(){document.getElementsByClassName("btn btn-primary")[1].click();},3000);
+        try{if(bienso == 6 && stop2 == false){
+            window.location.href = "https://movieshd4.xyz/mr-harrigans-phone/"
             stop2 = true;
         }}catch(e){}
-        try{if(document.getElementById("click").innerText.includes("Click the ADS") && stop2 == false && window.location.href.includes("btcpany.com")){
-            setTimeout(function(){document.getElementById("link1s-snp").style.display = "block"},10000);
-            setTimeout(function(){document.getElementsByClassName("btn btn-primary")[1].click();},15000);
+        try{if(window.location.href == "https://movieshd4.xyz/the-boy-the-mole-the-fox-and-the-horse/" && stop4 == false){
+            window.location.href = "https://ckk.ai/oruOuRDD6F"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/roald-dahls-matilda-the-musical/" && stop4 == false){
+            window.location.href = "https://ckk.ai/VacV51SzBj"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/strange-world/" && stop4 == false){
+            window.location.href = "https://ckk.ai/zuBPa7J"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/glass-onion-a-knives-out-mystery/" && stop4 == false){
+            window.location.href = "https://ckk.ai/eSpSSAQ11"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/emancipation/" && stop4 == false){
+            window.location.href = "https://ckk.ai/hXYlN"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/deleted/" && stop4 == false){
+            window.location.href = "https://ckk.ai/IdeVqdTZFv"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/mr-harrigans-phone/" && stop4 == false){
+            window.location.href = "https://ckk.ai/YfNAD9Wov6"
+            stop4 = true;
+        }}catch(e){}
+        try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop2 == false && window.location.href.includes("ckk.ai")){
+            setTimeout(function(){document.getElementsByClassName("btn btn-primary")[0].click();},3000);
             stop2 = true;
         }}catch(e){}
-        try{if(document.getElementById("link1s-time").innerText == "0" && stop2 == false && window.location.href.includes("btcpany.com") && document.getElementsByClassName("alert alert-light mt-1 captcha-check")[0].innerText.includes("currently on step")){
-            setTimeout(function(){document.getElementsByClassName("btn btn-primary")[1].click();},5000);
+        try{if(document.getElementsByClassName("btn btn-primary")[0].innerText == 'Click here to continue' && stop2 == false && window.location.href.includes("ckk.ai")){
+            setTimeout(function(){document.getElementsByClassName("btn btn-primary")[0].click();},3000);
             stop2 = true;
         }}catch(e){}
-        try{if(document.getElementsByClassName("btn btn-success btn-lg get-link")[0].innerText == "GET LINK" && stop3 == false && window.location.href.includes("panylink.com")){
-            setTimeout(function(){document.getElementsByClassName("btn btn-success btn-lg get-link")[0].click();},3000);
-            stop3 = true;
+        try{if(document.getElementsByClassName("btn btn-success btn-lg get-link")[0].innerText == "Get Link" && stop5 == false && window.location.href.includes("ckk.ai")){
+            setTimeout(function(){document.getElementsByClassName("btn btn-success btn-lg get-link")[0].click();},7000);
+            stop5 = true;
         }}catch(e){}
     },6000)
 })();
