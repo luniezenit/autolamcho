@@ -8,75 +8,74 @@ var stop7 = false;
 var stop8 = false;
 (function() {
     setInterval(function(){
-        try{if(window.location.href == "//https://movieshd4.xyz/ten-minutes-to-midnight/" && stop1 == false){
-            var bienso = Math.floor(Math.random() * 6);
+        try{if(window.location.href == "https://movieshd4.xyz/ten-minutes-to-midnight/" && stop1 == false){
+            var bienso = Math.floor(Math.random() * 5);
             console.log(bienso)
             stop1 = true;
         }}catch(e){}
         try{if(bienso == 0 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1SJwx8ltUycKiyRCr7-8b4DUNTjkdlHfPAPzErFfcdY8"
+            window.location.href = "https://movieshd4.xyz/wog-boys-forever/"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 1 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1VZiEI7HSvaXGY0WkTCC6dNS_c0KMi83C2N-Ck0SLwZY"
+            window.location.href = "https://movieshd4.xyz/something-from-tiffanys/"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 2 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1-AI3X_uvOwkSsEa8nsCEOGYoHWD5n3shLDrK_EzFreE"
+            window.location.href = "https://movieshd4.xyz/suitcase-killer-the-melanie-mcguire-story/"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 3 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1GVH4RtdLOCLRHXAuYIz0Gryh3YQgtX16snAD1MGAJVY"
+            window.location.href = "https://movieshd4.xyz/the-banshees-of-inisherin/"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 4 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1LTGtUELfcIJZ1WOItWfZBwfsZ1qkrhwh4xwqFwjay6g"
+            window.location.href = "https://movieshd4.xyz/monsters-in-the-closet/"
             stop2 = true;
         }}catch(e){}
-        try{if(bienso == 5 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1qiq1paQb3Rt-iCapr17CCwf_Lthio-aLcPkUmNcVKns"
+        try{if(window.location.href == "https://movieshd4.xyz/wog-boys-forever/" && stop4 == false){
+            window.location.href = "https://earnow.online/NsouF"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/something-from-tiffanys/" && stop4 == false){
+            window.location.href = "https://earnow.online/x9CR8"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/suitcase-killer-the-melanie-mcguire-story/" && stop4 == false){
+            window.location.href = "https://earnow.online/cHw0XFNN"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/the-banshees-of-inisherin/" && stop4 == false){
+            window.location.href = "https://earnow.online/27Uipb"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/monsters-in-the-closet/" && stop4 == false){
+            window.location.href = "https://earnow.online/jCmr"
+            stop4 = true;
+        }}catch(e){}
+        try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop2 == false && window.location.href.includes("cryptowidgets")){
+            setTimeout(function(){document.getElementsByTagName("button")[2].click();},3000);
             stop2 = true;
         }}catch(e){}
-        try{if(window.location.href.includes("1SJwx8ltUycKiyRCr7-8b4DUNTjkdlHfPAPzErFfcdY8") && stop4 == false){
-            window.location.href = "https://panylink.com/nJDWIfka"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("1VZiEI7HSvaXGY0WkTCC6dNS_c0KMi83C2N-Ck0SLwZY") && stop4 == false){
-            window.location.href = "https://panylink.com/zvAnB"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("1-AI3X_uvOwkSsEa8nsCEOGYoHWD5n3shLDrK_EzFreE") && stop4 == false){
-            window.location.href = "https://panylink.com/gosf4QI"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("1GVH4RtdLOCLRHXAuYIz0Gryh3YQgtX16snAD1MGAJVY") && stop4 == false){
-            window.location.href = "https://panylink.com/0ahx"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("1LTGtUELfcIJZ1WOItWfZBwfsZ1qkrhwh4xwqFwjay6g") && stop4 == false){
-            window.location.href = "https://panylink.com/SmlHY29i"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("1qiq1paQb3Rt-iCapr17CCwf_Lthio-aLcPkUmNcVKns") && stop4 == false){
-            window.location.href = "https://panylink.com/2R3G6Q"
-            stop4 = true;
-        }}catch(e){}
-        try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop2 == false && window.location.href.includes("btcpany.com")){
-            setTimeout(function(){document.getElementsByClassName("btn btn-primary")[1].click();},3000);
+        try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop2 == false && window.location.href.includes("wiki-topia")){
+            setTimeout(function(){document.getElementsByTagName("button")[2].click();},3000);
             stop2 = true;
         }}catch(e){}
-        try{if(document.getElementById("click").innerText.includes("Click the ADS") && stop2 == false && window.location.href.includes("btcpany.com")){
-            setTimeout(function(){document.getElementById("link1s-snp").style.display = "block"},10000);
-            setTimeout(function(){document.getElementsByClassName("btn btn-primary")[1].click();},15000);
+        try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop2 == false && window.location.href.includes("insurancegold")){
+            setTimeout(function(){document.getElementsByTagName("button")[2].click();},3000);
             stop2 = true;
         }}catch(e){}
-        try{if(document.getElementById("link1s-time").innerText == "0" && stop2 == false && window.location.href.includes("btcpany.com") && document.getElementsByClassName("alert alert-light mt-1 captcha-check")[0].innerText.includes("currently on step")){
-            setTimeout(function(){document.getElementsByClassName("btn btn-primary")[1].click();},5000);
+        try{if(document.getElementById("timer").innerText == "0" && stop2 == false && window.location.href.includes("cryptowidgets")){
+            setTimeout(function(){document.getElementsByTagName("button")[2].click();},3000);
             stop2 = true;
         }}catch(e){}
-        try{if(document.getElementsByClassName("btn btn-success btn-lg get-link")[0].innerText == "GET LINK" && stop3 == false && window.location.href.includes("panylink.com")){
-            setTimeout(function(){document.getElementsByClassName("btn btn-success btn-lg get-link")[0].click();},3000);
-            stop3 = true;
+        try{if(document.getElementById("timer").innerText == "0" && stop2 == false && window.location.href.includes("insurancegold")){
+            setTimeout(function(){document.getElementsByTagName("button")[2].click();},3000);
+            stop2 = true;
+        }}catch(e){}
+        try{if(document.getElementById("timer").innerText == "0" && stop2 == false && window.location.href.includes("wiki-topia")){
+            setTimeout(function(){document.getElementsByTagName("button")[2].click();},3000);
+            stop2 = true;
         }}catch(e){}
     },6000)
 })();
