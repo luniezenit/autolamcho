@@ -8,97 +8,66 @@ var stop7 = false;
 var stop8 = false;
 (function() {
     setInterval(function(){
-        try{if(window.location.href == "///https://movieshd4.xyz/high-school-musical-the-musical-the-holiday-special/" && stop1 == false){
-            var bienso = Math.floor(Math.random() * 10);
+        try{if(window.location.href == "https://movieshd4.xyz/high-school-musical-the-musical-the-holiday-special/" && stop1 == false){
+            var bienso = Math.floor(Math.random() * 5);
             console.log(bienso)
             stop1 = true;
         }}catch(e){}
         try{if(bienso == 0 && stop2 == false){
-            window.location.href = "https://movieshd4.xyz/lou/"
+            window.location.href = "https://movieshd4.xyz/ashgrove/"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 1 && stop2 == false){
-            window.location.href = "https://movieshd4.xyz/bullet-train/"
+            window.location.href = "https://movieshd4.xyz/beauty-and-the-beast-a-30th-celebration/"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 2 && stop2 == false){
-            window.location.href = "https://movieshd4.xyz/maika/"
+            window.location.href = "https://movieshd4.xyz/high-heat/"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 3 && stop2 == false){
-            window.location.href = "https://movieshd4.xyz/in-isolation/"
+            window.location.href = "https://movieshd4.xyz/the-amazing-maurice/"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 4 && stop2 == false){
-            window.location.href = "https://movieshd4.xyz/a-love-song/"
+            window.location.href = "https://movieshd4.xyz/the-fabelmans/"
             stop2 = true;
         }}catch(e){}
-        try{if(bienso == 5 && stop2 == false){
-            window.location.href = "https://movieshd4.xyz/luckiest-girl-alive/"
-            stop2 = true;
-        }}catch(e){}
-        try{if(bienso == 6 && stop2 == false){
-            window.location.href = "https://movieshd4.xyz/hellraiser/"
-            stop2 = true;
-        }}catch(e){}
-        try{if(bienso == 7 && stop2 == false){
-            window.location.href = "https://movieshd4.xyz/jujutsu-kaisen-0-the-movie/"
-            stop2 = true;
-        }}catch(e){}
-        try{if(bienso == 8 && stop2 == false){
-            window.location.href = "https://movieshd4.xyz/gods-country/"
-            stop2 = true;
-        }}catch(e){}
-        try{if(bienso == 9 && stop2 == false){
-            window.location.href = "https://movieshd4.xyz/mk-ultra/"
-            stop2 = true;
-        }}catch(e){}
-        try{if(window.location.href == "https://movieshd4.xyz/lou/" && stop4 == false){
-            window.location.href = "https://motor-money.biz/EV7iAk"
+        try{if(window.location.href == "https://movieshd4.xyz/ashgrove/" && stop4 == false){
+            window.location.href = "https://siiu.us/OhIfx"
             stop4 = true;
         }}catch(e){}
-        try{if(window.location.href == "https://movieshd4.xyz/bullet-train/" && stop4 == false){
-            window.location.href = "https://motor-money.biz/pK7mZ"
+        try{if(window.location.href == "https://movieshd4.xyz/beauty-and-the-beast-a-30th-celebration/" && stop4 == false){
+            window.location.href = "https://siiu.us/dvusPWdO"
             stop4 = true;
         }}catch(e){}
-        try{if(window.location.href == "https://movieshd4.xyz/maika/" && stop4 == false){
-            window.location.href = "https://motor-money.biz/YAFMBB"
+        try{if(window.location.href == "https://movieshd4.xyz/high-heat/" && stop4 == false){
+            window.location.href = "https://siiu.us/AZhhNT"
             stop4 = true;
         }}catch(e){}
-        try{if(window.location.href == "https://movieshd4.xyz/in-isolation/" && stop4 == false){
-            window.location.href = "https://motor-money.biz/WByC"
+        try{if(window.location.href == "https://movieshd4.xyz/the-amazing-maurice/" && stop4 == false){
+            window.location.href = "https://siiu.us/dvBG"
             stop4 = true;
         }}catch(e){}
-        try{if(window.location.href == "https://movieshd4.xyz/a-love-song/" && stop4 == false){
-            window.location.href = "https://motor-money.biz/up7l"
+        try{if(window.location.href == "https://movieshd4.xyz/the-fabelmans/" && stop4 == false){
+            window.location.href = "https://siiu.us/W2Zmt3iCSe0"
             stop4 = true;
         }}catch(e){}
-        try{if(window.location.href == "https://movieshd4.xyz/luckiest-girl-alive/" && stop4 == false){
-            window.location.href = "https://motor-money.biz/BrPeTs"
-            stop4 = true;
+        try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop1 == false && window.location.href.includes("captchawork")){
+            setTimeout(function(){document.getElementById("wpsafelinkhuman").click();},3000)
+            stop1 = true;
         }}catch(e){}
-        try{if(window.location.href == "https://movieshd4.xyz/hellraiser/" && stop4 == false){
-            window.location.href = "https://motor-money.biz/RZX0sq"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href == "https://movieshd4.xyz/jujutsu-kaisen-0-the-movie/" && stop4 == false){
-            window.location.href = "https://motor-money.biz/bCvg"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href == "https://movieshd4.xyz/gods-country/" && stop4 == false){
-            window.location.href = "https://motor-money.biz/EHFfbY"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href == "https://movieshd4.xyz/mk-ultra/" && stop4 == false){
-            window.location.href = "https://motor-money.biz/NuJWoLQO"
-            stop4 = true;
-        }}catch(e){}
-         try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop1 == false && window.location.href.includes("motor-money.biz")){
+         try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop1 == false && window.location.href.includes("link2u")){
             setTimeout(function(){document.getElementsByClassName("btn btn-primary btn-captcha")[0].click();},3000)
             stop1 = true;
         }}catch(e){}
-        try{if(document.getElementsByClassName("btn btn-success btn-lg get-link")[0].innerText == "Get Link" && stop1 == false && window.location.href.includes("motor-money.biz")){
+         try{if(document.getElementsByClassName("btn btn-success btn-lg get-link")[0].innerText == "Get Link" && stop1 == false && window.location.href.includes("link2u")){
             setTimeout(function(){document.getElementsByClassName("btn btn-success btn-lg get-link")[0].click();},3000)
+            stop1 = true;
+        }}catch(e){}
+        try{if(document.getElementById("wpsafe-generate").getElementsByTagName("a")[0].getElementsByTagName("img")[0].src == 'https://captchawork.xyz/wp-content/uploads/2021/07/generate-ready.png' && stop1 == false && window.location.href.includes("captchawork")){
+            setTimeout(function(){document.getElementById("wpsafe-generate").getElementsByTagName("a")[0].getElementsByTagName("img")[0].click();},3000)
+            setTimeout(function(){window.location.href = document.getElementById("wpsafe-link").getElementsByTagName("a")[0].getAttribute("onclick").slice(13,document.getElementById("wpsafe-link").getElementsByTagName("a")[0].getAttribute("onclick").lastIndexOf(",")-1);},7000)
             stop1 = true;
         }}catch(e){}
     },6000)
