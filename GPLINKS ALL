@@ -267,9 +267,9 @@ var stop8 = false;
             stop3 = true;
         }}catch(e){}
         try{if(document.getElementsByClassName("btn bt-success")[1].innerText.includes("Dual Tap") && stop3 == false && window.location.href.includes("m.finsurances.co")){
-            setTimeout(function(){document.getElementsByClassName("btn bt-success")[1].click();},6000);
+            setTimeout(function(){document.getElementsByClassName("btn bt-success")[1].click();},25000);
             console.log("1");
-            setTimeout(function(){document.getElementsByClassName("btn bt-success")[2].click();},15000);
+            setTimeout(function(){document.getElementsByClassName("btn bt-success")[2].click();},30000);
             stop3 = true;
         }}catch(e){}
         try{if(document.getElementsByClassName("rock-btn")[0].innerText == "Click Here to Continue" && stop3 == false && window.location.href.includes("techrfour")){
