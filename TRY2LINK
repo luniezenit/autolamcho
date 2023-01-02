@@ -8,102 +8,65 @@ var stop7 = false;
 var stop8 = false;
 (function() {
     setInterval(function(){
-        try{if(window.location.href == "//https://movieshd4.xyz/master-pieces/" && stop1 == false){
-            var bienso = Math.floor(Math.random() * 6);
+        try{if(window.location.href == "https://movieshd4.xyz/master-pieces/" && stop1 == false){
+            var bienso = Math.floor(Math.random() * 5);
             console.log(bienso)
             stop1 = true;
         }}catch(e){}
         try{if(bienso == 0 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1PQpDyrGi5bB9pBXmPn30cws9-ZA7_3ONBEx0P4rVInY"
+            window.location.href = "https://docs.google.com/document/d/1dKLiVcf_une3Y_e-R7L4f1aZcsKpRCLP-VLhEurfz1Y"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 1 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1MF79AEe0dGCpcV37s2KQY4a8rtZm0rf_pJ4CFh7yRhs"
+            window.location.href = "https://docs.google.com/document/d/1qlzPEzpvD9Gn4m7VIyI04fvqDcLuACc4u7O7Kp9fcoA"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 2 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/10QJNYIwZffwG_aOM3pIOaNxNt0PFKjksCS9va51oiMM"
+            window.location.href = "https://docs.google.com/document/d/1lRjn-RQWRI7GEZGFccBMFj0CHfb-4YksS9n7jLJFiSw"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 3 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1B032TWZyRg_CTMv5mxFeL6BId_0EaEpaIJBWT6uY0G4"
+            window.location.href = "https://docs.google.com/document/d/1WdHm5HJeiTKZaqICcYqjPHr6yDMLagbSyR_0A3Kl8WA"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 4 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1Ipiw4uj0Z5MJWnSq9mGBnNDrHbAg1uA-Z1xQq9ZeyZI"
+            window.location.href = "https://docs.google.com/document/d/1hWYX8nB_h_ob_sySe_0VHqciIYiyqs7AIxhS1FXC9bs"
             stop2 = true;
         }}catch(e){}
-        try{if(bienso == 5 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/16Qvw7RsQl8R8c4-clpJwp8XjvePS4ZTz9bxTnevaKR0"
+        try{if(window.location.href.includes("1dKLiVcf_une3Y_e-R7L4f1aZcsKpRCLP-VLhEurfz1Y") && stop4 == false){
+            window.location.href = "https://ppd.phsensei.com/33Kv"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1qlzPEzpvD9Gn4m7VIyI04fvqDcLuACc4u7O7Kp9fcoA") && stop4 == false){
+            window.location.href = "https://ppd.phsensei.com/33Ku"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1lRjn-RQWRI7GEZGFccBMFj0CHfb-4YksS9n7jLJFiSw") && stop4 == false){
+            window.location.href = "https://ppd.phsensei.com/2DJz"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1WdHm5HJeiTKZaqICcYqjPHr6yDMLagbSyR_0A3Kl8WA") && stop4 == false){
+            window.location.href = "https://ppd.phsensei.com/2DJy"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("1hWYX8nB_h_ob_sySe_0VHqciIYiyqs7AIxhS1FXC9bs") && stop4 == false){
+            window.location.href = "https://ppd.phsensei.com/2DJx"
+            stop4 = true;
+        }}catch(e){}
+        try{for(var j=0;j<100;j++){
+            if(document.getElementsByTagName("img")[j].src =="https://cdn.discordapp.com/attachments/937693377573584956/1003666091681251399/linkDownload_1.png"){
+                console.log(j);
+                break;
+            }
+        }}catch(e){}
+         try{if(document.getElementsByTagName("button")[0].innerText == "Continue" && stop2 == false && window.location.href.includes("homeairquality.org")){
+            setTimeout(function(){document.getElementsByTagName("button")[0].click();},5000);
             stop2 = true;
         }}catch(e){}
-        try{if(window.location.href.includes("1PQpDyrGi5bB9pBXmPn30cws9-ZA7_3ONBEx0P4rVInY") && stop4 == false){
-            window.location.href = "https://go.paid4link.com/3O602KP9"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("1MF79AEe0dGCpcV37s2KQY4a8rtZm0rf_pJ4CFh7yRhs") && stop4 == false){
-            window.location.href = "https://go.paid4link.com/SEoru"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("10QJNYIwZffwG_aOM3pIOaNxNt0PFKjksCS9va51oiMM") && stop4 == false){
-            window.location.href = "https://go.paid4link.com/2xoUyc"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("1B032TWZyRg_CTMv5mxFeL6BId_0EaEpaIJBWT6uY0G4") && stop4 == false){
-            window.location.href = "https://go.paid4link.com/H7Sjuy"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("1Ipiw4uj0Z5MJWnSq9mGBnNDrHbAg1uA-Z1xQq9ZeyZI") && stop4 == false){
-            window.location.href = "https://go.paid4link.com/5sAHLvY3"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("16Qvw7RsQl8R8c4-clpJwp8XjvePS4ZTz9bxTnevaKR0") && stop4 == false){
-            window.location.href = "https://go.paid4link.com/DOxrA"
-            stop4 = true;
-        }}catch(e){}
-        try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop1 == false && window.location.href.includes("link.paid4link.net")){
-            setTimeout(function(){document.getElementsByClassName("btn ybtn ybtn-accent-color btn-captcha")[0].click();},3000)
-            stop1 = true;
-        }}catch(e){}
-        try{if(document.getElementById("wpsafelinkhuman").getElementsByTagName("img")[0].src == "https://www.artiskini.com/wp-content/plugins/SafeAdlink%20HIVEcorp./assets/human-verification4.png" && stop1 == false && window.location.href.includes("artiskini")){
-            setTimeout(function(){document.getElementById("wpsafelinkhuman").getElementsByTagName("img")[0].click();},3000)
-            stop1 = true;
-        }}catch(e){}
-        try{if(document.getElementById("wpsafe-generate").getElementsByTagName("img")[0].src == "https://www.artiskini.com/wp-content/uploads/2022/01/open-1.png" && stop1 == false && window.location.href.includes("artiskini")){
-            setTimeout(function(){ setTimeout(function(){window.location.href = document.getElementById("wpsafe-link").getElementsByTagName("a")[0].getAttribute("onclick").slice(13,document.getElementById("wpsafe-link").getElementsByTagName("a")[0].getAttribute("onclick").lastIndexOf(",")-1);},6000)},3000)
-            stop1 = true;
-        }}catch(e){}
-        try{if(document.getElementById("wpsafelinkhuman").getElementsByTagName("img")[0].src == 'https://luangusaha.com/wp-content/plugins/SafeAdlink%20HIVEcorp./assets/human-verification4.png' && stop1 == false && window.location.href.includes("luangusaha")){
-            setTimeout(function(){document.getElementById("wpsafelinkhuman").getElementsByTagName("img")[0].click();},3000)
-            stop1 = true;
-        }}catch(e){}
-        try{if(document.getElementById("wpsafe-generate").getElementsByTagName("img")[0].src == 'https://www.delishwell.com/wp-content/uploads/2022/02/open.png' && stop1 == false && window.location.href.includes("luangusaha")){
-            setTimeout(function(){ setTimeout(function(){window.location.href = document.getElementById("wpsafe-link").getElementsByTagName("a")[0].getAttribute("onclick").slice(13,document.getElementById("wpsafe-link").getElementsByTagName("a")[0].getAttribute("onclick").lastIndexOf(",")-1);},6000)},3000)
-            stop1 = true;
-        }}catch(e){}
-        try{if(document.getElementById("wpsafelinkhuman").getElementsByTagName("img")[0].src == 'https://www.delishwell.com/wp-content/plugins/SafeAdlink%20HIVEcorp./assets/human-verification4.png' && stop1 == false && window.location.href.includes("delishwell")){
-            setTimeout(function(){document.getElementById("wpsafelinkhuman").getElementsByTagName("img")[0].click();},3000)
-            stop1 = true;
-        }}catch(e){}
-        try{if(document.getElementById("wpsafe-generate").getElementsByTagName("img")[0].src == 'https://www.delishwell.com/wp-content/uploads/2022/02/open.png' && stop1 == false && window.location.href.includes("delishwell")){
-            setTimeout(function(){ setTimeout(function(){window.location.href = document.getElementById("wpsafe-link").getElementsByTagName("a")[0].getAttribute("onclick").slice(13,document.getElementById("wpsafe-link").getElementsByTagName("a")[0].getAttribute("onclick").lastIndexOf(",")-1);},6000)},3000)
-            stop1 = true;
-        }}catch(e){}
-        try{if(document.getElementById("wpsafelinkhuman").getElementsByTagName("img")[0].src == 'https://model-tas-terbaru.com/wp-content/plugins/SafeAdlink%20HIVEcorp./assets/human-verification4.png' && stop1 == false && window.location.href.includes("model-tas-terbaru")){
-            setTimeout(function(){document.getElementById("wpsafelinkhuman").getElementsByTagName("img")[0].click();},3000)
-            stop1 = true;
-        }}catch(e){}
-        try{if(document.getElementById("wpsafe-generate").getElementsByTagName("img")[0].src == 'https://model-tas-terbaru.com/wp-content/uploads/2022/02/open-1.png' && stop1 == false && window.location.href.includes("model-tas-terbaru")){
-            setTimeout(function(){ setTimeout(function(){window.location.href = document.getElementById("wpsafe-link").getElementsByTagName("a")[0].getAttribute("onclick").slice(13,document.getElementById("wpsafe-link").getElementsByTagName("a")[0].getAttribute("onclick").lastIndexOf(",")-1);},6000)},3000)
-            stop1 = true;
-        }}catch(e){}
-        try{if(document.getElementsByClassName("timer")[0].innerText == "0" && stop1 == false && window.location.href.includes("link.paid4link.net")){
-            setTimeout(function(){document.getElementsByClassName("btn ybtn ybtn-accent-color get-link")[0].click();},3000)
-            setTimeout(function(){document.getElementsByClassName("btn ybtn ybtn-accent-color get-link")[0].click();},6000)
-            setTimeout(function(){document.getElementsByClassName("btn ybtn ybtn-accent-color get-link")[0].click();},9000)
-            setTimeout(function(){document.getElementsByClassName("btn ybtn ybtn-accent-color get-link")[0].click();},12000)
-            setTimeout(function(){document.getElementsByClassName("btn ybtn ybtn-accent-color get-link")[0].click();},15000)
-            stop1 = true;
+        try{if(document.getElementsByTagName("button")[0].innerText == "Get Link" && stop3 == false && window.location.href.includes("homeairquality.org")){
+            setTimeout(function(){document.getElementsByTagName("button")[0].click();},3000);
+            setTimeout(function(){document.getElementsByTagName("img")[j].click();},20000);
+            stop3 = true;
         }}catch(e){}
     },6000)
 })();
