@@ -153,5 +153,17 @@ var stop8 = false;
             setTimeout(function(){document.getElementsByClassName("btn btn-primary btn-captcha")[0].click();},3000)
             stop3 = true;
         }}catch(e){}
+        try{if(document.getElementById("wpsafe-time").innerText == "1" && stop3 == false && window.location.href.includes("techyreviewx.com")){
+            setTimeout(function(){document.getElementsByTagName("button")[1].getElementsByTagName("span")[1].click();},3000)
+            stop3 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("vignette") && stop3 == false && window.location.href.includes("techyreviewx.com")){
+            setTimeout(function(){document.getElementsByTagName("button")[1].getElementsByTagName("span")[1].click();},3000)
+            stop3 = true;
+        }}catch(e){}
+        try{if(document.getElementsByClassName("text text-center")[0].innerText.includes("Click button below to start download") && stop3 == false && window.location.href.includes("techyreviewx.com")){
+            setTimeout(function(){document.getElementsByTagName("button")[1].getElementsByTagName("span")[1].click();},3000)
+            stop3 = true;
+        }}catch(e){}
     },6000)
 })();
