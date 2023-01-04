@@ -8,94 +8,81 @@ var stop7 = false;
 var stop8 = false;
 (function() {
     setInterval(function(){
-        try{if(window.location.href == "//https://movieshd4.xyz/summerland/" && stop1 == false){
-            var bienso = Math.floor(Math.random() * 6);
+        try{if(window.location.href == "https://movieshd4.xyz/summerland/" && stop1 == false){
+            var bienso = Math.floor(Math.random() * 5);
             console.log(bienso)
             stop1 = true;
         }}catch(e){}
         try{if(bienso == 0 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1-4lnktpiVNOxmJT5NqJcJG-JesYoDcX02MuETTqUBus"
+            window.location.href = "https://movieshd4.xyz/dead-bride/"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 1 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/156iPgFomH0eWAVzIIu5as-JQmFPMZ5_7Vk5_eWvsk8Q"
+            window.location.href = "https://movieshd4.xyz/something-in-the-dirt/"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 2 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1BPyoPA0wYh2Cc8IG8MwucKrTe3QKsYsDXS_t0HL50EQ"
+            window.location.href = "https://movieshd4.xyz/the-last-heist/"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 3 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1TFVAUJTIURuMIyy8ia3Q-S8h6wRKqEbG0d8PVUDJfvo"
+            window.location.href = "https://movieshd4.xyz/dont-fuck-in-the-woods-2/"
             stop2 = true;
         }}catch(e){}
         try{if(bienso == 4 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1LBfzngY_ehNiPjxeW0nJpbEWxS6wqAzyFVT0rCJsr0s"
+            window.location.href = "https://movieshd4.xyz/bl-metamorphosis/"
             stop2 = true;
         }}catch(e){}
-        try{if(bienso == 5 && stop2 == false){
-            window.location.href = "https://docs.google.com/document/d/1WJMehNST83s0Ehnld114Asvn-UsQ3h9MrzRc7ChpiLU"
+        try{if(window.location.href == "https://movieshd4.xyz/dead-bride/" && stop4 == false){
+            window.location.href = "https://cutp.in/R5CiB"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/something-in-the-dirt/" && stop4 == false){
+            window.location.href = "https://cutp.in/EYsM"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/the-last-heist/" && stop4 == false){
+            window.location.href = "https://cutp.in/PZ8gk4"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/dont-fuck-in-the-woods-2/" && stop4 == false){
+            window.location.href = "https://cutp.in/8wU8Z0ot"
+            stop4 = true;
+        }}catch(e){}
+        try{if(window.location.href == "https://movieshd4.xyz/bl-metamorphosis/" && stop4 == false){
+            window.location.href = "https://cutp.in/MPi7gm"
+            stop4 = true;
+        }}catch(e){}
+        try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop2 == false && window.location.href.includes("mobitaak.com")){
+            setTimeout(function(){document.getElementsByClassName("submitBtn btn btn-primary")[0].click();},3000);
+            setTimeout(function(){document.getElementsByClassName("submitBtn btn btn-primary")[1].click();},6000);
             stop2 = true;
         }}catch(e){}
-        try{if(window.location.href.includes("1-4lnktpiVNOxmJT5NqJcJG-JesYoDcX02MuETTqUBus") && stop4 == false){
-            window.location.href = "https://clks.pro/pFmXRVmP"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("156iPgFomH0eWAVzIIu5as-JQmFPMZ5_7Vk5_eWvsk8Q") && stop4 == false){
-            window.location.href = "https://clks.pro/Uynlb"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("1BPyoPA0wYh2Cc8IG8MwucKrTe3QKsYsDXS_t0HL50EQ") && stop4 == false){
-            window.location.href = "https://clks.pro/jtclm"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("1TFVAUJTIURuMIyy8ia3Q-S8h6wRKqEbG0d8PVUDJfvo") && stop4 == false){
-            window.location.href = "https://clks.pro/k1B2avP"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("1LBfzngY_ehNiPjxeW0nJpbEWxS6wqAzyFVT0rCJsr0s") && stop4 == false){
-            window.location.href = "https://clks.pro/GqQPVE"
-            stop4 = true;
-        }}catch(e){}
-        try{if(window.location.href.includes("1WJMehNST83s0Ehnld114Asvn-UsQ3h9MrzRc7ChpiLU") && stop4 == false){
-            window.location.href = "https://clks.pro/lFFRXt"
-            stop4 = true;
-        }}catch(e){}
-        try{for(var u=0;u<100;u++){
-            if(document.getElementsByTagName("button")[u].innerHTML.includes("Get Link")){
-                console.log(u);
-                break;
-            }
-        }}catch(e){}
-        try{for(var j=25;j<200;j++){
-            if(document.getElementsByTagName("div")[j].innerHTML.includes("g-recaptcha")){
-                console.log(j);
-                break;
-            }
-        }}catch(e){}
-        try{if(document.getElementsByClassName("g-recaptcha-response")[0].innerHTML.includes("03A") && stop3 == false && window.location.href.includes("blog.mdn.lol")){
-            setTimeout(function(){document.getElementsByTagName("input")[1].click();},3000);
-            stop2 = true;
-        }}catch(e){}
-        try{if(document.getElementsByClassName("alert alert-info")[0].innerText.includes("Click the ad, scroll and press") && stop2 == false && window.location.href.includes("techydino.net")){
-            setTimeout(function(){document.getElementsByTagName("button")[u].click();},3000);
-            stop2 = true;
-        }}catch(e){}
-        try{if(document.getElementsByClassName("alert alert-info")[0].innerText.includes("Click the ad, scroll and press") && stop3 == false && window.location.href.includes("mdn.lol")){
-            setTimeout(function(){document.getElementsByTagName("button")[u].click();},6000);
+        try{if(document.getElementsByClassName("timer")[0].innerText == "0" && stop3 == false && window.location.href.includes("healdad")){
+            setTimeout(function(){document.getElementsByClassName("btn-title")[0].click();},3000);
+            setTimeout(function(){document.getElementsByClassName("go-step")[0].click();},6000);
             stop3 = true;
         }}catch(e){}
-        try{if(document.getElementById("click").innerText.includes("captcha") && stop2 == false && window.location.href.includes("blog.mdn.lol")){
-            setTimeout(function(){document.getElementsByTagName("div")[j].style.display = "block"},20000);
+        try{if(document.getElementsByClassName("timer")[0].innerText == "0" && stop3 == false && window.location.href.includes("gamalk-sehetk")){
+            setTimeout(function(){document.getElementsByClassName("btn-title")[0].click();},3000);
+            setTimeout(function(){document.getElementsByClassName("go-step")[0].click();},6000);
+            stop3 = true;
+        }}catch(e){}
+        try{if(window.location.href.includes("vignette") && stop2 == false && window.location.href.includes("healdad")){
+            setTimeout(function(){document.getElementsByClassName("go-step")[0].click();},3000);
             stop2 = true;
         }}catch(e){}
-        try{if(document.getElementById("seconds").innerText == "seconds" && stop3 == false && window.location.href.includes("blog.mdn.lol")){
-            setTimeout(function(){document.getElementsByTagName("input")[1].click();},3000);
-            stop3 = true;
+        try{if(window.location.href.includes("vignette") && stop2 == false && window.location.href.includes("mobitaak.com")){
+            setTimeout(function(){document.getElementsByClassName("go-step")[0].click();},3000);
+            stop2 = true;
         }}catch(e){}
-         try{if(document.getElementById("click").innerText.includes("Click the ad below to get link") && stop3 == false && window.location.href.includes("blog.mdn.lol")){
-            setTimeout(function(){document.getElementsByTagName("input")[1].click();},3000);
-            stop3 = true;
+        try{if(window.location.href.includes("vignette") && stop2 == false && window.location.href.includes("gamalk-sehetk")){
+            setTimeout(function(){document.getElementsByClassName("go-step")[0].click();},3000);
+            stop2 = true;
+        }}catch(e){}
+        try{if(document.getElementsByClassName("timer")[0].innerText == "0" && stop2 == false && window.location.href.includes("cutp.in")){
+            setTimeout(function(){document.getElementsByClassName("btn btn-primary btn-goo get-link")[0].click();},3000);
+            stop2 = true;
         }}catch(e){}
     },6000)
 })();
